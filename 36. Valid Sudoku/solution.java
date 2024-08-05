@@ -34,17 +34,16 @@ class Solution {
         return true ; 
     }
 
-    public boolean isValidSudoku(char[][] board) {
+    public boolean isValidSudoku(char[][] board) { 
+        if (!validRow(board)) return false;
+        if (!validCol(board)) return false;
         HashSet<Character> set = new HashSet<>() ; 
         for(int i=0 ; i<9 ; i=i+3){
             for(int j=0 ; j<9 ; j=j+3 ){
                 if(  !validSub( board , i , j   )  ) return false ; 
             }
         }
-        if( validRow( board ) && validCol(board) ){
-            return true ; 
-        }
-        return false ;
+        return true ;
 
     }
 }
