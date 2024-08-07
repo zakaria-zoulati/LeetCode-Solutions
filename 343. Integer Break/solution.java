@@ -7,7 +7,7 @@ class Solution {
         dp[1] = 1  ;
         dp[3] = 3 ; 
         for(int i=3 ; i<=n ; ++i){
-            for(int j=1 ; j<=i/2  ; ++j){
+            for(int j=2 ; j<=i/2  ; ++j){
                 dp[i] = Math.max( dp[i-j]*dp[j],dp[i] ) ; 
             }
         }
