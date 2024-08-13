@@ -1,8 +1,7 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int max  = (int) 1e5 ; 
-        max++ ; 
-        int dif = (int) 1e4 ; 
+        int dif = (int) 1e4 ;
+        int max  = 2*dif +1 ; 
         int n = nums.length ; 
         ArrayList<Integer> arr = new ArrayList<>() ; 
         int rs = 0 ;
@@ -14,9 +13,7 @@ class Solution {
             int pos = 0 ; 
             pos = Collections.binarySearch(arr, nums[i] );
             if( !arr.contains( nums[i] )){
-                if (pos < 0) {
-                    pos = -(pos + 1);  
-                }
+                pos = -(pos + 1);  
                 if (pos < arr.size()) {
                     arr.set(pos, nums[i] ); 
                 } else {
