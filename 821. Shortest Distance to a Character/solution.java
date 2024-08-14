@@ -1,30 +1,34 @@
 class Solution {
     public int[] shortestToChar(String s, char c) {
         int n = s.length() ; 
-        ArrayList<Integer> arr = new ArrayList<>() ; 
-        for(int i=0 ;i<n ;++i ){
+        int[] arr = new int[n] ; 
+        int helper = 0 ; 
+        for(int i=n-1 ;i>=0 ; --i ){
             if(  s.charAt(i)  == c ){
-                arr.add(i) ; 
+                helper = i ; 
             }
+            arr[i] = helper - i  ; 
         }
-        int len = arr.size() ;
         int[] rs = new int[n] ; 
-        int current = 0 ; 
-        int ok = arr.get(0) ; 
-        for(int i=0 ; i<=ok  ; ++i ){
-            rs[current++] = ok - i  ; 
-        }
-        for(int i=0 ; i<len-1 ; ++i){
-            for(int j = arr.get(i)+1 ; j<arr.get(i+1) ; ++j ){
-                 rs[current] = Math.min( Math.abs( current - arr.get(i) ) , Math.abs( current - arr.get(i+1) )) ; 
-                 current++ ; 
+        int inter = 0 ;
+        boolean flag = false ; 
+        for(int i=0 ; i<n ; ++i){
+            if( s.charAt(i) == c ){
+                inter = i ; 
+                flag = true ; 
             }
-            rs[current++] = 0 ;
+            if( flag ){
+                if( arr[i] >0 ){
+                    rs[i] = Math.min( arr[i] , i-inter ) ; 
+                }else {
+                    rs[i] = i - inter ;
+                }
+            }else{
+                rs[i] = arr[i] ; 
+            }
+           
         }
-        int inter = arr.get( len -1 ) ; 
-        for(int i= arr.get( len -1 ) +1 ; i<n ; ++i ){
-            rs[current++] = i - inter ; 
-        }
+
         return rs ; 
     }
 }
