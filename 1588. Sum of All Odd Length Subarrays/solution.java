@@ -2,14 +2,15 @@ class Solution {
     public int sumOddLengthSubarrays(int[] arr) {
         int n = arr.length ; 
         int rs = 0 ;
-        for(int i=1 ; i<n; ++i){
-            arr[i] += arr[i-1] ; 
-        }
-        for(int i=1; i<=n ; i+=2){
-            rs += arr[i-1] ; 
-            for(int j=i ; j<n ; ++j){
-                rs += arr[j] - arr[j-i] ;     
+        for(int i=0 ; i<n ; ++i){
+            int start = i+1 ; 
+            int end = n-i ; 
+            int total = start*end ; 
+            int odds = total/2 ; 
+            if( total % 2 != 0  ){
+                odds++ ; 
             }
+            rs += arr[i]*odds ; 
         }
         return rs ;
     }
