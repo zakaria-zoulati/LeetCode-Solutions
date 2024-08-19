@@ -3,8 +3,15 @@ class Solution {
         int n = nums.length ; 
         Arrays.sort(nums) ; 
         int rs = 0 ; 
-        for(int i=0 ; i<n/2; ++i){
-            rs = Math.max( rs , nums[i] + nums[n-1-i] ) ; 
+        int l = 0 ; 
+        int r = n-1 ; 
+        while(l<r){
+            int sum = nums[l] + nums[r] ; 
+            if( sum > rs ){
+                rs = sum ; 
+            }
+            l++;
+            r-- ; 
         }
         return rs ; 
     }
