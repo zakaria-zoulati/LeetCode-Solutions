@@ -1,15 +1,14 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
-        boolean[] cdt = new boolean[26] ; 
-        int len = allowed.length() ; 
-        for(int i=0 ; i<len ; ++i){
-            cdt[ allowed.charAt(i) - 'a' ] = true ;
+        int[] cdt = new int[26] ; 
+        for( char c : allowed.toCharArray() ){
+            cdt[ c - 'a' ]++ ;
         }
         int n = words.length ; 
         int rs = 0 ; 
-        ok:for(int i=0 ; i<n ; ++i){
-            for(int j=0 ; j < words[i].length() ; ++j ){
-                if( !cdt[ words[i].charAt(j) - 'a' ] ) continue ok ;
+        ok:for( String s : words  ){
+            for( char c : s.toCharArray() ){
+                if( cdt[ c - 'a' ]  == 0 ) continue ok ;
             }
             rs++;
         }
