@@ -6,7 +6,6 @@ class Solution {
         }
         for (int i = 0; i < graph[curr].length; i++) {
             int neighbour = graph[curr][i];
-            
             if (color[neighbour] != -1 && color[curr] == color[neighbour]) {
                 return false; 
             } 
