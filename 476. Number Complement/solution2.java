@@ -3,7 +3,7 @@ class Solution {
        String inter = String.valueOf( num ) ;
        int a = 0 ; 
        int b = num ;
-       while( b!=0  ){
+       while( b !=0  ){
             b >>= 1 ;
             a++ ;
        }
