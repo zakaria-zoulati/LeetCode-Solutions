@@ -1,3 +1,6 @@
+#include <string> 
+
+using namespace std ; 
 class Solution {
 public:
     void swap( string &s , int i , int j ){
