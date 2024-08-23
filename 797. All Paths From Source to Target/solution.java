@@ -2,15 +2,16 @@ class Solution {
     public void backtrack(  List<List<Integer>> rs , boolean[] isSeen , int current  , List<Integer> path , int[][] graph , int n  ){
             if(  path.get( path.size() -1  ) == n-1 ){
                 isSeen[current] = false ; 
-                rs.add( path ) ; 
+                rs.add( new ArrayList<>(path) ) ; 
                 return  ; 
             }
-            for(int i=0 ; i< graph[current].length ; ++i ){
-                if( !isSeen[  graph[current][i]  ] ){
-                    isSeen[ graph[current][i] ] = true ; 
-                    List<Integer> newPath = new ArrayList<>( path ) ; 
-                    newPath.add( graph[current][i] ) ; 
-                    backtrack( rs , isSeen , graph[current][i] ,  newPath , graph , n ) ; 
+            for(int item: graph[current] ){
+                if( !isSeen[ item ] ){
+                    isSeen[ item ] = true ; 
+                    path.add(item) ;
+                    backtrack( rs , isSeen , item ,  path , graph , n ) ; 
+                    path.remove(  path.size() -1 ) ; 
+                    isSeen[item] = false; 
                 }
             }
             isSeen[ current ] = false ; 
