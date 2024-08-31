@@ -1,4 +1,4 @@
-class Solution {
+lass Solution {
     public int findSpecialInteger(int[] arr) {
         int rs = 0 ; 
         int n = arr.length ; 
