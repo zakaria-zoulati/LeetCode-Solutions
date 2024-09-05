@@ -12,7 +12,7 @@ class Solution {
         for(int i=2 ; i<=n ; ++i){ 
             for(int t=i ; t<=i*k ; ++t ){  
                 for(int j = 1; j<=k && t-j>=1  ; ++j){ 
-                    dp[i][t] = ( dp[i][t]  + dp[1][j]*dp[i-1][t-j])%mod ;  
+                    dp[i][t] = ( dp[i][t]  + dp[i-1][t-j])%mod ;  
                 }
             }
         }
