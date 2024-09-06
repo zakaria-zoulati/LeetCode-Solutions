@@ -14,18 +14,25 @@
  * }
  */
 class Solution {
-    public int fill( TreeNode root , int n ){
-        if( root == null) return 0; 
-        int rs = 0 ; 
-        if( root.val >= n ){
-            rs++ ;
-            n = root.val ;
+    public int minDiffInBST(TreeNode root) {
+        
+        List<Integer> values = new ArrayList<>();
+        inOrder(root, values);
+        int result = Integer.MAX_VALUE;
+
+        for(int i = 0; i < values.size() - 1; i++) {
+            result = Math.min(result, values.get(i+1) - values.get(i));
         }
-        rs += fill( root.right , n ) + fill( root.left , n ) ; 
-        return rs ; 
+        return result;
     }
-    public int goodNodes(TreeNode root) {
-        int rs = 1 + fill( root.right , root.val ) + fill( root.left , root.val )   ;
-        return rs ; 
+
+    public  void inOrder(TreeNode node, List<Integer> values) {
+        if(node == null) {
+            return;
+        }
+        inOrder(node.left, values);
+        values.add(node.val);
+        inOrder(node.right, values);
+
     }
 }
