@@ -31,8 +31,6 @@ class Solution {
         if( m>0 ){
             rs += travel[m-1] ; 
         }
-
         return rs ; 
-        
     }
 }
