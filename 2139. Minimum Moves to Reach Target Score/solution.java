@@ -1,4 +1,4 @@
-class Solution {
+class solution {
     public int minMoves(int target, int maxDoubles) {
         int x = 1 ; 
         int rs = 0 ;
