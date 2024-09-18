@@ -11,9 +11,8 @@ class Solution {
         if( num < 0L ){
             long rs = 0L ; 
             for(int i=9 ; i>=0 ; --i){
-                while( all[i] > 0 ){
+                while( all[i]-- > 0 ){
                     rs = rs*10 + i ; 
-                    all[i]-- ; 
                 }
             }
             return -rs ; 
@@ -24,19 +23,16 @@ class Solution {
             if( all[i] > 0 && flag ){
                 rs = i ; 
                 all[i]-- ; 
-                while( all[0] > 0 ){
+                while( all[0]-- > 0 ){
                     rs *= 10 ; 
-                    all[0]-- ; 
                 }
-                while( all[i] > 0 ){
+                while( all[i]-- > 0 ){
                     rs = rs*10 + i ; 
-                    all[i]-- ; 
                 }
                 flag = false ;
             }else {
-                while( all[i] > 0 ){
+                while( all[i]-- > 0 ){
                     rs = rs*10 + i ; 
-                    all[i]-- ; 
                 }
             }
         }
