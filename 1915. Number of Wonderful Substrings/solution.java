@@ -2,8 +2,6 @@ class Solution {
     public long wonderfulSubstrings(String word) {
         long rs = 0  ; 
         int xor = 0 ; 
-        int odd = 0; 
-        int count = 0 ; 
         HashMap<Integer , Integer> map = new HashMap<>() ; 
         map.put(0,1) ; 
         for( char c : word.toCharArray() ){
