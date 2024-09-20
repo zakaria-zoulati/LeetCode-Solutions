@@ -1,7 +1,7 @@
 class Solution {
     public int getXORSum(int[] arr1, int[] arr2) {
-        long n = arr1.length ; 
-        long m = arr2.length ; 
+        int n = arr1.length ; 
+        int m = arr2.length ; 
         long[] map1 = new long[32] ; 
         long[] map2 = new long[32] ; 
         int rs = 0 ; 
