@@ -5,9 +5,7 @@ class Solution {
         Arrays.sort( nums ) ; 
         int i = 0 ; int j = n-1 ; 
         while( i<j ){
-            rs += nums[j] - nums[i] ; 
-            i++ ; 
-            j-- ; 
+            rs += nums[j--] - nums[i++] ; 
         }
         return rs ; 
     }
