@@ -4,6 +4,9 @@ class Solution {
        Arrays.sort( nums ) ; 
        int left = 0 ; 
        int right = nums.length - 1 ; 
+       while( right >=0 &&  nums[right] >= k ){
+            right-- ; 
+       }
        while( left < right ){
             if( nums[left] + nums[right] == k ){
                 rs++ ; 
@@ -17,4 +20,3 @@ class Solution {
        }
        return rs ; 
     }
-}
