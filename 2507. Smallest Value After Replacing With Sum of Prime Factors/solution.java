@@ -1,12 +1,11 @@
 class Solution {
     public int sumP( int n ){
         int sum = 0 ; 
-        int i=2 ; 
+        int i=3 ; 
         while( n % 2 == 0  ){
             n >>= 1 ; 
             sum += 2 ; 
         }
-        ++i ; 
         while( n > 1 ){
             while( n % i == 0 ){
                 n /= i ; 
