@@ -7,8 +7,7 @@ class Solution {
         }
         int curr = 0 ; 
         for(int i : x ){
-            curr += i ; 
-            if( curr > capacity ) return false ; 
+            if ( (curr += i ) > c)return false; 
         }
         return true  ;
     }
