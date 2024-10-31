@@ -7,7 +7,7 @@ class Solution {
         for(int i = 0; i < n; i++) {
             a[i] = i; 
         }
-        Arrays.sort(a, (x, y) -> Integer.compare(nums[x], nums[y]));
+        Arrays.sort(a, (x, y) -> nums[x] - nums[y] );
         for (int i = 0; i < n; i++) {
             int ind = a[i]; 
             if (marked[ind]) continue;
