@@ -7,7 +7,7 @@ class Solution {
             return true ; 
         }
         while( k!=-1 ){
-            if( s.charAt( k-1 ) != s.charAt( k+1 )) return false ; 
+            if( s.charAt( k-1) != s.charAt( k+1 )) return false ; 
             k = s.indexOf( ' ' , k+1 ) ; 
         }   
         return true ;
