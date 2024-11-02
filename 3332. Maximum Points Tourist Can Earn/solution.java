@@ -16,7 +16,7 @@ class Solution {
             }
         }
         int score = 0 ; 
-        for( int p : dp[k-1] ){
+        for(int p : dp[k-1]){
             if( p > score ) score = p ; 
         }
         return score ; 
