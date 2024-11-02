@@ -10,6 +10,6 @@ class Solution {
             if( s.charAt(k-1) != s.charAt(k+1)) return false ; 
             k = s.indexOf( ' ' , k+1 ) ; 
         }   
-        return true ;
+        return  true ;
     }
 }
