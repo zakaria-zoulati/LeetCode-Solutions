@@ -1,4 +1,4 @@
-public class Solution {
+public class solution {
     public int change(int amount, int[] coins) {
         int[] dp = new int[amount + 1];
         dp[0] = 1;
