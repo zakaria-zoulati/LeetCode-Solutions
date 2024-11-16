@@ -6,7 +6,6 @@ class Solution {
         int n = nums.length ; 
         int[] rs = new int[n-k+1] ; 
         int start = 0 ; 
-        int cu = 0 ; 
         for( int i=1 ; i<k ; ++i ){
             if( nums[i] != nums[i-1] + 1 ){
                 start = i ; 
