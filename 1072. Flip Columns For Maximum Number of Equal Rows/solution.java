@@ -8,9 +8,7 @@ class Solution {
         for( int i=0 ; i<m ; ++i ){
             if( isSeen[i] ) continue ; 
             isSeen[i] = true ; 
-            for(int j=0 ; j<n ; ++j){
-                k[j] = matrix[i][j] ^ 1 ; 
-            }
+            k = matrix[i] ; 
             int co = 1 ;
             for(int j=0 ; j<m ; ++j){
                 if( isSeen[j] ) continue ; 
