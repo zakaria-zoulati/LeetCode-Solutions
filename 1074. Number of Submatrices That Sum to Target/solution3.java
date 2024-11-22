@@ -7,9 +7,10 @@ class Solution {
                 r[j] += r[j - 1];
             }
         }
+        HashMap<Integer, Integer> map = new HashMap<>();
         for (int l = 0; l < m; ++l) {
             for (int right = l; right < m; ++right) {
-                HashMap<Integer, Integer> map = new HashMap<>();
+                map.clear() ; 
                 map.put(0, 1); 
                 int curr = 0;
                 for (int r = 0; r < n; ++r) {
