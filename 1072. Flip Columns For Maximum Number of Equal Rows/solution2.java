@@ -5,7 +5,6 @@ class Solution {
         HashMap< String , Integer > map = new HashMap<>() ;
         for( int i=0 ; i<m ; ++i ){
            StringBuilder inter = new StringBuilder() ; 
-           boolean flag = true ; 
            if( arr[i][0] == 0 ){
                 for( int j=0 ; j<n ; ++j ){
                     inter.append( arr[i][j]) ; 
