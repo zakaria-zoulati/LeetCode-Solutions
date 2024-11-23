@@ -27,7 +27,7 @@ class Solution {
         int b = Math.min( i+k , m-1 ) ; 
         int c = Math.max( j-k , 0 ) ; 
         int d = Math.min( j+k , n-1 ) ; 
-        int diff = ( c-1>=0 ? mat[b][c-1] : 0 ) + ( a-1>=0 ? mat[a-1][d] : 0 ) - ( a-1>=0 && c-1>=0 ? mat[a-1][c-1] : 0 ) ; 
+        int diff = ( c>0 ? mat[b][c-1] : 0 ) + ( a>0 ? mat[a-1][d] : 0 ) - ( a>0 && c>0 ? mat[a-1][c-1] : 0 ) ; 
         rs[i][j] = mat[b][d] - diff ; 
     } 
 }
