@@ -15,7 +15,7 @@ class Solution {
             double e = pq.poll() ; 
             e/=2;
             curr += e ; 
-            pq.add( e ) ; 
+            pq.add(e) ; 
             rs++ ; 
         }
         return rs ;
