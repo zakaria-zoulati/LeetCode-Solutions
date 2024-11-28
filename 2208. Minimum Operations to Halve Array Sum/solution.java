@@ -13,8 +13,9 @@ class Solution {
         sum /= 2 ; 
         while( curr < sum ){
             double e = pq.poll() ; 
-            curr += e/2 ; 
-            pq.add( e/2 ) ; 
+            e/=2;
+            curr += e ; 
+            pq.add( e ) ; 
             rs++ ; 
         }
         return rs ;
