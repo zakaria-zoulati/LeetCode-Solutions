@@ -2,7 +2,7 @@ class Solution {
     public long totalCost(int[] costs, int k, int candidates) {
         int n = costs.length ; 
         long rs = 0L ;
-        if( n == k ){
+        if( n==k ){
             for( int i : costs ){
                 rs += i ; 
             }
@@ -20,9 +20,17 @@ class Solution {
         }
         for( int i=0 ; i<k ; ++i ){
             if( front.isEmpty() ){
-                rs += last.poll() ; 
+                rs += last.poll() ;
+                while( i+1<k ){
+                    rs += last.poll() ; 
+                    ++i ; 
+                } 
             }else if( last.isEmpty() ){
                 rs += front.poll() ; 
+                  while( i+1<k ){
+                    rs += front.poll() ; 
+                    ++i ; 
+                } 
             }else {
                 int a = front.peek() ; 
                 int b = last.peek() ; 
@@ -33,7 +41,7 @@ class Solution {
                     }
                 }else {
                     rs += last.poll() ; 
-                    if( f < l -1 ){
+                    if( f < l-1 ){
                         last.add( costs[--l] ) ; 
                     }
                 }
