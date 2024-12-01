@@ -19,7 +19,6 @@ class Solution {
             last.add( costs[i] ) ; 
         }
         for( int i=0 ; i<k ; ++i ){
-            if( front.isEmpty() && last.isEmpty() ) break ; 
             if( front.isEmpty() ){
                 rs += last.poll() ; 
             }else if( last.isEmpty() ){
