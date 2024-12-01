@@ -1,6 +1,5 @@
 class Solution {
     public int minRectanglesToCoverPoints(int[][] points, int w) {
-        int n = points.length ; 
         Arrays.sort( points , (a,b) -> a[0] - b[0] );
         int rs = 0 ; 
         int rightBound = -1 ; 
