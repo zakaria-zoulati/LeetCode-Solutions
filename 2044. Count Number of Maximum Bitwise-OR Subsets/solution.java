@@ -1,7 +1,6 @@
-class Solution {
+class solution {
     int rs = 0 ; 
     public int countMaxOrSubsets(int[] nums) {
-        int n = nums.length ; 
         int m = 0 ;
         for( int i : nums ){
             m |= i ; 
