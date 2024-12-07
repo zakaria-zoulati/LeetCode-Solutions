@@ -2,7 +2,6 @@ class Solution {
     public int minimumSize(int[] nums, int ops) {
         Arrays.sort( nums ) ; 
         int n = nums.length ; 
-        int rs = 0 ; 
         int left = 1 ; 
         int right = nums[n-1] ; 
         while( left < right ){
