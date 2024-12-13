@@ -3,20 +3,23 @@ class Solution {
     public int numTilePossibilities(String tiles) {
         int[] f = new int[26] ; 
         for( char c : tiles.toCharArray() ){
-            f[ c - 'A']++ ; 
+            f[c - 'A']++ ; 
         } 
         for( int i=0 ; i<26 ; ++i ){
-            backtrack( f , i ) ; 
+            if( f[i] > 0 ){
+                backtrack( f , i ) ; 
+            }
         } 
         return rs ; 
     }
     public void backtrack( int[] f , int in ){
-        if( f[in] == 0 ) return ; 
-        f[in]-- ; 
-        rs += 1 ; 
+        --f[in] ; 
+        ++rs ; 
         for( int i=0 ; i<26 ; ++i ){
-            backtrack( f , i ) ; 
+            if( f[i] > 0 ){
+                backtrack( f , i ) ; 
+            }
         }
-        f[in]++ ; 
+        ++f[in] ; 
     }
 }
