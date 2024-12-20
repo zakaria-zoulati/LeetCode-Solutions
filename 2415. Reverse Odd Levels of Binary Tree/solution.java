@@ -23,7 +23,7 @@ class Solution {
             if( flag ){
                 int left = 0 ; 
                 int right = in ; 
-                while( left <= right ){
+                while( left < right ){
                     swap( ele[left++] , ele[right--] ) ; 
                 } 
             }
