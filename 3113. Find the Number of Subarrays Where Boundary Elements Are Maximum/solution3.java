@@ -1,18 +1,15 @@
+import java.util.*  ;
 class Solution {
     public long numberOfSubarrays(int[] nums) {
-        Deque<int[]> stk = new ArrayDeque<>();
-        long ans = 0;
-        for (int x : nums) {
-            while (!stk.isEmpty() && stk.peek()[0] < x) {
-                stk.pop();
-            }
-            if (stk.isEmpty() || stk.peek()[0] > x) {
-                stk.push(new int[] {x, 1});
-            } else {
-                stk.peek()[1]++;
-            }
-            ans += stk.peek()[1];
+        Deque<int[]> s = new ArrayDeque<>();
+        long res = 0;
+        for (int c : nums) {
+            while (s.size() > 0 && s.peek()[0] < c)
+                s.pop();
+            if (s.size() == 0 || s.peek()[0] > c)
+                s.push(new int[]{c, 0});
+            res += ++s.peek()[1];
         }
-        return ans;
+        return res;
     }
 }
