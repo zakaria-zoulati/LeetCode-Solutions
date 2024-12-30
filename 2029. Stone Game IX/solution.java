@@ -11,14 +11,10 @@ class Solution {
         int curr = 0 ; 
         if( m[1] > 0 ){  
             curr = Math.min( m[1]-1 , m[2] ) ; 
-            if( m[1] - curr > 2 ){
-               if( m[0] % 2 == 1 ){
+            if( m[1] - curr > 2 && m[0] % 2 == 1 ){
                 return true ; 
-               } 
-            }else if( m[2] > curr ) {
-                if( m[0] % 2 == 0 ){
-                    return true ; 
-                }
+            }else if( m[2] > curr && m[0] % 2 == 0 ) {
+                return true ; 
             }
         }
         if( m[2] > 0 ){
