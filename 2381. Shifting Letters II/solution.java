@@ -1,7 +1,6 @@
 class Solution {
     public String shiftingLetters(String s, int[][] shifts) {
         int n = s.length() ; 
-        int m = shifts.length ; // The number of queries
         char[] chars = s.toCharArray() ;
         int[] diff = new int[n+1] ;
         diff[0] = chars[0] - 'a' ; 
