@@ -1,14 +1,16 @@
 class Solution {
     public int minimumLength(String s) {
-        int[] f = new int[128] ; 
-        for(char c : s.toCharArray()){
-            ++f[c] ; 
+        int[] freq = new int[128]; 
+        for (byte c : s.getBytes()) {
+            freq[c]++;
         }
-        int rs = 0 ; 
-        for(int i:f){
-            if(i==0)continue ; 
-            rs += (i+1)%2 + 1 ; 
+        int rs = 0;
+        for (int c:freq){
+            if (c > 0){
+                rs += (c+ 1)&1; 
+                rs += 1;
+            }
         }
-        return rs  ;
+        return rs;
     }
 }
