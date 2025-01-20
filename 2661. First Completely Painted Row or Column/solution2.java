@@ -4,7 +4,7 @@ class Solution {
         int m = mat[0].length ; 
         int k = arr.length ; 
         int[] map = new int[k + 1];
-        for (int i = 0; i<k ; ++i) {
+        for (int i=0; i<k ; ++i) {
             map[arr[i]] = i;
         }
         int ans = Integer.MAX_VALUE;
