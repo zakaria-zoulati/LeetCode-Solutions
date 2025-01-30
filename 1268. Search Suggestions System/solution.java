@@ -20,10 +20,10 @@ class Solution {
             if( childs[i] == null ){
                 childs[i] = new Trie() ; 
             }
-            if( childs[i].words.size() < 3 ){
-                childs[i].words.add( word ) ;
+            if( childs[i].words.size() < 3){
+                childs[i].words.add(word);
             }
-            childs[i].insert( word , in+1 ) ; 
+            childs[i].insert(word,in+1); 
         }
         public void check( List<List<String>> rs , String prefix , int in ){
             if( in == prefix.length() ){
@@ -31,7 +31,7 @@ class Solution {
             }
             int i = map[prefix.charAt(in)] ;
             if( this.childs[i] == null ){
-                childs[i] = new Trie() ; 
+                return ; 
             }
             rs.add( childs[i].words ) ;
             childs[i].check( rs , prefix , in+1 ) ; 
@@ -42,9 +42,12 @@ class Solution {
         List<List<String>> rs = new ArrayList<>() ; 
         Trie root = new Trie() ; 
         for( String i : products ){
-            root.insert( i , 0 ) ; 
+            root.insert(i,0)  ; 
         }
         root.check(rs,searchWord,0); 
+        while( rs.size() < searchWord.length() ){
+            rs.add( new ArrayList<>() ) ; 
+        }
         return rs ; 
     }
 }
