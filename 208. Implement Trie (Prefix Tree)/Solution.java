@@ -1,18 +1,24 @@
 class Trie {
     Trie[] childs ; 
     boolean isEnd ;
+    static int[] map = new int[128] ; 
+    static {
+        for (char i = 'a'; i <= 'z'; ++i) {
+            map[i] = i - 'a';
+        }
+    }
     public Trie() {
         this.childs = new Trie[26] ; 
         this.isEnd = false ; 
     }
     public void insert(String word) {
-        insert( word , 0 ) ; 
+        insert(word,0) ; 
     }
     public boolean search(String word) {
-        return search( word , 0 ) ; 
+        return search(word,0) ; 
     }
     public boolean startsWith(String prefix) {
-        return startsWith( prefix , 0 ) ; 
+        return startsWith(prefix,0) ; 
     }
     // My own methods 
     public void insert( String word , int in ){
@@ -20,7 +26,7 @@ class Trie {
             this.isEnd = true ; 
             return ; 
         }
-        int i = word.charAt(in) - 'a' ; 
+        int i = map[word.charAt(in)] ;
         if( childs[i] == null ){
             childs[i] = new Trie() ; 
         }
@@ -30,7 +36,7 @@ class Trie {
         if( in == prefix.length() ){
             return true ; 
         }
-        int i = prefix.charAt(in) - 'a' ; 
+        int i = map[prefix.charAt(in)] ;
         if( this.childs[i] == null ){
             return false ; 
         }
@@ -40,7 +46,7 @@ class Trie {
         if( in == word.length()){
             return this.isEnd ; 
         }
-        int i = word.charAt(in) - 'a' ; 
+        int i = map[word.charAt(in)] ;
         if( childs[i] == null ){
             return false ; 
         }
