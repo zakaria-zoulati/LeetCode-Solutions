@@ -12,13 +12,23 @@ class Solution {
             this.childs = new Trie[26] ; 
             this.words = new ArrayList<>() ; 
         }
-        public void insert( String word , int in ){
+        public void insertFirst( String word , int in ){
             if( in == word.length() ){
                 return ; 
             }
             int i = map[word.charAt(in)] ;
             if( childs[i] == null ){
                 childs[i] = new Trie() ; 
+            }
+            childs[i].insertFirst(word,in+1); 
+        }
+        public void insert( String word , int in ){
+            if( in == word.length() ){
+                return ; 
+            }
+            int i = map[word.charAt(in)] ;
+            if( childs[i] == null ){
+                return ; 
             }
             if( childs[i].words.size() < 3){
                 childs[i].words.add(word);
@@ -41,6 +51,7 @@ class Solution {
         Arrays.sort( products ) ;
         List<List<String>> rs = new ArrayList<>() ; 
         Trie root = new Trie() ; 
+        root.insertFirst( searchWord , 0 ) ; 
         for( String i : products ){
             root.insert(i,0)  ; 
         }
