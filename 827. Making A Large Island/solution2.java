@@ -4,11 +4,10 @@ class Solution {
     public int largestIsland(int[][] grid) {
         this.n = grid.length ; 
         int in = 2 ; 
-        int[][] rep = new int[n][n] ;
         count = new int[n*n+3] ;  
         for( int i=0 ; i<n ; ++i ){
             for( int j=0 ; j<n ; ++j ){
-                dfs( i , j , grid , rep , in );
+                dfs( i , j , grid  , in );
                 ++in ; 
             }
         }
@@ -49,14 +48,13 @@ class Solution {
         }
         return rs;
     }
-    public void dfs( int i , int j , int[][] g , int[][] rep , int in ){
-        if (i < 0 || i == n || j < 0 || j == n || g[i][j] != 1 || rep[i][j] > 0 ) return;
+    public void dfs( int i , int j , int[][] g , int in ){
+        if (i < 0 || i == n || j < 0 || j == n || g[i][j] != 1 ) return;
         g[i][j] = in ; 
-        rep[i][j] = in ; 
         count[in]++ ; 
-        dfs( i + 1, j , g , rep , in);
-        dfs( i - 1, j , g , rep , in);
-        dfs(i, j - 1 , g , rep , in);
-        dfs(i, j + 1 , g , rep , in);
+        dfs( i + 1, j , g , in);
+        dfs( i - 1, j , g , in);
+        dfs(i, j - 1 , g , in);
+        dfs(i, j + 1 , g , in);
     }
 }
