@@ -1,41 +1,39 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int n = grid.length ; 
-        int m = grid[0].length ; 
-        int rs = 0 ; 
-        int[][] dirs = { {-1,0} , {1,0} , {0,1} , {0,-1} } ; 
-        Queue<int[]> q = new ArrayDeque<>() ; 
-        for( int i=0 ; i<n ; ++i ){
-            for( int j=0 ; j<m ; ++j ){
-                if( grid[i][j] == 2 ){
-                    grid[i][j] = 1 ; 
-                    q.add( new int[]{i,j,0} ) ; 
-                }
+        if(grid == null || grid.length == 0) return 0;
+        Queue<int[]> queue = new LinkedList<>();
+        int m = grid.length;
+        int n = grid[0].length;
+        int fresh = 0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j] == 2)
+                    queue.offer(new int[]{i,j});
+                else if(grid[i][j] == 1)
+                    fresh++;
             }
         }
-        while( !q.isEmpty() ){
-            int[] curr = q.poll() ; 
-            int i = curr[0] ; 
-            int j = curr[1] ; 
-            if( grid[i][j] != 1 ) continue ; 
-            grid[i][j] = -1 ; 
-            rs = Math.max( rs , curr[2] ) ; 
-            for( int[] dir : dirs ){
-                int x = i + dir[0] ; 
-                int y = j + dir[1] ; 
-                if( x>=0 && y>=0 && x<n && y<m && grid[x][y] == 1 ){
-                    q.add( new int[]{ x , y , curr[2] + 1 } ) ; 
+        if(fresh == 0) return 0;
+        int minute = 0;
+        int [][] dirs = new int[][]{{0,1},{0,-1},{-1,0},{1,0}}; // U D L R
+        while(!queue.isEmpty()){
+            int level = queue.size();
+            for(int i=0;i<level;i++){
+                int [] current = queue.poll();
+                int row = current[0];
+                int col = current[1];
+                for(int[] dir:dirs){
+                    int nr = row + dir[0];
+                    int nc = col + dir[1];
+                    if(nr >= 0 && nr < m && nc >= 0 && nc < n && grid[nr][nc] == 1){
+                        queue.offer(new int[]{nr,nc});
+                        grid[nr][nc] = 2;
+                        fresh--;
+                    }
                 }
             }
+            minute++;
         }
-        // Final Check 
-        for( int i=0 ; i<n ; ++i ){
-            for( int j=0 ; j<m ; ++j ){
-                if( grid[i][j] == 1  ){
-                    return -1 ; 
-                }
-            }
-        }
-        return rs ; 
+        return fresh != 0 ? -1 :minute-1;
     }
 }
