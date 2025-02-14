@@ -7,7 +7,6 @@ class Solution {
             left[i] = 1; 
             right[i] = 1 ; 
         }
-
         for( int i=n-2 ; i>=0 ; --i ){
             for( int j=i+1 ; j<n ; ++j ){
                 if( nums[j] < nums[i] ){
@@ -15,7 +14,6 @@ class Solution {
                 }
             }
         }
-
         for( int i=1 ; i<n; ++i ){
             for( int j=0 ; j<i ; ++j ){
                 if( nums[i] > nums[j] ){
@@ -23,15 +21,13 @@ class Solution {
                 }
             }
         }
-
-        int rs = n  ;
+        int rs = -1  ;
         for( int i=1 ; i<n-1 ; ++i ){
             if( left[i] > 1 && right[i] > 1 ){
-                rs = Math.min( n + 1 - left[i]  - right[i] , rs ) ; 
+                rs = Math.max( left[i]+right[i] , rs ) ; 
             }
         }
-
-        return rs ; 
+        return n+1-rs ; 
 
     }
 }
