@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length ; 
         long rs = Long.MIN_VALUE ; 
         long sum = 0L ; 
-        Map< Long , Long > map = new HashMap<>() ;  
+        Map< Long , Long > map = new HashMap<>(n) ;  
         map.put( (long) nums[0] , 0L ) ; 
         sum = nums[0] ; 
         for( int i=1 ; i<n ; ++i ){
