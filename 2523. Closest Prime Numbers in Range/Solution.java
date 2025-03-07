@@ -1,15 +1,15 @@
 class Solution {
-    public boolean isPrime( int n ){
-        if( n == 3  ) return true ; 
-        if( n % 3 == 0 ) return false ; 
-        int i=5 ; 
-        while( i*i <= n ){
-            if( n % i == 0 || n % (i+2) == 0 ){
-                return false ; 
-            }
-            i += 6 ; 
+    public static boolean notPrime[] = new boolean[1_000_001] ; 
+    static {
+        for( int i=4 ; i<=1_000_001 ; i+=2 ){
+            notPrime[i] = true ; 
         }
-        return true ;
+        for( int i=3 ; (long) i*i<1_000_001 ; i += 2 ){
+            if( notPrime[i] ) continue ; 
+            for( int j = i*i ; j<1_000_001 ; j += i ){
+                notPrime[ (int) j] = true ; 
+            }
+        }
     }
     public int[] closestPrimes(int left, int right) {
         int[] rs = new int[]{ -1 , -1  } ; 
@@ -23,7 +23,7 @@ class Solution {
             left++ ; 
         }
         while( left <= right  ){
-            if( isPrime(left) ){
+            if( !notPrime[left] ){
                 if( prev != -1 && left - prev < curr ){
                     rs[0] = prev ; 
                     rs[1] = left ; 
