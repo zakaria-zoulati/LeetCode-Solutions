@@ -2,7 +2,6 @@ class Solution {
     public static boolean notPrime[] = new boolean[1_000_001] ; 
     public static int[] transaction = new int[ 1_000_001 ] ; 
     static {
-        Arrays.fill( transaction , 1_000_001 ) ; 
         notPrime[1] = true ; 
         for( int i=4 ; i<=1_000_001 ; i+=2 ){
             notPrime[i] = true ; 
@@ -11,6 +10,7 @@ class Solution {
         for( int i=3 ; (long) i<1_000_001 ; i += 2 ){
             if( notPrime[i] ) continue ; 
             transaction[ prev ] = i - prev ; 
+            transaction[i] = 1_000_001 ; 
             prev = i ; 
             for( long j = (long) i*i ; j<1_000_001 ; j += i ){
                 notPrime[ (int) j] = true ; 
