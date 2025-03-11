@@ -1,7 +1,7 @@
 class Solution {
     public int numberOfSubstrings(String s) {
         int n = s.length() ; 
-        int[] f = new int[128] ; 
+        int[] f = new int[100] ; 
         int rs = 0 ;
         int left = 0 ; 
         int cdt = 0 ; 
