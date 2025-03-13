@@ -1,31 +1,25 @@
 class Solution {
     public int minMoves(int[] nums, int limit) {
-        int n = nums.length ; 
-        int m = Integer.MIN_VALUE ; 
-        int t = n/2 ; 
-        int curr ;
-        for( int i=0 ; i<t ; ++i ){
-            curr = nums[i]+nums[n-1-i] ; 
-            if( curr > m ) m=curr ;
+        int n = nums.length;
+        int t = n >> 1;
+        int m = 2*limit+2  ;
+        int[] diff = new int[m];
+        for (int l = 0; l < t; ++l) {
+            int r = n - l - 1;
+            int a = Math.min(nums[l], nums[r]) + 1;
+            int b = Math.max(nums[l], nums[r]) + limit;
+            int curr = nums[l] + nums[r];
+            diff[a]--;
+            diff[curr]--;
+            diff[curr+1]++;
+            diff[b+1]++;
         }
-        int[] diff = new int[m+2] ; 
-        int a , b ; 
-        for( int i=0 ; i<t ; ++i ){
-            a = nums[i]<=nums[n-1-i]?nums[i]:nums[n-1-i] ;
-            curr = nums[i]+nums[n-1-i]  ;
-            b = curr-a ; 
-            diff[2] += 2 ; 
-            diff[1+a] -= 1 ; 
-            diff[curr] -= 1 ; 
-            diff[curr+1] += 1 ; 
-            if( b+limit+1 <= m ){
-                diff[b+limit+1] += 1 ; 
-            }
+        int count = n ; 
+        int rs = n;
+        for(int i = 2; i <m-1; ++i) {
+            count += diff[i] ;
+            if( count < rs) rs = count ; 
         }
-        int rs = diff[2] ; 
-        for( int i=2 ; i<=m ; ++i ){
-            if( (diff[i] += diff[i-1]) < rs ) rs = diff[i] ; 
-        }
-        return rs ; 
+        return rs;
     }
 }
