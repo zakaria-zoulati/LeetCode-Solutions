@@ -9,16 +9,15 @@ class Solution {
             int a = Math.min(nums[l], nums[r]) + 1;
             int b = Math.max(nums[l], nums[r]) + limit;
             int curr = nums[l] + nums[r];
+            diff[2] += 2  ; 
             diff[a]--;
             diff[curr]--;
             diff[curr+1]++;
             diff[b+1]++;
         }
-        int count = n ; 
-        int rs = n;
-        for(int i = 2; i <m-1; ++i) {
-            count += diff[i] ;
-            if( count < rs) rs = count ; 
+        int rs = diff[2];
+        for(int i = 3; i <m-1; ++i) {
+            if( ( diff[i] += diff[i-1] ) < rs) rs = diff[i] ; 
         }
         return rs;
     }
