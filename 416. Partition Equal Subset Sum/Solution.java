@@ -1,6 +1,5 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int n = nums.length ; 
         int sum = 0 ; 
         for( int i : nums ) sum += i ; 
         if( sum % 2 == 1 ) return false ; 
