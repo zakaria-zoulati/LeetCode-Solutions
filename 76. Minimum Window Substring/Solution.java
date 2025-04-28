@@ -1,10 +1,4 @@
 class Solution {
-    public boolean check( int[] f  ){
-        for( int i=0 ; i<26 ; ++i ){
-            if( f[i+65] > 0 || f[i+97] > 0 ) return false ; 
-        }
-        return true ; 
-    }
     public String minWindow(String s, String t) {
         int n = s.length() ; 
         int m = t.length() ; 
@@ -15,9 +9,13 @@ class Solution {
         int start = 0 ; 
         int len = Integer.MAX_VALUE ; 
         int rs = -1 ; 
+        int required = 0 ;
+        for( int i : f ) {
+            if( i > 0 ) ++required ; 
+        } 
         for( int i=0 ; i<n ; ++i ){
-            f[ chars[i] ]-- ; 
-            if( check( f ) ){
+            if( --f[chars[i]] == 0 ) required-- ; 
+            if( required == 0  ){
                 while( f[ chars[start] ] < 0 ){
                     f[ chars[start++] ]++ ; 
                 }
