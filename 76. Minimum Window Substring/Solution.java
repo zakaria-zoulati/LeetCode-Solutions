@@ -16,12 +16,11 @@ class Solution {
         int len = Integer.MAX_VALUE ; 
         int rs = -1 ; 
         for( int i=0 ; i<n ; ++i ){
-            f[ chars[i]  ]-- ; 
+            f[ chars[i] ]-- ; 
             if( check( f ) ){
-                while( check(f) ){
+                while( f[ chars[start] ] < 0 ){
                     f[ chars[start++] ]++ ; 
                 }
-                f[ chars[--start] ]-- ; 
                 if( i - start + 1 < len ){
                     len = i - start + 1; 
                     rs = start ; 
