@@ -1,6 +1,6 @@
 class Solution {
     public void fill( int[][] grid ,  int i ,int j , int f , int ele ){
-        if( f == 0 ){
+        if( f == 1 ){
             grid[i][j] = ele ; 
             return ; 
         } 
@@ -12,6 +12,7 @@ class Solution {
     public int[][] specialGrid(int n) {
         int m = 1 << n ; 
         int[][] grid = new int[m][m] ; 
+        if( n == 0 ) return grid ; 
         fill( grid , 0 , 0 , m , m*m -1 ) ; 
         return grid ; 
     }
