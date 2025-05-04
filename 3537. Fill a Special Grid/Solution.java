@@ -4,7 +4,13 @@ class Solution {
         if( f == 1 ){
             grid[i][j] = ele-- ; 
             return ; 
-        } 
+        }else if( f == 2 ){
+            grid[i][j] = ele-- ; 
+            grid[i+1][j] = ele-- ; 
+            grid[i+1][j+1] = ele-- ; 
+            grid[i][j+1] = ele-- ; 
+            return ; 
+        }
         fill( grid , i , j , f/2) ; 
         fill( grid , i + f/2 ,j , f/2 ) ; 
         fill(  grid , i+f/2 , j+f/2 , f/2  ) ; 
