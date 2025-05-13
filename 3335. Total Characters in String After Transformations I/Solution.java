@@ -7,8 +7,8 @@ class Solution {
         }
         int in = 0 ; 
         while( t-- > 0 ){
+            int b = in ; 
             in = (in +25)%26 ; 
-            int b = (in+1)%26;
             f[b] = (f[b] + f[in] ) % mod ; 
         }
         int rs = 0 ; 
