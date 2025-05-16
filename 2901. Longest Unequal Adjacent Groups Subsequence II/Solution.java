@@ -1,13 +1,14 @@
 class Solution {
-    public int HamDist( String a , String b ){
-        int n = a.length() ; 
-        int rs = 0 ; 
-        for( int i=0 ; i<n ; ++i ){
+    public boolean isValid( String a , String b ,int x , int y  ){
+        if( x == y ) return false ; 
+        if( a.length() != b.length() ) return false;
+        int count = 0 ;
+        for( int i=0 ; i<a.length() ; ++i ){
             if( a.charAt(i) != b.charAt(i) ){
-                if( ++rs == 2 ) return rs ; 
+                if( ++count > 1 ) return false ; 
             }
         }
-        return 1 ; 
+        return count == 1 ; 
     }
     public List<String> getWordsInLongestSubsequence(String[] words, int[] groups) {
         int n = groups.length ; 
@@ -17,8 +18,7 @@ class Solution {
         Arrays.fill( parent , -1 ) ; 
         for( int i=n-1 ; i>=0 ; --i ){
             for( int j=i ; j<n ; ++j ){
-                if( groups[i] != groups[j] &&  words[i].length() == words[j].length() 
-                    && HamDist( words[i] , words[j] ) == 1 && dp[j] >= dp[i] ){
+                if( dp[j]>=dp[i] && isValid( words[i] , words[j] , groups[i] , groups[j] ) ){
                     dp[i] = dp[j] + 1; 
                     parent[i] = j ; 
                 }
