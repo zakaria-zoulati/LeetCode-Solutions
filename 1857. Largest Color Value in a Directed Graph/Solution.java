@@ -2,10 +2,10 @@ class Solution {
     public int largestPathValue(String colors, int[][] edges) {
         char[] ch = colors.toCharArray() ; 
         int n = colors.length();
-        ArrayList<Integer>[] graph = new ArrayList[n];
+        List<Integer>[] graph = new List[n];
         int[] inDegree = new int[n] ; 
         for (int i = 0; i < n; ++i) {
-            graph[i] = new ArrayList<>();
+            graph[i] = new LinkedList<>();
         }
         for (int[] e : edges) {
             int u = e[0] , v = e[1] ; 
@@ -22,9 +22,8 @@ class Solution {
         int[][] dp = new int[n][26] ;  
         int vis = 0 ; 
         while( !q.isEmpty() ){
-            int node = q.poll() ;
+            int node = q.poll() , curr = ch[node] - 'a' ;
             ++vis ; 
-            int curr = ch[node] - 'a' ; 
             rs = Math.max( rs , ++dp[node][curr] ) ; 
             for( int i : graph[node] ) {
                 for( int c=0; c<26 ; ++c ){
