@@ -1,6 +1,4 @@
-public class Solution {
-    
-}class SmallestInfiniteSet {
+class SmallestInfiniteSet {
     boolean[] nums ; 
     int in = 1 ; 
     public SmallestInfiniteSet() {
