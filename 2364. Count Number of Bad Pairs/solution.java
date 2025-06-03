@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public long countBadPairs(int[] nums) {
         long rs = 0 ;
