@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Trie {
     Trie[] childs = new Trie[26] ; 
     int in = -1 ; 
