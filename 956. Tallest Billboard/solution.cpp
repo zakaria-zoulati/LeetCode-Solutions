@@ -1,7 +1,7 @@
 class Solution {
     public:
         void backtrack( vector<int> &rods , int in ,  int s1 , int s2 , 
-        map<int,pair<int,int>> &diff ){
+        unordered_map<int,pair<int,int>> &diff ){
             if( in == (int) rods.size() ){
                 if( s1 > diff[s1 - s2].first ){
                     diff[s1-s2] = { s1 , s2 } ; 
@@ -21,7 +21,7 @@ class Solution {
             for(int i=n/2 ; i<n ; ++i){
                 v2.push_back(rods[i]) ; 
             }
-            map<int,pair<int,int>> diff1 , diff2 ; 
+            unordered_map<int,pair<int,int>> diff1 , diff2 ; 
             backtrack( v1 , 0 , 0 , 0 , diff1 ) ;
             backtrack( v2 , 0 , 0 , 0 , diff2 ) ;
             int rs = 0 ; 
