@@ -35,17 +35,15 @@ class Solution {
         int in2 = 0 ; 
         int curr = 0 ;
         StringBuilder rs = new StringBuilder() ; 
-        while( in1<n && in2 <m && curr < indices.size() ){
-            if( in1 == indices.get(curr)[0] || in2 == indices.get(curr)[1] ){
-                while( in2 < indices.get(curr)[1] ){
-                    rs.append( s2[in2++] ) ; 
-                }
-                rs.append( s1[in1] ) ;
-                in1++ ; in2++ ; 
-                curr++ ; 
-            }else {
+        while( curr < indices.size() ){
+           if( in1 < indices.get(curr)[0] ){
                 rs.append( s1[in1++] ) ; 
-            }
+           }else if( in2 < indices.get(curr)[1] ){
+                rs.append( s2[in2++] ) ; 
+           }else {
+                rs.append( s1[in1++] ) ; 
+                in2++ ;curr++ ; 
+           }
         } 
         while( in1<n ){
             rs.append( s1[in1++] ) ; 
