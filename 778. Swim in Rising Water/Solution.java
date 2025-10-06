@@ -3,7 +3,6 @@ class Solution {
     static int[][] s ; 
     static int in = -1 ; 
     public boolean check( int[][] grid , int n , int tar ){
-        if( grid[0][0] > tar || grid[n-1][n-1] > tar ) return false ; 
         boolean[][] dp = new boolean[n][n] ; 
         for( int i=0 ; i<n ; ++i ){
             for( int j=0 ; j<n ; ++j ){
@@ -37,8 +36,8 @@ class Solution {
     public int swimInWater(int[][] grid) {
         int n = grid.length ; 
         s = new int[n*n][2] ; 
-        int l = 0 ; 
-        int r = 2500;  
+        int l = Math.max( grid[0][0] , grid[n-1][n-1] ) ; 
+        int r = n*n;  
         while( l < r ){
             int mid = l + ( r - l )/2 ; 
             if( check( grid , n , mid ) ){
