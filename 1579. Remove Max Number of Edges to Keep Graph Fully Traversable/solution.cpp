@@ -11,12 +11,14 @@ class Solution {
             }
             return rep[node] ; 
         }
-        void unite( vector<int> &rep , int a , int b ){
+        bool unite( vector<int> &rep , int a , int b ){
             int r1 = find( rep , a ) ; 
             int r2 = find( rep , b ) ; 
             if( r1 != r2 ){
                 rep[r1] = r2 ; 
+                return false ; 
             }
+            return true ; 
         }
         int maxNumEdgesToRemove(int n, vector<vector<int>>& edges) {
             int m = edges.size(); 
@@ -30,13 +32,7 @@ class Solution {
                 if( edges[i][0] == 3 ){
                     int u = edges[i][1] ; 
                     int v = edges[i][2] ;
-                    int r1 = find( rep , u ) ; 
-                    int r2 = find( rep , v ) ; 
-                    if( r1 == r2 ) {
-                        ans++ ;
-                    }else {
-                        unite( rep , u , v ) ; 
-                    }
+                    if( unite( rep , u , v ) ) ans++ ;  
                 }
             }
             vector<int> rep_alice( n+1 ) ;  
@@ -50,23 +46,11 @@ class Solution {
                 if( t == 1 ){
                     int u = edges[i][1] ; 
                     int v = edges[i][2] ;
-                    int r1 = find( rep_alice , u ) ; 
-                    int r2 = find( rep_alice , v ) ; 
-                    if( r1 == r2 ) {
-                        ans++ ;
-                    }else {
-                        unite( rep_alice , u , v ) ; 
-                    }
+                    if( unite( rep_alice , u , v ) ) ans++ ;  
                 }else if( t == 2 ){
                     int u = edges[i][1] ; 
                     int v = edges[i][2] ;
-                    int r1 = find( rep_bob , u ) ; 
-                    int r2 = find( rep_bob , v ) ; 
-                    if( r1 == r2 ) {
-                        ans++ ;
-                    }else {
-                        unite( rep_bob , u , v ) ; 
-                    }
+                    if( unite( rep_bob , u , v ) ) ans++ ;  
                 }
             }
             int r_alice = find( rep_alice , 1 ) ; 
