@@ -4,8 +4,10 @@ class Solution {
 public:
     bool canJump(vector<int>& nums) {
         // I am thinking in the direction that 0 in nums array is the main problem
-        // if i am at index where nums[i] = 0 or can reach at index before that index where nums[i] = 0
-        // that i cannot reach last index return false
+        // if i am at index where nums[i] = 0
+        // I need to check whether i can go beyond this index or not
+        // if i cannot return false
+        // otherwise go to next index
         int mx_jump = 0;
         for (int i = 0; i < nums.size() - 1; i++) {
             mx_jump = max(mx_jump, i + nums[i]);
