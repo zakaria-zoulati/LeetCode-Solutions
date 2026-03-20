@@ -1,32 +1,31 @@
 class Solution {
-    int a , b ;
-    void ext( int[][] nums , int[][] rs ,int i ,int j , int k ) {
-        int inter = Integer.MAX_VALUE;
-        for( int x = i ; x<i+k ; ++x ){
-            for( int y=j ; y<j+k ; ++y ){
-                for( int xx = i ; xx<i+k ; ++xx ){
-                    for( int yy=j ; yy<j+k ; ++yy ){
-                        if( ( x == xx && y == yy ) || nums[x][y] == nums[xx][yy] ){
-                            continue ;
-                        }
-                        inter = Math.min( inter , Math.abs( nums[x][y] - nums[xx][yy] ) ) ;
+    public int[][] minAbsDiff(int[][] grid, int k) {
+        int n = grid.length ; 
+        int m = grid[0].length ; 
+        int[][] ans = new int[n-k+1][m-k+1] ;
+        if( k == 1 ){
+            return ans ; 
+        }
+        int[] curr = new int[k*k] ; 
+        int in = 0 ; 
+        for( int i=0 ; i<=n-k ; ++i ){
+            for( int j=0 ; j<=m-k ; ++j ){
+                for( int l=0 ; l<k ; ++l ){
+                    for( int r=0 ; r<k ; ++r ){
+                        curr[in++] = grid[i+l][j+r] ;  
                     }
                 }
+                Arrays.sort( curr ) ; 
+                int val = Integer.MAX_VALUE ; 
+                for( int t=1 ; t<k*k ; ++t ){
+                    if( curr[t] != curr[t-1] ){
+                        val = Math.min( val , curr[t] - curr[t-1] ) ; 
+                    }
+                }
+                ans[i][j] = val == Integer.MAX_VALUE ? 0 : val ; 
+                in = 0 ; 
             }
         }
-        rs[i][j] = inter == Integer.MAX_VALUE ? 0 : inter ;
-    }
-    public int[][] minAbsDiff(int[][] grid, int k) {
-        int n = grid.length ;
-        int m = grid[0].length ;
-        this.a = n-k+1 ;
-        this.b = m-k+1 ;
-        int[][] rs = new int[a][b] ;
-        for( int i=0 ; i<a ; ++i ){
-            for( int j=0 ; j<b ; ++j ){
-                ext( grid , rs , i , j , k ) ;
-            }
-        }
-        return rs ;
+        return ans ;  
     }
 }
