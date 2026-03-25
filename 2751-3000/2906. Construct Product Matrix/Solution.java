@@ -23,18 +23,13 @@ class Solution {
         } 
 
         int p = 1 ; 
+        int s = 1 ; 
         for( int i=0 ; i<n ; ++i ){
             for( int j=0 ; j<m ; ++j ){
-                ans[i][j] = p ;  
+                ans[i][j] = ( ans[i][j] * p ) % MOD ; 
                 p = ( p * grid[i][j] ) % MOD ; 
-            }
-        }
-
-        int s = 1 ; 
-        for( int i=n-1 ; i>=0 ; --i ){
-            for( int j=m-1 ; j>=0 ; --j ){
-                ans[i][j] = ( ans[i][j] * s ) % MOD ; 
-                s = ( s * grid[i][j] ) % MOD ; 
+                ans[n-1-i][m-1-j] = ( ans[n-1-i][m-1-j] * s ) % MOD ; 
+                s = ( s * grid[n-1-i][m-1-j] ) % MOD ; 
             }
         }
 
