@@ -27,8 +27,7 @@ class Solution {
                 dp[i][j][2] = Math.max( dp[i][j][2] , Math.max( dp[i-1][j][1] , dp[i][j-1][1] ) ) ;
             }
         }
-        
-        int ans = Math.max( dp[n-1][m-1][0] , Math.max( dp[n-1][m-1][1] , dp[n-1][m-1][2] ) ) ; 
-        return ans ; 
+
+        return dp[n-1][m-1][2] ; 
     }
 }
