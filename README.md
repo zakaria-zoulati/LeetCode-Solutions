@@ -13,6 +13,7 @@ A personal collection of LeetCode problem solutions across multiple languages.
 
 ### By Difficulty
 
-![Solutions by difficulty](https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'Easy'%2C'Medium'%2C'Hard'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B352%2C581%2C94%5D%2CbackgroundColor%3A%5B'rgba(0%2C184%2C163%2C0.85)
+<!-- DIFFICULTY:352:581: -->
+![Solutions by difficulty](https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'Easy'%2C'Medium'%2C'Hard'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B352%2C581%2C%5D%2CbackgroundColor%3A%5B'rgba(0%2C184%2C163%2C0.85)'%2C'rgba(255%2C178%2C0%2C0.85)'%2C'rgba(255%2C99%2C99%2C0.85)'%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Atrue%2Cposition%3A'bottom'%7D%7D%7D%7D&width=300&height=300)
 
 <!-- STATS:END -->
