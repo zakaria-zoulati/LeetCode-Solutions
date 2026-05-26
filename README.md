@@ -19,6 +19,4 @@ A personal collection of LeetCode problem solutions across multiple languages.
 | SQL | 6 |
 | JavaScript | 6 |
 
-> Last updated automatically on push.
-
 <!-- STATS:END -->
