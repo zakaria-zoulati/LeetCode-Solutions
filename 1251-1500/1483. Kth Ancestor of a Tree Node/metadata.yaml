@@ -1,2 +1,6 @@
 name: Kth Ancestor of a Tree Node
 difficulty: Hard
+id: 1483
+url: https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
+tags: []
+languages: [cpp]

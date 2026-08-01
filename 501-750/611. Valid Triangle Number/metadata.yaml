@@ -1,2 +1,6 @@
 name: Valid Triangle Number
 difficulty: Medium
+id: 611
+url: https://leetcode.com/problems/valid-triangle-number/
+tags: []
+languages: [java, python]

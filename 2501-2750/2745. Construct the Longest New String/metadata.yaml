@@ -1,2 +1,6 @@
 name: Construct the Longest New String
 difficulty: Medium
+id: 2745
+url: https://leetcode.com/problems/construct-the-longest-new-string/
+tags: []
+languages: [java]

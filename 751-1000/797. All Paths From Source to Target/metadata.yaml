@@ -1,2 +1,6 @@
 name: All Paths From Source to Target
 difficulty: Medium
+id: 797
+url: https://leetcode.com/problems/all-paths-from-source-to-target/
+tags: []
+languages: [java]

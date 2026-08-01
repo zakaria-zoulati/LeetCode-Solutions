@@ -1,2 +1,6 @@
 name: Count the Number of Special Characters II
 difficulty: Medium
+id: 3121
+url: https://leetcode.com/problems/count-the-number-of-special-characters-ii/
+tags: []
+languages: [cpp, java]

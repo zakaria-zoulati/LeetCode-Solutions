@@ -1,2 +1,6 @@
 name: GCD of Odd and Even Sums
 difficulty: Easy
+id: 3658
+url: https://leetcode.com/problems/gcd-of-odd-and-even-sums/
+tags: []
+languages: [java]

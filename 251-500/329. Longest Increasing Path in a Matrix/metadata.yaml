@@ -1,2 +1,6 @@
 name: Longest Increasing Path in a Matrix
 difficulty: Hard
+id: 329
+url: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+tags: []
+languages: [java]

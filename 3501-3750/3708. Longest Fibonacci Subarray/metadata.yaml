@@ -1,2 +1,6 @@
 name: Longest Fibonacci Subarray
 difficulty: Medium
+id: 3708
+url: https://leetcode.com/problems/longest-fibonacci-subarray/
+tags: []
+languages: [cpp]

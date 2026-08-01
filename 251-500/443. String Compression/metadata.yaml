@@ -1,2 +1,6 @@
 name: String Compression
 difficulty: Medium
+id: 443
+url: https://leetcode.com/problems/string-compression/
+tags: []
+languages: [java, python]

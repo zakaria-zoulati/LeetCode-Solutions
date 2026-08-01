@@ -1,2 +1,6 @@
 name: Reordered Power of 2
 difficulty: Medium
+id: 869
+url: https://leetcode.com/problems/reordered-power-of-2/
+tags: []
+languages: [cpp]

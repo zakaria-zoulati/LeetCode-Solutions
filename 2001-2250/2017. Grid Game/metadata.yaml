@@ -1,2 +1,6 @@
 name: Grid Game
 difficulty: Medium
+id: 2017
+url: https://leetcode.com/problems/grid-game/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Maximum Units on a Truck
 difficulty: Easy
+id: 1710
+url: https://leetcode.com/problems/maximum-units-on-a-truck/
+tags: []
+languages: [java]

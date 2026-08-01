@@ -1,2 +1,6 @@
 name: Continuous Subarrays
 difficulty: Medium
+id: 2762
+url: https://leetcode.com/problems/continuous-subarrays/
+tags: []
+languages: [java]

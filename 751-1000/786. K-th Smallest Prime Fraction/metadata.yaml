@@ -1,2 +1,6 @@
 name: K-th Smallest Prime Fraction
 difficulty: Medium
+id: 786
+url: https://leetcode.com/problems/k-th-smallest-prime-fraction/
+tags: []
+languages: [java]

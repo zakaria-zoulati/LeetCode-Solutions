@@ -1,2 +1,6 @@
 name: Subsequence Sum After Capping Elements
 difficulty: Medium
+id: 3685
+url: https://leetcode.com/problems/subsequence-sum-after-capping-elements/
+tags: []
+languages: [cpp]

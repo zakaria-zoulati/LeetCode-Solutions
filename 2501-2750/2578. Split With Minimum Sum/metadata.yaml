@@ -1,2 +1,6 @@
 name: Split With Minimum Sum
 difficulty: Easy
+id: 2578
+url: https://leetcode.com/problems/split-with-minimum-sum/
+tags: []
+languages: [java]

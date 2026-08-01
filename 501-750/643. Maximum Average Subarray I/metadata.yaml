@@ -1,2 +1,6 @@
 name: Maximum Average Subarray I
 difficulty: Easy
+id: 643
+url: https://leetcode.com/problems/maximum-average-subarray-i/
+tags: []
+languages: [java]

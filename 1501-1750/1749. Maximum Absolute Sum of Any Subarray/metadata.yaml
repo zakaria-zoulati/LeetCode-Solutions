@@ -1,2 +1,6 @@
 name: Maximum Absolute Sum of Any Subarray
 difficulty: Medium
+id: 1749
+url: https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
+tags: []
+languages: [java]

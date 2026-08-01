@@ -1,2 +1,6 @@
 name: Sum of Numbers With Units Digit K
 difficulty: Medium
+id: 2310
+url: https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Next Greater Element I
 difficulty: Easy
+id: 496
+url: https://leetcode.com/problems/next-greater-element-i/
+tags: []
+languages: [java]

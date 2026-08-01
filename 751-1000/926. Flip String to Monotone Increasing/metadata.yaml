@@ -1,2 +1,6 @@
 name: Flip String to Monotone Increasing
 difficulty: Medium
+id: 926
+url: https://leetcode.com/problems/flip-string-to-monotone-increasing/
+tags: []
+languages: [java]

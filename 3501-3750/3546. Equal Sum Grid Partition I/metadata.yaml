@@ -1,2 +1,6 @@
 name: Equal Sum Grid Partition I
 difficulty: Medium
+id: 3546
+url: https://leetcode.com/problems/equal-sum-grid-partition-i/
+tags: []
+languages: [java]

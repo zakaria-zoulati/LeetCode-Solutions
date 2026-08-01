@@ -1,2 +1,6 @@
 name: Count Collisions on a Road
 difficulty: Medium
+id: 2211
+url: https://leetcode.com/problems/count-collisions-on-a-road/
+tags: []
+languages: [cpp]

@@ -1,2 +1,6 @@
 name: Decrypt String from Alphabet to Integer Mapping
 difficulty: Easy
+id: 1309
+url: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+tags: []
+languages: [java]

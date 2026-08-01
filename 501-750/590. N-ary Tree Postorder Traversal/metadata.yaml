@@ -1,2 +1,6 @@
 name: N-ary Tree Postorder Traversal
 difficulty: Easy
+id: 590
+url: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+tags: []
+languages: [java]

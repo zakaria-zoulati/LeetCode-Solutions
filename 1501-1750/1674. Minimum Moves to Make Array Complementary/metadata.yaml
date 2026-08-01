@@ -1,2 +1,6 @@
 name: Minimum Moves to Make Array Complementary
 difficulty: Medium
+id: 1674
+url: https://leetcode.com/problems/minimum-moves-to-make-array-complementary/
+tags: []
+languages: [cpp, java]

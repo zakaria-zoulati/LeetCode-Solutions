@@ -1,2 +1,6 @@
 name: Maximum Manhattan Distance After K Changes
 difficulty: Medium
+id: 3443
+url: https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Find Smallest Letter Greater Than Target
 difficulty: Easy
+id: 744
+url: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+tags: []
+languages: [cpp]

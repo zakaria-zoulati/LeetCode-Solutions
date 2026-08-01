@@ -1,2 +1,6 @@
 name: Count Covered Buildings
 difficulty: Medium
+id: 3531
+url: https://leetcode.com/problems/count-covered-buildings/
+tags: []
+languages: [java]

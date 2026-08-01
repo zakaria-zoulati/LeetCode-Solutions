@@ -1,2 +1,6 @@
 name: Number of Equivalent Domino Pairs
 difficulty: Easy
+id: 1128
+url: https://leetcode.com/problems/number-of-equivalent-domino-pairs/
+tags: []
+languages: [java]

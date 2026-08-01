@@ -1,2 +1,6 @@
 name: 4Sum
 difficulty: Medium
+id: 18
+url: https://leetcode.com/problems/4sum/
+tags: []
+languages: [java]

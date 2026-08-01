@@ -1,2 +1,6 @@
 name: Furthest Point From Origin
 difficulty: Easy
+id: 2833
+url: https://leetcode.com/problems/furthest-point-from-origin/
+tags: []
+languages: [cpp]

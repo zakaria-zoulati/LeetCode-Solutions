@@ -1,2 +1,6 @@
 name: Count Good Numbers
 difficulty: Medium
+id: 1922
+url: https://leetcode.com/problems/count-good-numbers/
+tags: []
+languages: [cpp]

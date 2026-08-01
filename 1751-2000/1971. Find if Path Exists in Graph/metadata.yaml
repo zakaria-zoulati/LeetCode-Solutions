@@ -1,2 +1,6 @@
 name: Find if Path Exists in Graph
 difficulty: Easy
+id: 1971
+url: https://leetcode.com/problems/find-if-path-exists-in-graph/
+tags: []
+languages: [java]

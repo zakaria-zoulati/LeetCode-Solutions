@@ -1,2 +1,6 @@
 name: Construct the Rectangle
 difficulty: Easy
+id: 492
+url: https://leetcode.com/problems/construct-the-rectangle/
+tags: []
+languages: [java]

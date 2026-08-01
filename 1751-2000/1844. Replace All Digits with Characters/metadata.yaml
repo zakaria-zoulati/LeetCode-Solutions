@@ -1,2 +1,6 @@
 name: Replace All Digits with Characters
 difficulty: Easy
+id: 1844
+url: https://leetcode.com/problems/replace-all-digits-with-characters/
+tags: []
+languages: [java]

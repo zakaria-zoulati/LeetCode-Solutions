@@ -1,2 +1,6 @@
 name: Simplify Path
 difficulty: Medium
+id: 71
+url: https://leetcode.com/problems/simplify-path/
+tags: []
+languages: [cpp]

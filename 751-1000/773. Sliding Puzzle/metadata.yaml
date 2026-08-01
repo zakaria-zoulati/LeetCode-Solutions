@@ -1,2 +1,6 @@
 name: Sliding Puzzle
 difficulty: Hard
+id: 773
+url: https://leetcode.com/problems/sliding-puzzle/
+tags: []
+languages: [java]

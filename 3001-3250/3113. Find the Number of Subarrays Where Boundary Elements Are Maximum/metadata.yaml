@@ -1,2 +1,6 @@
 name: Find the Number of Subarrays Where Boundary Elements Are Maximum
 difficulty: Hard
+id: 3113
+url: https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Minimum Sensors to Cover Grid
 difficulty: Medium
+id: 3648
+url: https://leetcode.com/problems/minimum-sensors-to-cover-grid/
+tags: []
+languages: [java]

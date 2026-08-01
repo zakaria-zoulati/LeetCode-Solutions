@@ -1,2 +1,6 @@
 name: Destroying Asteroids
 difficulty: Medium
+id: 2126
+url: https://leetcode.com/problems/destroying-asteroids/
+tags: []
+languages: [java, rust]

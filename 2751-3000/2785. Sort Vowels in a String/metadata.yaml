@@ -1,2 +1,6 @@
 name: Sort Vowels in a String
 difficulty: Medium
+id: 2785
+url: https://leetcode.com/problems/sort-vowels-in-a-string/
+tags: []
+languages: [java]

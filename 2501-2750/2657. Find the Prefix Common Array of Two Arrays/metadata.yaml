@@ -1,2 +1,6 @@
 name: Find the Prefix Common Array of Two Arrays
 difficulty: Medium
+id: 2657
+url: https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
+tags: []
+languages: [go, java]

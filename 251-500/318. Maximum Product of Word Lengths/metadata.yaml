@@ -1,2 +1,6 @@
 name: Maximum Product of Word Lengths
 difficulty: Medium
+id: 318
+url: https://leetcode.com/problems/maximum-product-of-word-lengths/
+tags: []
+languages: [java]

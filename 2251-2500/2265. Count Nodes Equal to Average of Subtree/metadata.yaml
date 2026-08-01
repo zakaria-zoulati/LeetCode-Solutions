@@ -1,2 +1,6 @@
 name: Count Nodes Equal to Average of Subtree
 difficulty: Medium
+id: 2265
+url: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
+tags: []
+languages: [java]

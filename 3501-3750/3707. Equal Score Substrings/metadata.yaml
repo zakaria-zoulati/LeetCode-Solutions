@@ -1,2 +1,6 @@
 name: Equal Score Substrings
 difficulty: Easy
+id: 3707
+url: https://leetcode.com/problems/equal-score-substrings/
+tags: []
+languages: [cpp]

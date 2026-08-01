@@ -1,2 +1,6 @@
 name: Number of Unique Subjects Taught by Each Teacher
 difficulty: Easy
+id: 2356
+url: https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/
+tags: []
+languages: [sql]

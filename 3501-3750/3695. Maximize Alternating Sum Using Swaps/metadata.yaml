@@ -1,2 +1,6 @@
 name: Maximize Alternating Sum Using Swaps
 difficulty: Hard
+id: 3695
+url: https://leetcode.com/problems/maximize-alternating-sum-using-swaps/
+tags: []
+languages: [cpp]

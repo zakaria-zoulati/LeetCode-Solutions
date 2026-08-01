@@ -1,2 +1,6 @@
 name: Minimum Cuts to Divide a Circle
 difficulty: Easy
+id: 2481
+url: https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/
+tags: []
+languages: [java]

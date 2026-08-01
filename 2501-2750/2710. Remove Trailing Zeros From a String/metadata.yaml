@@ -1,2 +1,6 @@
 name: Remove Trailing Zeros From a String
 difficulty: Easy
+id: 2710
+url: https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
+tags: []
+languages: [java]

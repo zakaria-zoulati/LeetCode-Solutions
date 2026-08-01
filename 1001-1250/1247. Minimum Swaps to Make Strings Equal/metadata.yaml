@@ -1,2 +1,6 @@
 name: Minimum Swaps to Make Strings Equal
 difficulty: Medium
+id: 1247
+url: https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
+tags: []
+languages: [java]

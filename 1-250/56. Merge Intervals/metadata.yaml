@@ -1,2 +1,6 @@
 name: Merge Intervals
 difficulty: Medium
+id: 56
+url: https://leetcode.com/problems/merge-intervals/
+tags: []
+languages: [java]

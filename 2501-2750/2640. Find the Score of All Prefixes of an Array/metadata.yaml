@@ -1,2 +1,6 @@
 name: Find the Score of All Prefixes of an Array
 difficulty: Medium
+id: 2640
+url: https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/
+tags: []
+languages: [java]

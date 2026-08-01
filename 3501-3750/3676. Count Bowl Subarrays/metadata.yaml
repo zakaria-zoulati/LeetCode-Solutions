@@ -1,2 +1,6 @@
 name: Count Bowl Subarrays
 difficulty: Medium
+id: 3676
+url: https://leetcode.com/problems/count-bowl-subarrays/
+tags: []
+languages: [java]

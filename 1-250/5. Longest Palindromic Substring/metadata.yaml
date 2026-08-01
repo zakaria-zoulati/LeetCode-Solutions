@@ -1,2 +1,6 @@
 name: Longest Palindromic Substring
 difficulty: Medium
+id: 5
+url: https://leetcode.com/problems/longest-palindromic-substring/
+tags: []
+languages: [java]

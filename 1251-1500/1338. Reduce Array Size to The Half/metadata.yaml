@@ -1,2 +1,6 @@
 name: Reduce Array Size to The Half
 difficulty: Medium
+id: 1338
+url: https://leetcode.com/problems/reduce-array-size-to-the-half/
+tags: []
+languages: [java]

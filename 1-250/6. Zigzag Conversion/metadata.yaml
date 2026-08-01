@@ -1,2 +1,6 @@
 name: Zigzag Conversion
 difficulty: Medium
+id: 6
+url: https://leetcode.com/problems/zigzag-conversion/
+tags: []
+languages: [cpp, java]

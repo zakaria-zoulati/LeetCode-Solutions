@@ -1,2 +1,6 @@
 name: Maximize Sum of At Most K Distinct Elements
 difficulty: Easy
+id: 3684
+url: https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/
+tags: []
+languages: [java]

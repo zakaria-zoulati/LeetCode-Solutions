@@ -1,2 +1,6 @@
 name: Longest Palindrome
 difficulty: Easy
+id: 409
+url: https://leetcode.com/problems/longest-palindrome/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Number of Paths with Max Score
 difficulty: Hard
+id: 1301
+url: https://leetcode.com/problems/number-of-paths-with-max-score/
+tags: []
+languages: [cpp]

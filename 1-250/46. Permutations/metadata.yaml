@@ -1,2 +1,6 @@
 name: Permutations
 difficulty: Medium
+id: 46
+url: https://leetcode.com/problems/permutations/
+tags: []
+languages: [java]

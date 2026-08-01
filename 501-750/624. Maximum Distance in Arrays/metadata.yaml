@@ -1,2 +1,6 @@
 name: Maximum Distance in Arrays
 difficulty: Medium
+id: 624
+url: https://leetcode.com/problems/maximum-distance-in-arrays/
+tags: []
+languages: [java]

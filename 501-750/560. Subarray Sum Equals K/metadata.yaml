@@ -1,2 +1,6 @@
 name: Subarray Sum Equals K
 difficulty: Medium
+id: 560
+url: https://leetcode.com/problems/subarray-sum-equals-k/
+tags: []
+languages: [java]

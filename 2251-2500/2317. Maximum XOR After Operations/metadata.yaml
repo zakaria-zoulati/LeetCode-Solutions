@@ -1,2 +1,6 @@
-name: Maximum XOR After Operations 
+name: Maximum XOR After Operations
 difficulty: Medium
+id: 2317
+url: https://leetcode.com/problems/maximum-xor-after-operations/
+tags: []
+languages: [java]

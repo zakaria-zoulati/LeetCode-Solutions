@@ -1,2 +1,6 @@
 name: Apply Bitwise Operations to Make Strings Equal
 difficulty: Medium
+id: 2546
+url: https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/
+tags: []
+languages: [java]

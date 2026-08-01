@@ -1,2 +1,6 @@
 name: Binary Tree Inorder Traversal
 difficulty: Easy
+id: 94
+url: https://leetcode.com/problems/binary-tree-inorder-traversal/
+tags: []
+languages: [java, python]

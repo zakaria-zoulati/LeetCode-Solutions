@@ -1,2 +1,6 @@
 name: Maximum XOR for Each Query
 difficulty: Medium
+id: 1829
+url: https://leetcode.com/problems/maximum-xor-for-each-query/
+tags: []
+languages: [java]

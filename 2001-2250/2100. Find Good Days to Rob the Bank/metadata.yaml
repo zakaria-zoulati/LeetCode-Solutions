@@ -1,2 +1,6 @@
 name: Find Good Days to Rob the Bank
 difficulty: Medium
+id: 2100
+url: https://leetcode.com/problems/find-good-days-to-rob-the-bank/
+tags: []
+languages: [java]

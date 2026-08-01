@@ -1,2 +1,6 @@
 name: Count Monobit Integers
 difficulty: Easy
+id: 3827
+url: https://leetcode.com/problems/count-monobit-integers/
+tags: []
+languages: [cpp]

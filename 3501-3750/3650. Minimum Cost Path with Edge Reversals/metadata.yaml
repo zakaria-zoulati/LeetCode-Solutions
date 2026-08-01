@@ -1,2 +1,6 @@
 name: Minimum Cost Path with Edge Reversals
 difficulty: Medium
+id: 3650
+url: https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/
+tags: []
+languages: [cpp, java]

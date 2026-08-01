@@ -1,2 +1,6 @@
 name: Circular Sentence
 difficulty: Easy
+id: 2490
+url: https://leetcode.com/problems/circular-sentence/
+tags: []
+languages: [java]

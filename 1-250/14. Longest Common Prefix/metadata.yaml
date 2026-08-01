@@ -1,2 +1,6 @@
 name: Longest Common Prefix
 difficulty: Easy
+id: 14
+url: https://leetcode.com/problems/longest-common-prefix/
+tags: []
+languages: [rust]

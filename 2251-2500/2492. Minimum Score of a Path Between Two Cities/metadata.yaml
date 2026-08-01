@@ -1,2 +1,6 @@
 name: Minimum Score of a Path Between Two Cities
 difficulty: Medium
+id: 2492
+url: https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
+tags: []
+languages: [cpp]

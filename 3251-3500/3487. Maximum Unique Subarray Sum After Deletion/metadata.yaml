@@ -1,2 +1,6 @@
 name: Maximum Unique Subarray Sum After Deletion
 difficulty: Easy
+id: 3487
+url: https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/
+tags: []
+languages: [java]

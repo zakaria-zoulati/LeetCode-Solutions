@@ -1,2 +1,6 @@
 name: Minimum Size Subarray Sum
 difficulty: Medium
+id: 209
+url: https://leetcode.com/problems/minimum-size-subarray-sum/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Ugly Number
 difficulty: Easy
+id: 263
+url: https://leetcode.com/problems/ugly-number/
+tags: []
+languages: [rust]

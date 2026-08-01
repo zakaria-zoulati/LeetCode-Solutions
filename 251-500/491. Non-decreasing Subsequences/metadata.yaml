@@ -1,2 +1,6 @@
 name: Non-decreasing Subsequences
 difficulty: Medium
+id: 491
+url: https://leetcode.com/problems/non-decreasing-subsequences/
+tags: []
+languages: [java]

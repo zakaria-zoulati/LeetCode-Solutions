@@ -1,2 +1,6 @@
 name: Partition Array Such That Maximum Difference Is K
 difficulty: Medium
+id: 2294
+url: https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
+tags: []
+languages: [java]

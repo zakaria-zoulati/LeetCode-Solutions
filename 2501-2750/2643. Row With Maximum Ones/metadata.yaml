@@ -1,2 +1,6 @@
 name: Row With Maximum Ones
 difficulty: Easy
+id: 2643
+url: https://leetcode.com/problems/row-with-maximum-ones/
+tags: []
+languages: [java]

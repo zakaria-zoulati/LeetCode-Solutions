@@ -1,2 +1,6 @@
 name: Prime Number of Set Bits in Binary Representation
 difficulty: Easy
+id: 762
+url: https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+tags: []
+languages: [cpp, python]

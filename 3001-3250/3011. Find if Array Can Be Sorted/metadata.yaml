@@ -1,2 +1,6 @@
 name: Find if Array Can Be Sorted
 difficulty: Medium
+id: 3011
+url: https://leetcode.com/problems/find-if-array-can-be-sorted/
+tags: []
+languages: [java]

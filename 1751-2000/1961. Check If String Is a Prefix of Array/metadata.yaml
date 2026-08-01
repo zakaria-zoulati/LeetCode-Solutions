@@ -1,2 +1,6 @@
 name: Check If String Is a Prefix of Array
 difficulty: Easy
+id: 1961
+url: https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+tags: []
+languages: [java]

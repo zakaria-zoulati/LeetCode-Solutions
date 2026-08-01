@@ -1,2 +1,6 @@
 name: Find Minimum Operations to Make All Elements Divisible by Three
 difficulty: Easy
+id: 3190
+url: https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
+tags: []
+languages: [java]

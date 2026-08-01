@@ -1,2 +1,6 @@
 name: Maximum Level Sum of a Binary Tree
 difficulty: Medium
+id: 1161
+url: https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+tags: []
+languages: [java]

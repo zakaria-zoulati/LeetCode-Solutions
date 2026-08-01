@@ -1,2 +1,6 @@
 name: Number of Stable Subsequences
 difficulty: Hard
+id: 3686
+url: https://leetcode.com/problems/number-of-stable-subsequences/
+tags: []
+languages: [java]

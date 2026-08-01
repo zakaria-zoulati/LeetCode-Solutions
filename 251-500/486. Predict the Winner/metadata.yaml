@@ -1,2 +1,6 @@
 name: Predict the Winner
 difficulty: Medium
+id: 486
+url: https://leetcode.com/problems/predict-the-winner/
+tags: []
+languages: [cpp]

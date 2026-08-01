@@ -1,2 +1,6 @@
 name: Minimum ASCII Delete Sum for Two Strings
 difficulty: Medium
+id: 712
+url: https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Sum of Root To Leaf Binary Numbers
 difficulty: Easy
+id: 1022
+url: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+tags: []
+languages: [java]

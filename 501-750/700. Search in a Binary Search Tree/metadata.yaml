@@ -1,2 +1,6 @@
 name: Search in a Binary Search Tree
 difficulty: Easy
+id: 700
+url: https://leetcode.com/problems/search-in-a-binary-search-tree/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Longest Nice Substring
 difficulty: Easy
+id: 1763
+url: https://leetcode.com/problems/longest-nice-substring/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Minimum Number of Operations to Make Elements in Array Distinct
 difficulty: Easy
+id: 3396
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Remove K Digits
 difficulty: Medium
+id: 402
+url: https://leetcode.com/problems/remove-k-digits/
+tags: []
+languages: [java]

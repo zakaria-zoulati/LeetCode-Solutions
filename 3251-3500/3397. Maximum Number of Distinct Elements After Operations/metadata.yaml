@@ -1,2 +1,6 @@
 name: Maximum Number of Distinct Elements After Operations
 difficulty: Medium
+id: 3397
+url: https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/
+tags: []
+languages: [python]

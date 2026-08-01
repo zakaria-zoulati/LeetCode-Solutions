@@ -1,2 +1,6 @@
 name: Count the Number of Ideal Arrays
 difficulty: Hard
+id: 2338
+url: https://leetcode.com/problems/count-the-number-of-ideal-arrays/
+tags: []
+languages: [java]

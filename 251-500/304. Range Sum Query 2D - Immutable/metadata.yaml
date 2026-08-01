@@ -1,2 +1,6 @@
 name: Range Sum Query 2D - Immutable
 difficulty: Medium
+id: 304
+url: https://leetcode.com/problems/range-sum-query-2d-immutable/
+tags: []
+languages: [java]

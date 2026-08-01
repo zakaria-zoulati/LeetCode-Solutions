@@ -1,2 +1,6 @@
 name: Arithmetic Slices
 difficulty: Medium
+id: 413
+url: https://leetcode.com/problems/arithmetic-slices/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Last Day Where You Can Still Cross
 difficulty: Hard
+id: 1970
+url: https://leetcode.com/problems/last-day-where-you-can-still-cross/
+tags: []
+languages: [java]

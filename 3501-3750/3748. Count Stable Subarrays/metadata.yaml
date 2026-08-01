@@ -1,2 +1,6 @@
 name: Count Stable Subarrays
 difficulty: Hard
+id: 3748
+url: https://leetcode.com/problems/count-stable-subarrays/
+tags: []
+languages: [cpp]

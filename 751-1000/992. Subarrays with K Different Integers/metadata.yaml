@@ -1,2 +1,6 @@
 name: Subarrays with K Different Integers
 difficulty: Hard
+id: 992
+url: https://leetcode.com/problems/subarrays-with-k-different-integers/
+tags: []
+languages: [java]

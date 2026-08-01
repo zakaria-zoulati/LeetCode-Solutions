@@ -1,2 +1,6 @@
 name: Is Graph Bipartite?
 difficulty: Medium
+id: 785
+url: https://leetcode.com/problems/is-graph-bipartite/
+tags: []
+languages: [java]

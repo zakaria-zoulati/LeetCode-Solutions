@@ -1,2 +1,6 @@
 name: Count Valid Prefixes
 difficulty: Easy
+id: 4006
+url: https://leetcode.com/problems/count-valid-prefixes/
+tags: []
+languages: [cpp]

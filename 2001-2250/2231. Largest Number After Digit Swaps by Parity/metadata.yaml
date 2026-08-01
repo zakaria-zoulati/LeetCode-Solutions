@@ -1,2 +1,6 @@
 name: Largest Number After Digit Swaps by Parity
 difficulty: Easy
+id: 2231
+url: https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
+tags: []
+languages: [python]

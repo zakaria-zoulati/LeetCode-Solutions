@@ -1,2 +1,6 @@
 name: Maximum XOR of Subsequences
 difficulty: Hard
+id: 3681
+url: https://leetcode.com/problems/maximum-xor-of-subsequences/
+tags: []
+languages: [cpp]

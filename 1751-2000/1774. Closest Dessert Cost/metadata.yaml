@@ -1,2 +1,6 @@
 name: Closest Dessert Cost
 difficulty: Medium
+id: 1774
+url: https://leetcode.com/problems/closest-dessert-cost/
+tags: []
+languages: [java]

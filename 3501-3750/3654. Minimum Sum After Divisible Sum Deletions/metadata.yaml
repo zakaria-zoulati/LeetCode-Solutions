@@ -1,2 +1,6 @@
 name: Minimum Sum After Divisible Sum Deletions
 difficulty: Medium
+id: 3654
+url: https://leetcode.com/problems/minimum-sum-after-divisible-sum-deletions/
+tags: []
+languages: [java]

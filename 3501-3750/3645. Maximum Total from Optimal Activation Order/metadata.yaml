@@ -1,2 +1,6 @@
 name: Maximum Total from Optimal Activation Order
 difficulty: Medium
+id: 3645
+url: https://leetcode.com/problems/maximum-total-from-optimal-activation-order/
+tags: []
+languages: [java]

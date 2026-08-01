@@ -1,2 +1,6 @@
 name: Minimum Rectangles to Cover Points
 difficulty: Medium
+id: 3111
+url: https://leetcode.com/problems/minimum-rectangles-to-cover-points/
+tags: []
+languages: [java]

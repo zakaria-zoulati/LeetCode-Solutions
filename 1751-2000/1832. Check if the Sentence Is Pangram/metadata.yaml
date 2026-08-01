@@ -1,2 +1,6 @@
 name: Check if the Sentence Is Pangram
 difficulty: Easy
+id: 1832
+url: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+tags: []
+languages: [java]

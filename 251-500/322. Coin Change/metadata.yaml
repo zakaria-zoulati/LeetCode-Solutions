@@ -1,2 +1,6 @@
 name: Coin Change
 difficulty: Medium
+id: 322
+url: https://leetcode.com/problems/coin-change/
+tags: []
+languages: [java]

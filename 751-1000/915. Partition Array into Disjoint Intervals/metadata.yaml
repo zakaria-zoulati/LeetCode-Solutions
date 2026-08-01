@@ -1,2 +1,6 @@
 name: Partition Array into Disjoint Intervals
 difficulty: Medium
+id: 915
+url: https://leetcode.com/problems/partition-array-into-disjoint-intervals/
+tags: []
+languages: [java]

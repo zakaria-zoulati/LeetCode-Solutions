@@ -1,2 +1,6 @@
 name: Balanced K-Factor Decomposition
 difficulty: Medium
+id: 3669
+url: https://leetcode.com/problems/balanced-k-factor-decomposition/
+tags: []
+languages: [java]

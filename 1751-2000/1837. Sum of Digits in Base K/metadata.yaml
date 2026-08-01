@@ -1,2 +1,6 @@
 name: Sum of Digits in Base K
 difficulty: Easy
+id: 1837
+url: https://leetcode.com/problems/sum-of-digits-in-base-k/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Tallest Billboard
 difficulty: Hard
+id: 956
+url: https://leetcode.com/problems/tallest-billboard/
+tags: []
+languages: [cpp]

@@ -1,2 +1,6 @@
 name: Calculate Delayed Arrival Time
 difficulty: Easy
+id: 2651
+url: https://leetcode.com/problems/calculate-delayed-arrival-time/
+tags: []
+languages: [java, javascript, python, rust]

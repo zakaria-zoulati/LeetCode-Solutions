@@ -1,2 +1,6 @@
 name: Count the Digits That Divide a Number
 difficulty: Easy
+id: 2520
+url: https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+tags: []
+languages: [java]

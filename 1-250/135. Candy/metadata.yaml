@@ -1,2 +1,6 @@
 name: Candy
 difficulty: Hard
+id: 135
+url: https://leetcode.com/problems/candy/
+tags: []
+languages: [java]

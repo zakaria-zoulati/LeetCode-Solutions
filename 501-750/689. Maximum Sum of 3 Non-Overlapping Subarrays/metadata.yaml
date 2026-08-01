@@ -1,2 +1,6 @@
 name: Maximum Sum of 3 Non-Overlapping Subarrays
 difficulty: Hard
+id: 689
+url: https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+tags: []
+languages: [java]

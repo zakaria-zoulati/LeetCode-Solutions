@@ -1,2 +1,6 @@
 name: Minimum Number of Operations to Make Array XOR Equal to K
 difficulty: Medium
+id: 2997
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/
+tags: []
+languages: [java]

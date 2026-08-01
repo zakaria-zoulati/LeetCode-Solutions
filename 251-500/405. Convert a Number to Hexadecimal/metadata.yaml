@@ -1,2 +1,6 @@
 name: Convert a Number to Hexadecimal
 difficulty: Easy
+id: 405
+url: https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Shuffle String
 difficulty: Easy
+id: 1528
+url: https://leetcode.com/problems/shuffle-string/
+tags: []
+languages: [java]

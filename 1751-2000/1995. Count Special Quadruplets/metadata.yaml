@@ -1,2 +1,6 @@
 name: Count Special Quadruplets
 difficulty: Easy
+id: 1995
+url: https://leetcode.com/problems/count-special-quadruplets/
+tags: []
+languages: [java]

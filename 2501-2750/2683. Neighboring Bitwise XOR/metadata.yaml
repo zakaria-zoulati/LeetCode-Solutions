@@ -1,2 +1,6 @@
 name: Neighboring Bitwise XOR
 difficulty: Medium
+id: 2683
+url: https://leetcode.com/problems/neighboring-bitwise-xor/
+tags: []
+languages: [java]

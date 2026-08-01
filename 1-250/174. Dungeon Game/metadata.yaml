@@ -1,2 +1,6 @@
 name: Dungeon Game
 difficulty: Hard
+id: 174
+url: https://leetcode.com/problems/dungeon-game/
+tags: []
+languages: [java]

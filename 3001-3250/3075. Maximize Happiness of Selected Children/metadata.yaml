@@ -1,2 +1,6 @@
 name: Maximize Happiness of Selected Children
 difficulty: Medium
+id: 3075
+url: https://leetcode.com/problems/maximize-happiness-of-selected-children/
+tags: []
+languages: [java]

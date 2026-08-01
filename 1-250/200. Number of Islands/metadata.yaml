@@ -1,2 +1,6 @@
 name: Number of Islands
 difficulty: Medium
+id: 200
+url: https://leetcode.com/problems/number-of-islands/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND
 difficulty: Medium
+id: 3825
+url: https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/
+tags: []
+languages: [cpp]

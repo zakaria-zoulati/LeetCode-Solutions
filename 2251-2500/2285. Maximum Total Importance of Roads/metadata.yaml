@@ -1,2 +1,6 @@
 name: Maximum Total Importance of Roads
 difficulty: Medium
+id: 2285
+url: https://leetcode.com/problems/maximum-total-importance-of-roads/
+tags: []
+languages: [java]

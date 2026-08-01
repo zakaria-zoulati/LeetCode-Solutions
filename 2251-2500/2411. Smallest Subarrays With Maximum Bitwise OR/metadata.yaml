@@ -1,2 +1,6 @@
 name: Smallest Subarrays With Maximum Bitwise OR
 difficulty: Medium
+id: 2411
+url: https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/
+tags: []
+languages: [cpp]

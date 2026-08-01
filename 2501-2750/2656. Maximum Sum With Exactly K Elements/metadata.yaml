@@ -1,2 +1,6 @@
-name: Maximum Sum With Exactly K Elements 
+name: Maximum Sum With Exactly K Elements
 difficulty: Easy
+id: 2656
+url: https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
+tags: []
+languages: [java]

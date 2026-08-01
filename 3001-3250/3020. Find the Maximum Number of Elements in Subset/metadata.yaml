@@ -1,2 +1,6 @@
 name: Find the Maximum Number of Elements in Subset
 difficulty: Medium
+id: 3020
+url: https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/
+tags: []
+languages: [cpp]

@@ -1,2 +1,6 @@
-name: Count Elements With Strictly Smaller and Greater Elements 
+name: Count Elements With Strictly Smaller and Greater Elements
 difficulty: Easy
+id: 2148
+url: https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
+tags: []
+languages: [cpp]

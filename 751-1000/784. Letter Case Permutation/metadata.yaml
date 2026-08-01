@@ -1,2 +1,6 @@
 name: Letter Case Permutation
 difficulty: Medium
+id: 784
+url: https://leetcode.com/problems/letter-case-permutation/
+tags: []
+languages: [java]

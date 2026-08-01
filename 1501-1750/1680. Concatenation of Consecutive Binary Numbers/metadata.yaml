@@ -1,2 +1,6 @@
 name: Concatenation of Consecutive Binary Numbers
 difficulty: Medium
+id: 1680
+url: https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Baseball Game
 difficulty: Easy
+id: 682
+url: https://leetcode.com/problems/baseball-game/
+tags: []
+languages: [java]

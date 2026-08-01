@@ -1,2 +1,6 @@
 name: Product of Array Except Self
 difficulty: Medium
+id: 238
+url: https://leetcode.com/problems/product-of-array-except-self/
+tags: []
+languages: [java]

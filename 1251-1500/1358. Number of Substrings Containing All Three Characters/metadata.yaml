@@ -1,2 +1,6 @@
 name: Number of Substrings Containing All Three Characters
 difficulty: Medium
+id: 1358
+url: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+tags: []
+languages: [java]

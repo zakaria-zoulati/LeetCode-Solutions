@@ -1,2 +1,6 @@
 name: Split Linked List in Parts
 difficulty: Medium
+id: 725
+url: https://leetcode.com/problems/split-linked-list-in-parts/
+tags: []
+languages: [java]

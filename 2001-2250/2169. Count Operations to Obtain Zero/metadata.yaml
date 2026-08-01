@@ -1,2 +1,6 @@
 name: Count Operations to Obtain Zero
 difficulty: Easy
+id: 2169
+url: https://leetcode.com/problems/count-operations-to-obtain-zero/
+tags: []
+languages: [java]

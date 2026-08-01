@@ -1,2 +1,6 @@
 name: Number of Perfect Pairs
 difficulty: Medium
+id: 3649
+url: https://leetcode.com/problems/number-of-perfect-pairs/
+tags: []
+languages: [cpp]

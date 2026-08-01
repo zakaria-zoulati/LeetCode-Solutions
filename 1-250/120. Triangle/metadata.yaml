@@ -1,2 +1,6 @@
 name: Triangle
 difficulty: Medium
+id: 120
+url: https://leetcode.com/problems/triangle/
+tags: []
+languages: [java]

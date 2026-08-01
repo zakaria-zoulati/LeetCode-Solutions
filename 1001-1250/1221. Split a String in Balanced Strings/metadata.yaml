@@ -1,2 +1,6 @@
 name: Split a String in Balanced Strings
 difficulty: Easy
+id: 1221
+url: https://leetcode.com/problems/split-a-string-in-balanced-strings/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Count Subarrays With Fixed Bounds
 difficulty: Hard
+id: 2444
+url: https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
+tags: []
+languages: [java]

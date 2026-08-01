@@ -1,2 +1,6 @@
 name: Maximum Number of Vowels in a Substring of Given Length
 difficulty: Medium
+id: 1456
+url: https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Smallest Value After Replacing With Sum of Prime Factors
 difficulty: Medium
+id: 2507
+url: https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Number of Digit One
 difficulty: Hard
+id: 233
+url: https://leetcode.com/problems/number-of-digit-one/
+tags: []
+languages: [cpp]

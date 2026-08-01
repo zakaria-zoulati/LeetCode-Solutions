@@ -1,2 +1,6 @@
 name: Number of Laser Beams in a Bank
 difficulty: Medium
+id: 2125
+url: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+tags: []
+languages: [java]

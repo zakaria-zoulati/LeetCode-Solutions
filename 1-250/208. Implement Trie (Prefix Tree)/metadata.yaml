@@ -1,2 +1,6 @@
 name: Implement Trie (Prefix Tree)
 difficulty: Medium
+id: 208
+url: https://leetcode.com/problems/implement-trie-prefix-tree/
+tags: []
+languages: [java]

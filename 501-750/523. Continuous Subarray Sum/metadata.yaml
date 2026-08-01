@@ -1,2 +1,6 @@
 name: Continuous Subarray Sum
 difficulty: Medium
+id: 523
+url: https://leetcode.com/problems/continuous-subarray-sum/
+tags: []
+languages: [java]

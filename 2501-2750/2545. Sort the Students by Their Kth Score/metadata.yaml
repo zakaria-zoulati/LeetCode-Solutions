@@ -1,2 +1,6 @@
 name: Sort the Students by Their Kth Score
 difficulty: Medium
+id: 2545
+url: https://leetcode.com/problems/sort-the-students-by-their-kth-score/
+tags: []
+languages: [java]

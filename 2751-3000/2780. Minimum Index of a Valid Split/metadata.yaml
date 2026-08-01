@@ -1,2 +1,6 @@
 name: Minimum Index of a Valid Split
 difficulty: Medium
+id: 2780
+url: https://leetcode.com/problems/minimum-index-of-a-valid-split/
+tags: []
+languages: [java]

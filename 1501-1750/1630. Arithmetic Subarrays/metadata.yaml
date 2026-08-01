@@ -1,2 +1,6 @@
 name: Arithmetic Subarrays
 difficulty: Medium
+id: 1630
+url: https://leetcode.com/problems/arithmetic-subarrays/
+tags: []
+languages: [java]

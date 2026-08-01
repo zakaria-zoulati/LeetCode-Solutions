@@ -1,2 +1,6 @@
 name: Count Prefix and Suffix Pairs I
 difficulty: Easy
+id: 3042
+url: https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
+tags: []
+languages: [java]

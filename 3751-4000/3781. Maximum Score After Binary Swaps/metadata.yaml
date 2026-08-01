@@ -1,2 +1,6 @@
 name: Maximum Score After Binary Swaps
 difficulty: Medium
+id: 3781
+url: https://leetcode.com/problems/maximum-score-after-binary-swaps/
+tags: []
+languages: [java]

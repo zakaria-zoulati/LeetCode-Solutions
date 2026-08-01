@@ -1,2 +1,6 @@
 name: Compare Version Numbers
 difficulty: Medium
+id: 165
+url: https://leetcode.com/problems/compare-version-numbers/
+tags: []
+languages: [java]

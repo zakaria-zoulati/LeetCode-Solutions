@@ -1,2 +1,6 @@
 name: Happy Number
 difficulty: Easy
+id: 202
+url: https://leetcode.com/problems/happy-number/
+tags: []
+languages: [rust]

@@ -1,2 +1,6 @@
 name: Count Odd Numbers in an Interval Range
 difficulty: Easy
+id: 1523
+url: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+tags: []
+languages: [java]

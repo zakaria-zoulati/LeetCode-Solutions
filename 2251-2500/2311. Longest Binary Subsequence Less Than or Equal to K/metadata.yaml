@@ -1,2 +1,6 @@
 name: Longest Binary Subsequence Less Than or Equal to K
 difficulty: Medium
+id: 2311
+url: https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
+tags: []
+languages: [java]

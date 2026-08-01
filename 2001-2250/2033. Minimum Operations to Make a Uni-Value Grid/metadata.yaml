@@ -1,2 +1,6 @@
 name: Minimum Operations to Make a Uni-Value Grid
 difficulty: Medium
+id: 2033
+url: https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
+tags: []
+languages: [java]

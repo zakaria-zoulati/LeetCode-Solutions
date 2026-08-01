@@ -1,2 +1,6 @@
 name: Count Complete Subarrays in an Array
 difficulty: Medium
+id: 2799
+url: https://leetcode.com/problems/count-complete-subarrays-in-an-array/
+tags: []
+languages: [java]

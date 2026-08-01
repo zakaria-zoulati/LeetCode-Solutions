@@ -1,2 +1,6 @@
 name: Longest Common Subsequence
 difficulty: Medium
+id: 1143
+url: https://leetcode.com/problems/longest-common-subsequence/
+tags: []
+languages: [java]

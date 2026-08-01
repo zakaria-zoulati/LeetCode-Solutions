@@ -1,2 +1,6 @@
 name: Find Positive Integer Solution for a Given Equation
 difficulty: Medium
+id: 1237
+url: https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
+tags: []
+languages: [java]

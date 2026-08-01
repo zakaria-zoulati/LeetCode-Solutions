@@ -1,2 +1,6 @@
 name: New 21 Game
 difficulty: Medium
+id: 837
+url: https://leetcode.com/problems/new-21-game/
+tags: []
+languages: [java]

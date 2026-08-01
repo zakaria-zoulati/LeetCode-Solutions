@@ -1,2 +1,6 @@
 name: Minimum Recolors to Get K Consecutive Black Blocks
 difficulty: Easy
+id: 2379
+url: https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+tags: []
+languages: [java]

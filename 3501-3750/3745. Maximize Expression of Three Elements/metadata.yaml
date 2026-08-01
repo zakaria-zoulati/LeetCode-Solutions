@@ -1,2 +1,6 @@
 name: Maximize Expression of Three Elements
 difficulty: Easy
+id: 3745
+url: https://leetcode.com/problems/maximize-expression-of-three-elements/
+tags: []
+languages: [cpp]

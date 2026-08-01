@@ -1,2 +1,6 @@
 name: Find Target Indices After Sorting Array
 difficulty: Easy
+id: 2089
+url: https://leetcode.com/problems/find-target-indices-after-sorting-array/
+tags: []
+languages: [java]

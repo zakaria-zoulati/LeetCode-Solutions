@@ -1,2 +1,6 @@
 name: Adjacent Increasing Subarrays Detection II
 difficulty: Medium
+id: 3350
+url: https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/
+tags: []
+languages: [cpp, java]

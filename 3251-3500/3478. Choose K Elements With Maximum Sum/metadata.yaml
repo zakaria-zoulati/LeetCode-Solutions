@@ -1,2 +1,6 @@
 name: Choose K Elements With Maximum Sum
 difficulty: Medium
+id: 3478
+url: https://leetcode.com/problems/choose-k-elements-with-maximum-sum/
+tags: []
+languages: [java]

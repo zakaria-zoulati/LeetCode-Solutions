@@ -1,2 +1,6 @@
 name: Maximum Swap
 difficulty: Medium
+id: 670
+url: https://leetcode.com/problems/maximum-swap/
+tags: []
+languages: [java]

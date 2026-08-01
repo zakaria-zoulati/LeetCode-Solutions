@@ -1,2 +1,6 @@
 name: Count of Interesting Subarrays
 difficulty: Medium
+id: 2845
+url: https://leetcode.com/problems/count-of-interesting-subarrays/
+tags: []
+languages: [java]

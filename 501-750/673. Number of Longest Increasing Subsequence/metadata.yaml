@@ -1,2 +1,6 @@
 name: Number of Longest Increasing Subsequence
 difficulty: Medium
+id: 673
+url: https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+tags: []
+languages: [cpp]

@@ -1,2 +1,6 @@
 name: Maximum Difference Between Increasing Elements
 difficulty: Easy
+id: 2016
+url: https://leetcode.com/problems/maximum-difference-between-increasing-elements/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Factorial Trailing Zeroes
 difficulty: Medium
+id: 172
+url: https://leetcode.com/problems/factorial-trailing-zeroes/
+tags: []
+languages: [java]

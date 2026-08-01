@@ -1,2 +1,6 @@
 name: Sum of Left Leaves
 difficulty: Easy
+id: 404
+url: https://leetcode.com/problems/sum-of-left-leaves/
+tags: []
+languages: [java]

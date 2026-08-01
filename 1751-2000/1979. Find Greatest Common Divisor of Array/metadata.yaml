@@ -1,2 +1,6 @@
 name: Find Greatest Common Divisor of Array
 difficulty: Easy
+id: 1979
+url: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+tags: []
+languages: [java]

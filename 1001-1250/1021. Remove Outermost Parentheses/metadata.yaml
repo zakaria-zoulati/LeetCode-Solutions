@@ -1,2 +1,6 @@
 name: Remove Outermost Parentheses
 difficulty: Easy
+id: 1021
+url: https://leetcode.com/problems/remove-outermost-parentheses/
+tags: []
+languages: [java]

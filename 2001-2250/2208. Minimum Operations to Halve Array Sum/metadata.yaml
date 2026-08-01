@@ -1,2 +1,6 @@
 name: Minimum Operations to Halve Array Sum
 difficulty: Medium
+id: 2208
+url: https://leetcode.com/problems/minimum-operations-to-halve-array-sum/
+tags: []
+languages: [java]

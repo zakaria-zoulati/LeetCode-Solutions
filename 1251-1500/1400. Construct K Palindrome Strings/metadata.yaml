@@ -1,2 +1,6 @@
 name: Construct K Palindrome Strings
 difficulty: Medium
+id: 1400
+url: https://leetcode.com/problems/construct-k-palindrome-strings/
+tags: []
+languages: [java]

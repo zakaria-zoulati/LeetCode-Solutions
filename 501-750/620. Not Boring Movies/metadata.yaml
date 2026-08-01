@@ -1,2 +1,6 @@
 name: Not Boring Movies
 difficulty: Easy
+id: 620
+url: https://leetcode.com/problems/not-boring-movies/
+tags: []
+languages: [sql]

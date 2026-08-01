@@ -1,2 +1,6 @@
 name: 2 Keys Keyboard
 difficulty: Medium
+id: 650
+url: https://leetcode.com/problems/2-keys-keyboard/
+tags: []
+languages: [java]

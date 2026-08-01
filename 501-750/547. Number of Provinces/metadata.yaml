@@ -1,2 +1,6 @@
 name: Number of Provinces
 difficulty: Medium
+id: 547
+url: https://leetcode.com/problems/number-of-provinces/
+tags: []
+languages: [java]

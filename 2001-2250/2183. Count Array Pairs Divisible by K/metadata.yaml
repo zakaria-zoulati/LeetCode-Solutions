@@ -1,2 +1,6 @@
 name: Count Array Pairs Divisible by K
 difficulty: Hard
+id: 2183
+url: https://leetcode.com/problems/count-array-pairs-divisible-by-k/
+tags: []
+languages: [java]

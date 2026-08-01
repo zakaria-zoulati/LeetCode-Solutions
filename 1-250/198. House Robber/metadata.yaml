@@ -1,2 +1,6 @@
 name: House Robber
 difficulty: Medium
+id: 198
+url: https://leetcode.com/problems/house-robber/
+tags: []
+languages: [java]

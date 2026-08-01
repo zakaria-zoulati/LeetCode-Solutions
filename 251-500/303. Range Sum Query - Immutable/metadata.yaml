@@ -1,2 +1,6 @@
 name: Range Sum Query - Immutable
 difficulty: Easy
+id: 303
+url: https://leetcode.com/problems/range-sum-query-immutable/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Find Champion I
 difficulty: Easy
+id: 2923
+url: https://leetcode.com/problems/find-champion-i/
+tags: []
+languages: [java]

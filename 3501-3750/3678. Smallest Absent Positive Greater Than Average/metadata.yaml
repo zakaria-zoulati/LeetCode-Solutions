@@ -1,2 +1,6 @@
 name: Smallest Absent Positive Greater Than Average
 difficulty: Easy
+id: 3678
+url: https://leetcode.com/problems/smallest-absent-positive-greater-than-average/
+tags: []
+languages: [java]

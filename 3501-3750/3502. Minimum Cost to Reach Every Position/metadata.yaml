@@ -1,2 +1,6 @@
 name: Minimum Cost to Reach Every Position
 difficulty: Easy
+id: 3502
+url: https://leetcode.com/problems/minimum-cost-to-reach-every-position/
+tags: []
+languages: [java]

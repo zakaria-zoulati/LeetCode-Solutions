@@ -1,2 +1,6 @@
 name: Count Subarrays of Length Three With a Condition
 difficulty: Easy
+id: 3392
+url: https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
+tags: []
+languages: [java]

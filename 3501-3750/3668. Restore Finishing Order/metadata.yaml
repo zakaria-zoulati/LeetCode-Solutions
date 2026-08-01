@@ -1,2 +1,6 @@
 name: Restore Finishing Order
 difficulty: Easy
+id: 3668
+url: https://leetcode.com/problems/restore-finishing-order/
+tags: []
+languages: [java]

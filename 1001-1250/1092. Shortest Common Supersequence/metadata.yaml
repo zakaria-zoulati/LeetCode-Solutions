@@ -1,2 +1,6 @@
-name: Shortest Common Supersequence 
+name: Shortest Common Supersequence
 difficulty: Hard
+id: 1092
+url: https://leetcode.com/problems/shortest-common-supersequence/
+tags: []
+languages: [java]

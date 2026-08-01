@@ -1,2 +1,6 @@
 name: Partition to K Equal Sum Subsets
 difficulty: Medium
+id: 698
+url: https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+tags: []
+languages: [java]

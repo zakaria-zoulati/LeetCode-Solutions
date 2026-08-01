@@ -1,2 +1,6 @@
 name: Longest Substring Without Repeating Characters
 difficulty: Medium
+id: 3
+url: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+tags: []
+languages: [cpp, java]

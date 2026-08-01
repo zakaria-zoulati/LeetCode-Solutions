@@ -1,2 +1,6 @@
 name: Sum Game
 difficulty: Medium
+id: 1927
+url: https://leetcode.com/problems/sum-game/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Minimum Bit Flips to Convert Number
 difficulty: Easy
+id: 2220
+url: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+tags: []
+languages: [cpp, go]

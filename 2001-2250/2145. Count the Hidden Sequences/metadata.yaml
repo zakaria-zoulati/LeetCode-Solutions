@@ -1,2 +1,6 @@
 name: Count the Hidden Sequences
 difficulty: Medium
+id: 2145
+url: https://leetcode.com/problems/count-the-hidden-sequences/
+tags: []
+languages: [java]

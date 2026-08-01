@@ -1,2 +1,6 @@
 name: Letter Combinations of a Phone Number
 difficulty: Medium
+id: 17
+url: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+tags: []
+languages: [java]

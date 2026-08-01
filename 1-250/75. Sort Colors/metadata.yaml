@@ -1,2 +1,6 @@
 name: Sort Colors
 difficulty: Medium
+id: 75
+url: https://leetcode.com/problems/sort-colors/
+tags: []
+languages: [java]

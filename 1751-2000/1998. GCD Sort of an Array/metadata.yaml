@@ -1,2 +1,6 @@
 name: GCD Sort of an Array
 difficulty: Hard
+id: 1998
+url: https://leetcode.com/problems/gcd-sort-of-an-array/
+tags: []
+languages: [java]

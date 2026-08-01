@@ -1,2 +1,6 @@
 name: Minimum Time to Activate String
 difficulty: Medium
+id: 3639
+url: https://leetcode.com/problems/minimum-time-to-activate-string/
+tags: []
+languages: [java]

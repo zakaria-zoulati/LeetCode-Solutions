@@ -1,2 +1,6 @@
 name: Count of Substrings Containing Every Vowel and K Consonants I
 difficulty: Medium
+id: 3305
+url: https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/
+tags: []
+languages: [java]

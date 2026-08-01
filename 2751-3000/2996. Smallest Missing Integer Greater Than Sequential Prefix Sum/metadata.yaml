@@ -1,2 +1,6 @@
 name: Smallest Missing Integer Greater Than Sequential Prefix Sum
 difficulty: Easy
+id: 2996
+url: https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
+tags: []
+languages: [rust]

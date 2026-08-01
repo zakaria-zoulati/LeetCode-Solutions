@@ -1,2 +1,6 @@
 name: Wiggle Subsequence
 difficulty: Medium
+id: 376
+url: https://leetcode.com/problems/wiggle-subsequence/
+tags: []
+languages: [python]

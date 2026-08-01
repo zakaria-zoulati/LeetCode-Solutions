@@ -1,2 +1,6 @@
 name: Longest Common Suffix Queries
 difficulty: Hard
+id: 3093
+url: https://leetcode.com/problems/longest-common-suffix-queries/
+tags: []
+languages: [cpp]

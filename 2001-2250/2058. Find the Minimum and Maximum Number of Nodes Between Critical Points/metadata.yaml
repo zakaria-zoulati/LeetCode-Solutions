@@ -1,2 +1,6 @@
 name: Find the Minimum and Maximum Number of Nodes Between Critical Points
 difficulty: Medium
+id: 2058
+url: https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
+tags: []
+languages: [java, python]

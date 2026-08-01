@@ -1,2 +1,6 @@
 name: Minimum Number of K Consecutive Bit Flips
 difficulty: Hard
+id: 995
+url: https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+tags: []
+languages: [java]

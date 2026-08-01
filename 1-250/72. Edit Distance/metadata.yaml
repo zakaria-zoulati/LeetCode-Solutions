@@ -1,2 +1,6 @@
 name: Edit Distance
 difficulty: Medium
+id: 72
+url: https://leetcode.com/problems/edit-distance/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: XOR Queries of a Subarray
 difficulty: Medium
+id: 1310
+url: https://leetcode.com/problems/xor-queries-of-a-subarray/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Construct Smallest Number From DI String
 difficulty: Medium
+id: 2375
+url: https://leetcode.com/problems/construct-smallest-number-from-di-string/
+tags: []
+languages: [java]

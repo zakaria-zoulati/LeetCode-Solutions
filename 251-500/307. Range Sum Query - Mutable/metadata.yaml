@@ -1,2 +1,6 @@
 name: Range Sum Query - Mutable
 difficulty: Medium
+id: 307
+url: https://leetcode.com/problems/range-sum-query-mutable/
+tags: []
+languages: [java]

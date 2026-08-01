@@ -1,2 +1,6 @@
 name: Count and Say
 difficulty: Medium
+id: 38
+url: https://leetcode.com/problems/count-and-say/
+tags: []
+languages: [java, python]

@@ -1,2 +1,6 @@
 name: Partition Array Into Two Arrays to Minimize Sum Difference
 difficulty: Hard
+id: 2035
+url: https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Maximal Square
 difficulty: Medium
+id: 221
+url: https://leetcode.com/problems/maximal-square/
+tags: []
+languages: [java]

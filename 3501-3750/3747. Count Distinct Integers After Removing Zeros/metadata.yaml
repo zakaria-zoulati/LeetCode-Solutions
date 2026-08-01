@@ -1,2 +1,6 @@
 name: Count Distinct Integers After Removing Zeros
 difficulty: Medium
+id: 3747
+url: https://leetcode.com/problems/count-distinct-integers-after-removing-zeros/
+tags: []
+languages: [cpp]

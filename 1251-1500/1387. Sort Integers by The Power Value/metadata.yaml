@@ -1,2 +1,6 @@
 name: Sort Integers by The Power Value
 difficulty: Medium
+id: 1387
+url: https://leetcode.com/problems/sort-integers-by-the-power-value/
+tags: []
+languages: [java]

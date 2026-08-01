@@ -1,2 +1,6 @@
 name: Maximum Score From Removing Stones
 difficulty: Medium
+id: 1753
+url: https://leetcode.com/problems/maximum-score-from-removing-stones/
+tags: []
+languages: [java]

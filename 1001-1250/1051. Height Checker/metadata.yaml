@@ -1,2 +1,6 @@
 name: Height Checker
 difficulty: Easy
+id: 1051
+url: https://leetcode.com/problems/height-checker/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Convert Date to Binary
 difficulty: Easy
+id: 3280
+url: https://leetcode.com/problems/convert-date-to-binary/
+tags: []
+languages: [java]

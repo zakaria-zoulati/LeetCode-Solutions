@@ -1,2 +1,6 @@
 name: Check if Number is a Sum of Powers of Three
 difficulty: Medium
+id: 1780
+url: https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/
+tags: []
+languages: [java]

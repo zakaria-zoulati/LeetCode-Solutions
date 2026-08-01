@@ -1,2 +1,6 @@
 name: Earliest Possible Day of Full Bloom
 difficulty: Hard
+id: 2136
+url: https://leetcode.com/problems/earliest-possible-day-of-full-bloom/
+tags: []
+languages: [java]

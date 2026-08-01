@@ -1,2 +1,6 @@
 name: Minimum Deletions to Make String K-Special
 difficulty: Medium
+id: 3085
+url: https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/
+tags: []
+languages: [java]

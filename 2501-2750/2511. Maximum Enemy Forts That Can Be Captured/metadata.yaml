@@ -1,2 +1,6 @@
 name: Maximum Enemy Forts That Can Be Captured
 difficulty: Easy
+id: 2511
+url: https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/
+tags: []
+languages: [java]

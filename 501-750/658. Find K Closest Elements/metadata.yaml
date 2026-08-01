@@ -1,2 +1,6 @@
 name: Find K Closest Elements
 difficulty: Medium
+id: 658
+url: https://leetcode.com/problems/find-k-closest-elements/
+tags: []
+languages: [java]

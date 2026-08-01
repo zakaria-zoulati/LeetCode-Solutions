@@ -1,2 +1,6 @@
 name: Minimum Deletions to Make Array Divisible
 difficulty: Hard
+id: 2344
+url: https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/
+tags: []
+languages: [java]

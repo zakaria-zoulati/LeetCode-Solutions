@@ -1,2 +1,6 @@
 name: Minimum Domino Rotations For Equal Row
 difficulty: Medium
+id: 1007
+url: https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
+tags: []
+languages: [java]

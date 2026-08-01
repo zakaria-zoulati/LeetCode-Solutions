@@ -1,2 +1,6 @@
 name: Jewels and Stones
 difficulty: Easy
+id: 771
+url: https://leetcode.com/problems/jewels-and-stones/
+tags: []
+languages: [java, python]

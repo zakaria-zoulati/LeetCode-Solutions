@@ -1,2 +1,6 @@
 name: Maximum Width Ramp
 difficulty: Medium
+id: 962
+url: https://leetcode.com/problems/maximum-width-ramp/
+tags: []
+languages: [java]

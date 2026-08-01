@@ -1,2 +1,6 @@
 name: Maximum Path Score in a Grid
 difficulty: Medium
+id: 3742
+url: https://leetcode.com/problems/maximum-path-score-in-a-grid/
+tags: []
+languages: [cpp]

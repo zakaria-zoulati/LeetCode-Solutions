@@ -1,2 +1,6 @@
 name: Minimum Equal Sum of Two Arrays After Replacing Zeros
 difficulty: Medium
+id: 2918
+url: https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/
+tags: []
+languages: [cpp]

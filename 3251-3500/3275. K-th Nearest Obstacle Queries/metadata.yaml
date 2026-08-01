@@ -1,2 +1,6 @@
 name: K-th Nearest Obstacle Queries
 difficulty: Medium
+id: 3275
+url: https://leetcode.com/problems/k-th-nearest-obstacle-queries/
+tags: []
+languages: [java]

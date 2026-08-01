@@ -1,2 +1,6 @@
 name: Smallest Range Covering Elements from K Lists
 difficulty: Hard
+id: 632
+url: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+tags: []
+languages: [java]

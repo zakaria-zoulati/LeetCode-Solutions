@@ -1,2 +1,6 @@
 name: 01 Matrix
 difficulty: Medium
+id: 542
+url: https://leetcode.com/problems/01-matrix/
+tags: []
+languages: [java]

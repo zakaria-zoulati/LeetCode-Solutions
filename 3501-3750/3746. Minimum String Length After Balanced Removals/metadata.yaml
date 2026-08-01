@@ -1,2 +1,6 @@
 name: Minimum String Length After Balanced Removals
 difficulty: Medium
+id: 3746
+url: https://leetcode.com/problems/minimum-string-length-after-balanced-removals/
+tags: []
+languages: [cpp]

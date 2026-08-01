@@ -1,2 +1,6 @@
 name: Longest Valid Parentheses
 difficulty: Hard
+id: 32
+url: https://leetcode.com/problems/longest-valid-parentheses/
+tags: []
+languages: [java]

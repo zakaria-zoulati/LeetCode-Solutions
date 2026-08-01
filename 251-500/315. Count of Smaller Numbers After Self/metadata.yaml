@@ -1,2 +1,6 @@
 name: Count of Smaller Numbers After Self
 difficulty: Hard
+id: 315
+url: https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+tags: []
+languages: [java, python]

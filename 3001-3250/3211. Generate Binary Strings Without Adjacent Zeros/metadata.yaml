@@ -1,2 +1,6 @@
 name: Generate Binary Strings Without Adjacent Zeros
 difficulty: Medium
+id: 3211
+url: https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/
+tags: []
+languages: [java]

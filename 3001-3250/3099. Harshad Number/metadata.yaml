@@ -1,2 +1,6 @@
 name: Harshad Number
 difficulty: Easy
+id: 3099
+url: https://leetcode.com/problems/harshad-number/
+tags: []
+languages: [java, rust]

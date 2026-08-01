@@ -1,2 +1,6 @@
 name: Rabbits in Forest
 difficulty: Medium
+id: 781
+url: https://leetcode.com/problems/rabbits-in-forest/
+tags: []
+languages: [java]

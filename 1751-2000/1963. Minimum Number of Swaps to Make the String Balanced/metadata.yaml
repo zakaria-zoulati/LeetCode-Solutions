@@ -1,2 +1,6 @@
 name: Minimum Number of Swaps to Make the String Balanced
 difficulty: Medium
+id: 1963
+url: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+tags: []
+languages: [java]

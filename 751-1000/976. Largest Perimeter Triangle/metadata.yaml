@@ -1,2 +1,6 @@
 name: Largest Perimeter Triangle
 difficulty: Easy
+id: 976
+url: https://leetcode.com/problems/largest-perimeter-triangle/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Trapping Rain Water
 difficulty: Hard
+id: 42
+url: https://leetcode.com/problems/trapping-rain-water/
+tags: []
+languages: [cpp]

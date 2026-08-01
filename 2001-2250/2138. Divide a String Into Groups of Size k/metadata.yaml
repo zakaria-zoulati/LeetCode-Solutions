@@ -1,2 +1,6 @@
 name: Divide a String Into Groups of Size k
 difficulty: Easy
+id: 2138
+url: https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Maximum Depth of N-ary Tree
 difficulty: Easy
+id: 559
+url: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
+tags: []
+languages: [java]

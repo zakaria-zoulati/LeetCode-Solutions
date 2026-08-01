@@ -1,2 +1,6 @@
 name: Number of Common Factors
 difficulty: Easy
+id: 2427
+url: https://leetcode.com/problems/number-of-common-factors/
+tags: []
+languages: [java]

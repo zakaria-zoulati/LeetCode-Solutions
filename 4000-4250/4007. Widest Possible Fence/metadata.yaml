@@ -1,2 +1,6 @@
 name: Widest Possible Fence
 difficulty: Medium
+id: 4007
+url: https://leetcode.com/problems/widest-possible-fence/
+tags: []
+languages: [cpp]

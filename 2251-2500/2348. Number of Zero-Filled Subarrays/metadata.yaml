@@ -1,2 +1,6 @@
 name: Number of Zero-Filled Subarrays
 difficulty: Medium
+id: 2348
+url: https://leetcode.com/problems/number-of-zero-filled-subarrays/
+tags: []
+languages: [java]

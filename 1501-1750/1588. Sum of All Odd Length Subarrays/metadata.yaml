@@ -1,2 +1,6 @@
 name: Sum of All Odd Length Subarrays
 difficulty: Easy
+id: 1588
+url: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+tags: []
+languages: [java]

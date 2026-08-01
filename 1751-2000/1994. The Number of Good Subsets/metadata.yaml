@@ -1,2 +1,6 @@
 name: The Number of Good Subsets
 difficulty: Hard
+id: 1994
+url: https://leetcode.com/problems/the-number-of-good-subsets/
+tags: []
+languages: [java]

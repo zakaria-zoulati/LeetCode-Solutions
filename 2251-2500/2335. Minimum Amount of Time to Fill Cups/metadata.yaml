@@ -1,2 +1,6 @@
 name: Minimum Amount of Time to Fill Cups
 difficulty: Easy
+id: 2335
+url: https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/
+tags: []
+languages: [java]

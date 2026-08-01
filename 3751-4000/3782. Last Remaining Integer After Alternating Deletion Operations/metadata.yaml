@@ -1,2 +1,6 @@
 name: Last Remaining Integer After Alternating Deletion Operations
 difficulty: Hard
+id: 3782
+url: https://leetcode.com/problems/last-remaining-integer-after-alternating-deletion-operations/
+tags: []
+languages: [java]

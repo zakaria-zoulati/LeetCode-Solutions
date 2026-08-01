@@ -1,2 +1,6 @@
 name: Largest Divisible Subset
 difficulty: Medium
+id: 368
+url: https://leetcode.com/problems/largest-divisible-subset/
+tags: []
+languages: [java]

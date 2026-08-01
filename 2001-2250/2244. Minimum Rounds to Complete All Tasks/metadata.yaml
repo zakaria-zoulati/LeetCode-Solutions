@@ -1,2 +1,6 @@
 name: Minimum Rounds to Complete All Tasks
 difficulty: Medium
+id: 2244
+url: https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Concatenation of Array
 difficulty: Easy
+id: 1929
+url: https://leetcode.com/problems/concatenation-of-array/
+tags: []
+languages: [go]

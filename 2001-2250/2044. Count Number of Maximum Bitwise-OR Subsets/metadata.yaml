@@ -1,2 +1,6 @@
 name: Count Number of Maximum Bitwise-OR Subsets
 difficulty: Medium
+id: 2044
+url: https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
+tags: []
+languages: [java]

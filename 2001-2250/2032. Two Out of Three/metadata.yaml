@@ -1,2 +1,6 @@
 name: Two Out of Three
 difficulty: Easy
+id: 2032
+url: https://leetcode.com/problems/two-out-of-three/
+tags: []
+languages: [java]

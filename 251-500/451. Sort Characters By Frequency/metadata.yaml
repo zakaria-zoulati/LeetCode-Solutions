@@ -1,2 +1,6 @@
 name: Sort Characters By Frequency
 difficulty: Medium
+id: 451
+url: https://leetcode.com/problems/sort-characters-by-frequency/
+tags: []
+languages: [java]

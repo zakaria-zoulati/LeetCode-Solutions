@@ -1,2 +1,6 @@
 name: Target Sum
 difficulty: Medium
+id: 494
+url: https://leetcode.com/problems/target-sum/
+tags: []
+languages: [java]

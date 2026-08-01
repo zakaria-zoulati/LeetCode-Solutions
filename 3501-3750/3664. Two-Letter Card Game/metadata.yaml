@@ -1,2 +1,6 @@
 name: Two-Letter Card Game
 difficulty: Medium
+id: 3664
+url: https://leetcode.com/problems/two-letter-card-game/
+tags: []
+languages: [python]

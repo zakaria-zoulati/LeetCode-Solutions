@@ -1,2 +1,6 @@
 name: Excel Sheet Column Number
 difficulty: Easy
+id: 171
+url: https://leetcode.com/problems/excel-sheet-column-number/
+tags: []
+languages: [java]

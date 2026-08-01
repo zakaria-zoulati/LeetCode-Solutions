@@ -1,2 +1,6 @@
 name: Minimum Absolute Distance Between Mirror Pairs
 difficulty: Medium
+id: 3761
+url: https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/
+tags: []
+languages: [cpp]

@@ -1,2 +1,6 @@
 name: Finish Time of Tasks I
 difficulty: Medium
+id: 3965
+url: https://leetcode.com/problems/finish-time-of-tasks-i/
+tags: []
+languages: [cpp]

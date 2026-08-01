@@ -1,2 +1,6 @@
 name: Number of Bit Changes to Make Two Integers Equal
 difficulty: Easy
+id: 3226
+url: https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/
+tags: []
+languages: [cpp]

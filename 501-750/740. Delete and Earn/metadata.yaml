@@ -1,2 +1,6 @@
 name: Delete and Earn
 difficulty: Medium
+id: 740
+url: https://leetcode.com/problems/delete-and-earn/
+tags: []
+languages: [java]

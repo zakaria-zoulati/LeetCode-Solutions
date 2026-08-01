@@ -1,2 +1,6 @@
 name: Length of Longest Fibonacci Subsequence
 difficulty: Medium
+id: 873
+url: https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+tags: []
+languages: [java]

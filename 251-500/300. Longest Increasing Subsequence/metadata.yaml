@@ -1,2 +1,6 @@
 name: Longest Increasing Subsequence
 difficulty: Medium
+id: 300
+url: https://leetcode.com/problems/longest-increasing-subsequence/
+tags: []
+languages: [java]

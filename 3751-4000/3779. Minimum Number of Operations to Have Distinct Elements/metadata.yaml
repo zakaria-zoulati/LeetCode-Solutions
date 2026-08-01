@@ -1,2 +1,6 @@
 name: Minimum Number of Operations to Have Distinct Elements
 difficulty: Medium
+id: 3779
+url: https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements/
+tags: []
+languages: [java]

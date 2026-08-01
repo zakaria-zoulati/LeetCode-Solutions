@@ -1,2 +1,6 @@
 name: Minimum String Length After Removing Substrings
 difficulty: Easy
+id: 2696
+url: https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
+tags: []
+languages: [java]

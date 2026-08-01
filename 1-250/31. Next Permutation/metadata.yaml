@@ -1,2 +1,6 @@
 name: Next Permutation
 difficulty: Medium
+id: 31
+url: https://leetcode.com/problems/next-permutation/
+tags: []
+languages: [java]

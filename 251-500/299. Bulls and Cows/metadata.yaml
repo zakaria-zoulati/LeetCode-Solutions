@@ -1,2 +1,6 @@
 name: Bulls and Cows
 difficulty: Medium
+id: 299
+url: https://leetcode.com/problems/bulls-and-cows/
+tags: []
+languages: [java]

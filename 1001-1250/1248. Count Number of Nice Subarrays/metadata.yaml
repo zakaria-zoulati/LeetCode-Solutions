@@ -1,2 +1,6 @@
 name: Count Number of Nice Subarrays
 difficulty: Medium
+id: 1248
+url: https://leetcode.com/problems/count-number-of-nice-subarrays/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Sum of All Subset XOR Totals
 difficulty: Easy
+id: 1863
+url: https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+tags: []
+languages: [java]

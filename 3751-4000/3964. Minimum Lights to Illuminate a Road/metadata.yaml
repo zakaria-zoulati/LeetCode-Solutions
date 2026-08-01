@@ -1,2 +1,6 @@
 name: Minimum Lights to Illuminate a Road
 difficulty: Medium
+id: 3964
+url: https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/
+tags: []
+languages: [cpp]

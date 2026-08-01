@@ -1,2 +1,6 @@
 name: Partition Array According to Given Pivot
 difficulty: Medium
+id: 2161
+url: https://leetcode.com/problems/partition-array-according-to-given-pivot/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Increment Submatrices by One
 difficulty: Medium
+id: 2536
+url: https://leetcode.com/problems/increment-submatrices-by-one/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Remove All Adjacent Duplicates In String
 difficulty: Easy
+id: 1047
+url: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+tags: []
+languages: [java]

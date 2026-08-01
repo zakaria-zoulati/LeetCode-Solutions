@@ -1,2 +1,6 @@
 name: Check if Bitwise OR Has Trailing Zeros
 difficulty: Easy
+id: 2980
+url: https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/
+tags: []
+languages: [java]

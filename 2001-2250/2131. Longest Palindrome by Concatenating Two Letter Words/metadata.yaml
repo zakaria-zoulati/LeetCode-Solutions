@@ -1,2 +1,6 @@
 name: Longest Palindrome by Concatenating Two Letter Words
 difficulty: Medium
+id: 2131
+url: https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
+tags: []
+languages: [java]

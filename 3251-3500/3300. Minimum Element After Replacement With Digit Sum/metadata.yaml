@@ -1,2 +1,6 @@
 name: Minimum Element After Replacement With Digit Sum
 difficulty: Easy
+id: 3300
+url: https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
+tags: []
+languages: [cpp, rust]

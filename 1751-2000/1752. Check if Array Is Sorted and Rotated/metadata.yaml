@@ -1,2 +1,6 @@
 name: Check if Array Is Sorted and Rotated
 difficulty: Easy
+id: 1752
+url: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+tags: []
+languages: [cpp, java]

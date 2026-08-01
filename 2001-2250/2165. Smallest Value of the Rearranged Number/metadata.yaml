@@ -1,2 +1,6 @@
 name: Smallest Value of the Rearranged Number
 difficulty: Medium
+id: 2165
+url: https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
+tags: []
+languages: [java]

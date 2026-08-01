@@ -1,2 +1,6 @@
 name: Contains Duplicate
 difficulty: Easy
+id: 217
+url: https://leetcode.com/problems/contains-duplicate/
+tags: []
+languages: [rust]

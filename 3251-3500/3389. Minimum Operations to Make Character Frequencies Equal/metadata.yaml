@@ -1,2 +1,6 @@
 name: Minimum Operations to Make Character Frequencies Equal
 difficulty: Hard
+id: 3389
+url: https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/
+tags: []
+languages: [java]

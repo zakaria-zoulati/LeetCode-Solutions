@@ -1,2 +1,6 @@
 name: Successful Pairs of Spells and Potions
 difficulty: Medium
+id: 2300
+url: https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Word Break
 difficulty: Medium
+id: 139
+url: https://leetcode.com/problems/word-break/
+tags: []
+languages: [java]

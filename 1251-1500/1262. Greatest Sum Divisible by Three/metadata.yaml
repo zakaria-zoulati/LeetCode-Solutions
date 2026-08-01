@@ -1,2 +1,6 @@
 name: Greatest Sum Divisible by Three
 difficulty: Medium
+id: 1262
+url: https://leetcode.com/problems/greatest-sum-divisible-by-three/
+tags: []
+languages: [java]

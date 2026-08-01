@@ -1,2 +1,6 @@
 name: First Bad Version
 difficulty: Easy
+id: 278
+url: https://leetcode.com/problems/first-bad-version/
+tags: []
+languages: [php]

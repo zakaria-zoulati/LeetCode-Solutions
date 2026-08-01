@@ -1,2 +1,6 @@
 name: Binary Prefix Divisible By 5
 difficulty: Easy
+id: 1018
+url: https://leetcode.com/problems/binary-prefix-divisible-by-5/
+tags: []
+languages: [java]

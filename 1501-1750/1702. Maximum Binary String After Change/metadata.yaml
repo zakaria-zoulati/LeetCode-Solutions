@@ -1,2 +1,6 @@
 name: Maximum Binary String After Change
 difficulty: Medium
+id: 1702
+url: https://leetcode.com/problems/maximum-binary-string-after-change/
+tags: []
+languages: [cpp, python]

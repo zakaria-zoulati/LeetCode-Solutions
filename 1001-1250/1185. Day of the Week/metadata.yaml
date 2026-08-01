@@ -1,2 +1,6 @@
 name: Day of the Week
 difficulty: Easy
+id: 1185
+url: https://leetcode.com/problems/day-of-the-week/
+tags: []
+languages: [java]

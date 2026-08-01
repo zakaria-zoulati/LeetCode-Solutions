@@ -1,2 +1,6 @@
 name: Minimum Number of Seconds to Make Mountain Height Zero
 difficulty: Medium
+id: 3296
+url: https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/
+tags: []
+languages: [java]

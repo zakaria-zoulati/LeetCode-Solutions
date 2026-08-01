@@ -1,2 +1,6 @@
 name: Delete Greatest Value in Each Row
 difficulty: Easy
+id: 2500
+url: https://leetcode.com/problems/delete-greatest-value-in-each-row/
+tags: []
+languages: [java]

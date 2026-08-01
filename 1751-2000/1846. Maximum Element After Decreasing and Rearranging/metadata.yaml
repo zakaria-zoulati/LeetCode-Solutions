@@ -1,2 +1,6 @@
 name: Maximum Element After Decreasing and Rearranging
 difficulty: Medium
+id: 1846
+url: https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
+tags: []
+languages: [cpp]

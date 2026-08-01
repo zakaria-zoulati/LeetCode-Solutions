@@ -1,2 +1,6 @@
 name: Rotting Oranges
 difficulty: Medium
+id: 994
+url: https://leetcode.com/problems/rotting-oranges/
+tags: []
+languages: [java]

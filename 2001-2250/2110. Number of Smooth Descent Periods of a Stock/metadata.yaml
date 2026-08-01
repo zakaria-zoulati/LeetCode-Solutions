@@ -1,2 +1,6 @@
 name: Number of Smooth Descent Periods of a Stock
 difficulty: Medium
+id: 2110
+url: https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
+tags: []
+languages: [java]

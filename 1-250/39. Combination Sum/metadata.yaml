@@ -1,2 +1,6 @@
 name: Combination Sum
 difficulty: Medium
+id: 39
+url: https://leetcode.com/problems/combination-sum/
+tags: []
+languages: [java]

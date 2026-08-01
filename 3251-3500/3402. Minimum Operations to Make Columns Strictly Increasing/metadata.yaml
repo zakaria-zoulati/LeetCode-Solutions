@@ -1,2 +1,6 @@
 name: Minimum Operations to Make Columns Strictly Increasing
 difficulty: Easy
+id: 3402
+url: https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/
+tags: []
+languages: [java]

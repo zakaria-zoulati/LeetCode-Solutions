@@ -1,2 +1,6 @@
 name: Redundant Connection
 difficulty: Medium
+id: 684
+url: https://leetcode.com/problems/redundant-connection/
+tags: []
+languages: [java]

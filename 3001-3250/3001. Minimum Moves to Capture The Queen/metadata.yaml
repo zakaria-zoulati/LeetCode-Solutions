@@ -1,2 +1,6 @@
 name: Minimum Moves to Capture The Queen
 difficulty: Medium
+id: 3001
+url: https://leetcode.com/problems/minimum-moves-to-capture-the-queen/
+tags: []
+languages: [java]

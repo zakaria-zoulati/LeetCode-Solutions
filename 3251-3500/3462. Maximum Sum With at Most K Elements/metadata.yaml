@@ -1,2 +1,6 @@
 name: Maximum Sum With at Most K Elements
 difficulty: Medium
+id: 3462
+url: https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/
+tags: []
+languages: [java]

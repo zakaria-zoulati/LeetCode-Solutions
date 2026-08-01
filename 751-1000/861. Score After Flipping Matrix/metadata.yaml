@@ -1,2 +1,6 @@
 name: Score After Flipping Matrix
 difficulty: Medium
+id: 861
+url: https://leetcode.com/problems/score-after-flipping-matrix/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Left and Right Sum Differences
 difficulty: Easy
+id: 2574
+url: https://leetcode.com/problems/left-and-right-sum-differences/
+tags: []
+languages: [java, rust]

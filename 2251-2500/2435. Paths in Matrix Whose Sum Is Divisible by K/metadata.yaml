@@ -1,2 +1,6 @@
 name: Paths in Matrix Whose Sum Is Divisible by K
 difficulty: Hard
+id: 2435
+url: https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Find XOR Sum of All Pairs Bitwise AND
 difficulty: Hard
+id: 1835
+url: https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/
+tags: []
+languages: [java]

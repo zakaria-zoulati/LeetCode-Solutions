@@ -1,2 +1,6 @@
 name: Minimum Distance Between Three Equal Elements II
 difficulty: Medium
+id: 3741
+url: https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/
+tags: []
+languages: [cpp]

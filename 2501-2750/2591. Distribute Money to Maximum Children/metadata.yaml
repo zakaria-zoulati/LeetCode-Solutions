@@ -1,2 +1,6 @@
 name: Distribute Money to Maximum Children
 difficulty: Easy
+id: 2591
+url: https://leetcode.com/problems/distribute-money-to-maximum-children/
+tags: []
+languages: [java]

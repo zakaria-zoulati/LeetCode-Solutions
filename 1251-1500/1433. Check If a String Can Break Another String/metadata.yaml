@@ -1,2 +1,6 @@
 name: Check If a String Can Break Another String
 difficulty: Medium
+id: 1433
+url: https://leetcode.com/problems/check-if-a-string-can-break-another-string/
+tags: []
+languages: [java]

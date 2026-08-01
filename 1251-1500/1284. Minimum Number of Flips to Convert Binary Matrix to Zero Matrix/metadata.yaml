@@ -1,2 +1,6 @@
 name: Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
 difficulty: Hard
+id: 1284
+url: https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+tags: []
+languages: [python]

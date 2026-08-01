@@ -1,2 +1,6 @@
 name: Goal Parser Interpretation
 difficulty: Easy
+id: 1678
+url: https://leetcode.com/problems/goal-parser-interpretation/
+tags: []
+languages: [go]

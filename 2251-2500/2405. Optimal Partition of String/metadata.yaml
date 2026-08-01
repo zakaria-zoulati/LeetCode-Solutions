@@ -1,2 +1,6 @@
 name: Optimal Partition of String
 difficulty: Medium
+id: 2405
+url: https://leetcode.com/problems/optimal-partition-of-string/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Deepest Leaves Sum
 difficulty: Medium
+id: 1302
+url: https://leetcode.com/problems/deepest-leaves-sum/
+tags: []
+languages: [java]

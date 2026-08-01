@@ -1,2 +1,6 @@
 name: Single Number
 difficulty: Easy
+id: 136
+url: https://leetcode.com/problems/single-number/
+tags: []
+languages: [java, rust]

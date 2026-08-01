@@ -1,2 +1,6 @@
 name: Minimum Suffix Flips
 difficulty: Medium
+id: 1529
+url: https://leetcode.com/problems/minimum-suffix-flips/
+tags: []
+languages: [java]

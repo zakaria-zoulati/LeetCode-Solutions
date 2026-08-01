@@ -1,2 +1,6 @@
 name: Maximum Candies Allocated to K Children
 difficulty: Medium
+id: 2226
+url: https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
+tags: []
+languages: [java]

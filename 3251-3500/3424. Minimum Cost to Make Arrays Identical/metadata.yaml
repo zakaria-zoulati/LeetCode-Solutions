@@ -1,2 +1,6 @@
 name: Minimum Cost to Make Arrays Identical
 difficulty: Medium
+id: 3424
+url: https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/
+tags: []
+languages: [java]

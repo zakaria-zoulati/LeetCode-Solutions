@@ -1,2 +1,6 @@
 name: Cinema Seat Allocation
 difficulty: Medium
+id: 1386
+url: https://leetcode.com/problems/cinema-seat-allocation/
+tags: []
+languages: [java]

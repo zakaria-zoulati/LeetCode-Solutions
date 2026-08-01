@@ -1,2 +1,6 @@
 name: Smallest Number With All Set Bits
 difficulty: Easy
+id: 3370
+url: https://leetcode.com/problems/smallest-number-with-all-set-bits/
+tags: []
+languages: [java]

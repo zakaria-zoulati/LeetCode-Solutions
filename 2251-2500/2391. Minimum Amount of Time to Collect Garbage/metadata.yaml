@@ -1,2 +1,6 @@
 name: Minimum Amount of Time to Collect Garbage
 difficulty: Medium
+id: 2391
+url: https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
+tags: []
+languages: [java]

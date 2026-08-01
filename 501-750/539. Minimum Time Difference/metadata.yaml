@@ -1,2 +1,6 @@
 name: Minimum Time Difference
 difficulty: Medium
+id: 539
+url: https://leetcode.com/problems/minimum-time-difference/
+tags: []
+languages: [java]

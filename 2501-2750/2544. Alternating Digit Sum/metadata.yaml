@@ -1,2 +1,6 @@
 name: Alternating Digit Sum
 difficulty: Easy
+id: 2544
+url: https://leetcode.com/problems/alternating-digit-sum/
+tags: []
+languages: [java]

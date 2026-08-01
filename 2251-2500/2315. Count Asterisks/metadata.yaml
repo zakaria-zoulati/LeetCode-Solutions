@@ -1,2 +1,6 @@
 name: Count Asterisks
 difficulty: Easy
+id: 2315
+url: https://leetcode.com/problems/count-asterisks/
+tags: []
+languages: [java]

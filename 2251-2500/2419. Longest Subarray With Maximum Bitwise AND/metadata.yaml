@@ -1,2 +1,6 @@
 name: Longest Subarray With Maximum Bitwise AND
 difficulty: Medium
+id: 2419
+url: https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
+tags: []
+languages: [java]

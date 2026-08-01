@@ -1,2 +1,6 @@
 name: Maximum K to Sort a Permutation
 difficulty: Medium
+id: 3644
+url: https://leetcode.com/problems/maximum-k-to-sort-a-permutation/
+tags: []
+languages: [java]

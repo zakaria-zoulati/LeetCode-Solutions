@@ -1,2 +1,6 @@
 name: Sum of Nodes with Even-Valued Grandparent
 difficulty: Medium
+id: 1315
+url: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+tags: []
+languages: [java]

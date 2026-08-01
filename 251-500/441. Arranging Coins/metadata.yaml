@@ -1,2 +1,6 @@
 name: Arranging Coins
 difficulty: Easy
+id: 441
+url: https://leetcode.com/problems/arranging-coins/
+tags: []
+languages: [java]

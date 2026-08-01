@@ -1,2 +1,6 @@
 name: Maximum Sum of Distinct Subarrays With Length K
 difficulty: Medium
+id: 2461
+url: https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
+tags: []
+languages: [java]

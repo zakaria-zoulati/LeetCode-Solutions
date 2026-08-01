@@ -1,2 +1,6 @@
 name: Divide Array Into Equal Pairs
 difficulty: Easy
+id: 2206
+url: https://leetcode.com/problems/divide-array-into-equal-pairs/
+tags: []
+languages: [java]

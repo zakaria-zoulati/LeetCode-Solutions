@@ -1,2 +1,6 @@
 name: Reverse Prefix of Word
 difficulty: Easy
+id: 2000
+url: https://leetcode.com/problems/reverse-prefix-of-word/
+tags: []
+languages: [java, python]

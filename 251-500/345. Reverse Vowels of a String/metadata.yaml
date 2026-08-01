@@ -1,2 +1,6 @@
 name: Reverse Vowels of a String
 difficulty: Easy
+id: 345
+url: https://leetcode.com/problems/reverse-vowels-of-a-string/
+tags: []
+languages: [java]

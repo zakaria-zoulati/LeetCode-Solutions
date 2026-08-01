@@ -1,2 +1,6 @@
 name: Count Number of Teams
 difficulty: Medium
+id: 1395
+url: https://leetcode.com/problems/count-number-of-teams/
+tags: []
+languages: [java]

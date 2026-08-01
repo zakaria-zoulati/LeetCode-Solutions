@@ -1,2 +1,6 @@
 name: Minimum Impossible OR
 difficulty: Medium
+id: 2568
+url: https://leetcode.com/problems/minimum-impossible-or/
+tags: []
+languages: [java]

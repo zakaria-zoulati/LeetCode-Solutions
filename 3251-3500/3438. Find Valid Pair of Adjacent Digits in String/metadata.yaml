@@ -1,2 +1,6 @@
 name: Find Valid Pair of Adjacent Digits in String
 difficulty: Easy
+id: 3438
+url: https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/
+tags: []
+languages: [java]

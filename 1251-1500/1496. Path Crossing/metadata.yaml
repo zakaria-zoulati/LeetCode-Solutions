@@ -1,2 +1,6 @@
 name: Path Crossing
 difficulty: Easy
+id: 1496
+url: https://leetcode.com/problems/path-crossing/
+tags: []
+languages: [rust]

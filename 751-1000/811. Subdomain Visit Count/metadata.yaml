@@ -1,2 +1,6 @@
 name: Subdomain Visit Count
 difficulty: Medium
+id: 811
+url: https://leetcode.com/problems/subdomain-visit-count/
+tags: []
+languages: [java]

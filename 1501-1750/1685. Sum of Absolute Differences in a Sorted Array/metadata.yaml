@@ -1,2 +1,6 @@
 name: Sum of Absolute Differences in a Sorted Array
 difficulty: Medium
+id: 1685
+url: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Maximum Split of Positive Even Integers
 difficulty: Medium
+id: 2178
+url: https://leetcode.com/problems/maximum-split-of-positive-even-integers/
+tags: []
+languages: [cpp, java]

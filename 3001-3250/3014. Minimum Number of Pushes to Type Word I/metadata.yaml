@@ -1,2 +1,6 @@
 name: Minimum Number of Pushes to Type Word I
 difficulty: Easy
+id: 3014
+url: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
+tags: []
+languages: [cpp]

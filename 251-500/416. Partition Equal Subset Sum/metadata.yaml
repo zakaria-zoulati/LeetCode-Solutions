@@ -1,2 +1,6 @@
 name: Partition Equal Subset Sum
 difficulty: Medium
+id: 416
+url: https://leetcode.com/problems/partition-equal-subset-sum/
+tags: []
+languages: [cpp, java]

@@ -1,2 +1,6 @@
-name:  Minimum Discards to Balance Inventory
+name: Minimum Discards to Balance Inventory
 difficulty: Medium
+id: 3679
+url: https://leetcode.com/problems/minimum-discards-to-balance-inventory/
+tags: []
+languages: [java]

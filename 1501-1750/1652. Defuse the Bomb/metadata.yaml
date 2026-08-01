@@ -1,2 +1,6 @@
 name: Defuse the Bomb
 difficulty: Easy
+id: 1652
+url: https://leetcode.com/problems/defuse-the-bomb/
+tags: []
+languages: [java]

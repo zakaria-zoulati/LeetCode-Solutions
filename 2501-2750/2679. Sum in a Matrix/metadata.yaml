@@ -1,2 +1,6 @@
 name: Sum in a Matrix
 difficulty: Medium
+id: 2679
+url: https://leetcode.com/problems/sum-in-a-matrix/
+tags: []
+languages: [java]

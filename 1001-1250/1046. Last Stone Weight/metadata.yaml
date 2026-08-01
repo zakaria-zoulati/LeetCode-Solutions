@@ -1,2 +1,6 @@
 name: Last Stone Weight
 difficulty: Easy
+id: 1046
+url: https://leetcode.com/problems/last-stone-weight/
+tags: []
+languages: [java]

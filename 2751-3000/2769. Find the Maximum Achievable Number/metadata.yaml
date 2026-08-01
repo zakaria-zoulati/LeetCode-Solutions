@@ -1,2 +1,6 @@
 name: Find the Maximum Achievable Number
 difficulty: Easy
+id: 2769
+url: https://leetcode.com/problems/find-the-maximum-achievable-number/
+tags: []
+languages: [go, java]

@@ -1,2 +1,6 @@
 name: First Missing Positive
 difficulty: Hard
+id: 41
+url: https://leetcode.com/problems/first-missing-positive/
+tags: []
+languages: [java]

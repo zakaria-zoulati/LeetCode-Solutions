@@ -1,2 +1,6 @@
 name: Number of Substrings With Only 1s
 difficulty: Medium
+id: 1513
+url: https://leetcode.com/problems/number-of-substrings-with-only-1s/
+tags: []
+languages: [cpp]

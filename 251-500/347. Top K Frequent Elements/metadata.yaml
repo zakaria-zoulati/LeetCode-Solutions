@@ -1,2 +1,6 @@
 name: Top K Frequent Elements
 difficulty: Medium
+id: 347
+url: https://leetcode.com/problems/top-k-frequent-elements/
+tags: []
+languages: [java]

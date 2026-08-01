@@ -1,2 +1,6 @@
 name: Strictly Palindromic Number
 difficulty: Medium
+id: 2396
+url: https://leetcode.com/problems/strictly-palindromic-number/
+tags: []
+languages: [java]

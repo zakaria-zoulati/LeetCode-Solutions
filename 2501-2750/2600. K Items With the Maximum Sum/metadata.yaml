@@ -1,2 +1,6 @@
 name: K Items With the Maximum Sum
 difficulty: Easy
+id: 2600
+url: https://leetcode.com/problems/k-items-with-the-maximum-sum/
+tags: []
+languages: [java]

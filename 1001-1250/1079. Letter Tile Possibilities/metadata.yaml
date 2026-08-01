@@ -1,2 +1,6 @@
 name: Letter Tile Possibilities
 difficulty: Medium
+id: 1079
+url: https://leetcode.com/problems/letter-tile-possibilities/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Largest Odd Number in String
 difficulty: Easy
+id: 1903
+url: https://leetcode.com/problems/largest-odd-number-in-string/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Lexicographical Numbers
 difficulty: Medium
+id: 386
+url: https://leetcode.com/problems/lexicographical-numbers/
+tags: []
+languages: [java]

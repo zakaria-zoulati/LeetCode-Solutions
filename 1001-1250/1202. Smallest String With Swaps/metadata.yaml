@@ -1,2 +1,6 @@
 name: Smallest String With Swaps
 difficulty: Medium
+id: 1202
+url: https://leetcode.com/problems/smallest-string-with-swaps/
+tags: []
+languages: [python]

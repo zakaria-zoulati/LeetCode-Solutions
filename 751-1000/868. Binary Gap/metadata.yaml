@@ -1,2 +1,6 @@
 name: Binary Gap
 difficulty: Easy
+id: 868
+url: https://leetcode.com/problems/binary-gap/
+tags: []
+languages: [cpp, java, python]

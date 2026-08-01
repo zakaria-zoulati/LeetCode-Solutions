@@ -1,2 +1,6 @@
 name: N-ary Tree Preorder Traversal
 difficulty: Easy
+id: 589
+url: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+tags: []
+languages: [java]

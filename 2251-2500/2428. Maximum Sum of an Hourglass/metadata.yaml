@@ -1,2 +1,6 @@
 name: Maximum Sum of an Hourglass
 difficulty: Medium
+id: 2428
+url: https://leetcode.com/problems/maximum-sum-of-an-hourglass/
+tags: []
+languages: [java]

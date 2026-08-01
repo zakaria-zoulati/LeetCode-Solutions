@@ -1,2 +1,6 @@
 name: Maximum Total Damage With Spell Casting
 difficulty: Medium
+id: 3186
+url: https://leetcode.com/problems/maximum-total-damage-with-spell-casting/
+tags: []
+languages: [cpp]

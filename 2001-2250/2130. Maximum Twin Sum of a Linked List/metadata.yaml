@@ -1,2 +1,6 @@
 name: Maximum Twin Sum of a Linked List
 difficulty: Medium
+id: 2130
+url: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+tags: []
+languages: [cpp, java]

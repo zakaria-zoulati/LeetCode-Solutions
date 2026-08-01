@@ -1,2 +1,6 @@
 name: Maximum Points You Can Obtain from Cards
 difficulty: Medium
+id: 1423
+url: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+tags: []
+languages: [java]

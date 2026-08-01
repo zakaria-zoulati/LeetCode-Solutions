@@ -1,2 +1,6 @@
 name: Minimum Processing Time
 difficulty: Medium
+id: 2895
+url: https://leetcode.com/problems/minimum-processing-time/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Repeated DNA Sequences
 difficulty: Medium
+id: 187
+url: https://leetcode.com/problems/repeated-dna-sequences/
+tags: []
+languages: [java]

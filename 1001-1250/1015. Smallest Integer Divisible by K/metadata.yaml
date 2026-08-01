@@ -1,2 +1,6 @@
 name: Smallest Integer Divisible by K
 difficulty: Medium
+id: 1015
+url: https://leetcode.com/problems/smallest-integer-divisible-by-k/
+tags: []
+languages: [java]

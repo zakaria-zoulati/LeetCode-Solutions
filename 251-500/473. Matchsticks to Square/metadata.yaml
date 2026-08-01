@@ -1,2 +1,6 @@
 name: Matchsticks to Square
 difficulty: Medium
+id: 473
+url: https://leetcode.com/problems/matchsticks-to-square/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Move Zeroes
 difficulty: Easy
+id: 283
+url: https://leetcode.com/problems/move-zeroes/
+tags: []
+languages: [java]

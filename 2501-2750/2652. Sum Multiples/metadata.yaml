@@ -1,2 +1,6 @@
 name: Sum Multiples
 difficulty: Easy
+id: 2652
+url: https://leetcode.com/problems/sum-multiples/
+tags: []
+languages: [java, python, rust]

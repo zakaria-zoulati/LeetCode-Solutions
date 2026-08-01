@@ -1,2 +1,6 @@
 name: Partition Array into Two Equal Product Subsets
 difficulty: Medium
+id: 3566
+url: https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Make Array Zero by Subtracting Equal Amounts
 difficulty: Easy
+id: 2357
+url: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
+tags: []
+languages: [java]

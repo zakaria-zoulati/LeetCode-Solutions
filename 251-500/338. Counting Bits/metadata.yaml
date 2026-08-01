@@ -1,2 +1,6 @@
 name: Counting Bits
 difficulty: Easy
+id: 338
+url: https://leetcode.com/problems/counting-bits/
+tags: []
+languages: [java]

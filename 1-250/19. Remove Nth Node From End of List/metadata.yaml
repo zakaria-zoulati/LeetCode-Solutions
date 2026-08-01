@@ -1,2 +1,6 @@
 name: Remove Nth Node From End of List
 difficulty: Medium
+id: 19
+url: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+tags: []
+languages: [java]

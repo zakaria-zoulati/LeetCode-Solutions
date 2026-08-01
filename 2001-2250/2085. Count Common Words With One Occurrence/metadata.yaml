@@ -1,2 +1,6 @@
 name: Count Common Words With One Occurrence
 difficulty: Easy
+id: 2085
+url: https://leetcode.com/problems/count-common-words-with-one-occurrence/
+tags: []
+languages: [java]

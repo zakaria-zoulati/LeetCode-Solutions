@@ -1,2 +1,6 @@
 name: Unique Binary Search Trees
 difficulty: Medium
+id: 96
+url: https://leetcode.com/problems/unique-binary-search-trees/
+tags: []
+languages: [java]

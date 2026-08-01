@@ -1,2 +1,6 @@
 name: Minimum Operations to Transform String
 difficulty: Medium
+id: 3675
+url: https://leetcode.com/problems/minimum-operations-to-transform-string/
+tags: []
+languages: [java]

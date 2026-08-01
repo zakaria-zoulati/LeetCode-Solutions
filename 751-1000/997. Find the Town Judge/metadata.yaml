@@ -1,2 +1,6 @@
 name: Find the Town Judge
 difficulty: Easy
+id: 997
+url: https://leetcode.com/problems/find-the-town-judge/
+tags: []
+languages: [java]

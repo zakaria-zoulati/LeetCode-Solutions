@@ -1,2 +1,6 @@
 name: Largest Triangle Area
 difficulty: Easy
+id: 812
+url: https://leetcode.com/problems/largest-triangle-area/
+tags: []
+languages: [java]

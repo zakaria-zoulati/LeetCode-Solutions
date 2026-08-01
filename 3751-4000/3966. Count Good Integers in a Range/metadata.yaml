@@ -1,2 +1,6 @@
 name: Count Good Integers in a Range
 difficulty: Hard
+id: 3966
+url: https://leetcode.com/problems/count-good-integers-in-a-range/
+tags: []
+languages: [cpp]

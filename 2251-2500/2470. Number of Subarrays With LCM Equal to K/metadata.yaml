@@ -1,2 +1,6 @@
 name: Number of Subarrays With LCM Equal to K
 difficulty: Medium
+id: 2470
+url: https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/
+tags: []
+languages: [java]

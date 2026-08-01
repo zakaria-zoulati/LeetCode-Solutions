@@ -1,2 +1,6 @@
 name: Count Prefixes of a Given String
 difficulty: Easy
+id: 2255
+url: https://leetcode.com/problems/count-prefixes-of-a-given-string/
+tags: []
+languages: [java]

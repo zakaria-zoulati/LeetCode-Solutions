@@ -1,2 +1,6 @@
 name: Words Within Two Edits of Dictionary
 difficulty: Medium
+id: 2452
+url: https://leetcode.com/problems/words-within-two-edits-of-dictionary/
+tags: []
+languages: [cpp]

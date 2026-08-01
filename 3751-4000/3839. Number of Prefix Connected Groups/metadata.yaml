@@ -1,2 +1,6 @@
 name: Number of Prefix Connected Groups
 difficulty: Medium
+id: 3839
+url: https://leetcode.com/problems/number-of-prefix-connected-groups/
+tags: []
+languages: [java]

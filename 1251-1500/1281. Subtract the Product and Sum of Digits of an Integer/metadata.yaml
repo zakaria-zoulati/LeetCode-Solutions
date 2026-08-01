@@ -1,2 +1,6 @@
 name: Subtract the Product and Sum of Digits of an Integer
 difficulty: Easy
+id: 1281
+url: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+tags: []
+languages: [java]

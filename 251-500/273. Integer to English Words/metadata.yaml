@@ -1,2 +1,6 @@
 name: Integer to English Words
 difficulty: Hard
+id: 273
+url: https://leetcode.com/problems/integer-to-english-words/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Find Subsequence of Length K With the Largest Sum
 difficulty: Easy
+id: 2099
+url: https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
+tags: []
+languages: [java]

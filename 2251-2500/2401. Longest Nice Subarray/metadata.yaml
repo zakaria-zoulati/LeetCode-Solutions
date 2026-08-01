@@ -1,2 +1,6 @@
 name: Longest Nice Subarray
 difficulty: Medium
+id: 2401
+url: https://leetcode.com/problems/longest-nice-subarray/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Domino and Tromino Tiling
 difficulty: Medium
+id: 790
+url: https://leetcode.com/problems/domino-and-tromino-tiling/
+tags: []
+languages: [java]

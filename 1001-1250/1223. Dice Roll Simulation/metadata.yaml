@@ -1,2 +1,6 @@
 name: Dice Roll Simulation
 difficulty: Hard
+id: 1223
+url: https://leetcode.com/problems/dice-roll-simulation/
+tags: []
+languages: [java]

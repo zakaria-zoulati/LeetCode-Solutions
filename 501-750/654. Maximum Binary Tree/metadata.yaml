@@ -1,2 +1,6 @@
 name: Maximum Binary Tree
 difficulty: Medium
+id: 654
+url: https://leetcode.com/problems/maximum-binary-tree/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Find The Original Array of Prefix Xor
 difficulty: Medium
+id: 2433
+url: https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
+tags: []
+languages: [java]

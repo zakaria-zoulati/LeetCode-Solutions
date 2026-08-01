@@ -1,2 +1,6 @@
 name: Find Elements in a Contaminated Binary Tree
 difficulty: Medium
+id: 1261
+url: https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+tags: []
+languages: [java]

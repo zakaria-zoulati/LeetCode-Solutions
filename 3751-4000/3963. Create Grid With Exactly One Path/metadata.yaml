@@ -1,2 +1,6 @@
 name: Create Grid With Exactly One Path
 difficulty: Easy
+id: 3963
+url: https://leetcode.com/problems/create-grid-with-exactly-one-path/
+tags: []
+languages: [cpp]

@@ -1,2 +1,6 @@
 name: Divide an Array Into Subarrays With Minimum Cost I
 difficulty: Easy
+id: 3010
+url: https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/
+tags: []
+languages: [cpp, python]

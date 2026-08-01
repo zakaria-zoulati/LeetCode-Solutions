@@ -1,2 +1,6 @@
 name: Longest Strictly Increasing or Strictly Decreasing Subarray
 difficulty: Easy
+id: 3105
+url: https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
+tags: []
+languages: [java]

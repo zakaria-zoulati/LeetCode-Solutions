@@ -1,2 +1,6 @@
 name: Get Equal Substrings Within Budget
 difficulty: Medium
+id: 1208
+url: https://leetcode.com/problems/get-equal-substrings-within-budget/
+tags: []
+languages: [java]

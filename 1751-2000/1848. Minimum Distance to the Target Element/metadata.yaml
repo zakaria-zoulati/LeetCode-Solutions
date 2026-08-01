@@ -1,2 +1,6 @@
 name: Minimum Distance to the Target Element
 difficulty: Easy
+id: 1848
+url: https://leetcode.com/problems/minimum-distance-to-the-target-element/
+tags: []
+languages: [cpp]

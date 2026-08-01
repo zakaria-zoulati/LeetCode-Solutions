@@ -1,2 +1,6 @@
 name: Top K Frequent Words
 difficulty: Medium
+id: 692
+url: https://leetcode.com/problems/top-k-frequent-words/
+tags: []
+languages: [java]

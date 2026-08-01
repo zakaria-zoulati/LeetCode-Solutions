@@ -1,2 +1,6 @@
 name: Minimum Jumps to Reach End via Prime Teleportation
 difficulty: Medium
+id: 3629
+url: https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/
+tags: []
+languages: [java]

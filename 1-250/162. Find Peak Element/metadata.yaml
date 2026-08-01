@@ -1,2 +1,6 @@
 name: Find Peak Element
 difficulty: Medium
+id: 162
+url: https://leetcode.com/problems/find-peak-element/
+tags: []
+languages: [java]

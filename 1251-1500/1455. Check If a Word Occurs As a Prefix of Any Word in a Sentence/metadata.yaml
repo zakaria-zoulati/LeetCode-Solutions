@@ -1,2 +1,6 @@
 name: Check If a Word Occurs As a Prefix of Any Word in a Sentence
 difficulty: Easy
+id: 1455
+url: https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
+tags: []
+languages: [java]

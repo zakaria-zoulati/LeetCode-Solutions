@@ -1,2 +1,6 @@
 name: Possible Bipartition
 difficulty: Medium
+id: 886
+url: https://leetcode.com/problems/possible-bipartition/
+tags: []
+languages: [java]

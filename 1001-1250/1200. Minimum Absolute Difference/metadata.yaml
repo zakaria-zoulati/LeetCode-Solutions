@@ -1,2 +1,6 @@
 name: Minimum Absolute Difference
 difficulty: Easy
+id: 1200
+url: https://leetcode.com/problems/minimum-absolute-difference/
+tags: []
+languages: [java, python]

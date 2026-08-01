@@ -1,2 +1,6 @@
 name: Number of Subarrays With GCD Equal to K
 difficulty: Medium
+id: 2447
+url: https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/
+tags: []
+languages: [java]

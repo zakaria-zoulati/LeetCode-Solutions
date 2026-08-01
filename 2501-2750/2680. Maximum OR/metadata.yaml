@@ -1,2 +1,6 @@
 name: Maximum OR
 difficulty: Medium
+id: 2680
+url: https://leetcode.com/problems/maximum-or/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Subarray Sums Divisible by K
 difficulty: Medium
+id: 974
+url: https://leetcode.com/problems/subarray-sums-divisible-by-k/
+tags: []
+languages: [java]

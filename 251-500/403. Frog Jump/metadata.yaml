@@ -1,2 +1,6 @@
 name: Frog Jump
 difficulty: Hard
+id: 403
+url: https://leetcode.com/problems/frog-jump/
+tags: []
+languages: [java]

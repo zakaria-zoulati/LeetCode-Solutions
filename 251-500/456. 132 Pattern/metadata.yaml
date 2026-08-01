@@ -1,2 +1,6 @@
 name: 132 Pattern
 difficulty: Medium
+id: 456
+url: https://leetcode.com/problems/132-pattern/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Number of Subsequences That Satisfy the Given Sum Condition
 difficulty: Medium
+id: 1498
+url: https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+tags: []
+languages: [java]

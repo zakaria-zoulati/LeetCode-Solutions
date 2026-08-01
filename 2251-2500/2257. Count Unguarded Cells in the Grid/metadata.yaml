@@ -1,2 +1,6 @@
 name: Count Unguarded Cells in the Grid
 difficulty: Medium
+id: 2257
+url: https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
+tags: []
+languages: [java, python]

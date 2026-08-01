@@ -1,2 +1,6 @@
 name: Max Area of Island
 difficulty: Medium
+id: 695
+url: https://leetcode.com/problems/max-area-of-island/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Minimum Add to Make Parentheses Valid
 difficulty: Medium
+id: 921
+url: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+tags: []
+languages: [java]

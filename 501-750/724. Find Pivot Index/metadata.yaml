@@ -1,2 +1,6 @@
 name: Find Pivot Index
 difficulty: Easy
+id: 724
+url: https://leetcode.com/problems/find-pivot-index/
+tags: []
+languages: [java]

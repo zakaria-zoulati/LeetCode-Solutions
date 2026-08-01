@@ -1,2 +1,6 @@
 name: Binary Tree Postorder Traversal
 difficulty: Easy
+id: 145
+url: https://leetcode.com/problems/binary-tree-postorder-traversal/
+tags: []
+languages: [java, python]

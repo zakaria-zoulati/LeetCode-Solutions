@@ -1,2 +1,6 @@
 name: Water Bottles
 difficulty: Easy
+id: 1518
+url: https://leetcode.com/problems/water-bottles/
+tags: []
+languages: [java]

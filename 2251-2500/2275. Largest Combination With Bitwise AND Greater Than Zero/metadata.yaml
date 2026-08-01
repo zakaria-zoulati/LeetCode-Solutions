@@ -1,2 +1,6 @@
 name: Largest Combination With Bitwise AND Greater Than Zero
 difficulty: Medium
+id: 2275
+url: https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
+tags: []
+languages: [java]

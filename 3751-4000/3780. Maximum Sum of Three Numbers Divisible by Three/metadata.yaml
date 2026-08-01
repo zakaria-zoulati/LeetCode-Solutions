@@ -1,2 +1,6 @@
 name: Maximum Sum of Three Numbers Divisible by Three
 difficulty: Medium
+id: 3780
+url: https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/
+tags: []
+languages: [java]

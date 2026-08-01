@@ -1,2 +1,6 @@
 name: Construct String With Repeat Limit
 difficulty: Medium
+id: 2182
+url: https://leetcode.com/problems/construct-string-with-repeat-limit/
+tags: []
+languages: [java]

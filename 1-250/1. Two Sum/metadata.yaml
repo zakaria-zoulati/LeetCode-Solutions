@@ -1,2 +1,6 @@
 name: Two Sum
 difficulty: Easy
+id: 1
+url: https://leetcode.com/problems/two-sum/
+tags: []
+languages: [cpp, java, php]

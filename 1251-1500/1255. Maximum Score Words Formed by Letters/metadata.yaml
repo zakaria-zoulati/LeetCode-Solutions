@@ -1,2 +1,6 @@
 name: Maximum Score Words Formed by Letters
 difficulty: Hard
+id: 1255
+url: https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+tags: []
+languages: [java]

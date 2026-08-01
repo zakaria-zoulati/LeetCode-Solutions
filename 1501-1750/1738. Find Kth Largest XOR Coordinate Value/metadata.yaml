@@ -1,2 +1,6 @@
 name: Find Kth Largest XOR Coordinate Value
 difficulty: Medium
+id: 1738
+url: https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Sliding Window Maximum
 difficulty: Hard
+id: 239
+url: https://leetcode.com/problems/sliding-window-maximum/
+tags: []
+languages: [java]

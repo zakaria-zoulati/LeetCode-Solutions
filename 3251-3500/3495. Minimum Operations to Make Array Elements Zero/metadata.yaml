@@ -1,2 +1,6 @@
 name: Minimum Operations to Make Array Elements Zero
 difficulty: Hard
+id: 3495
+url: https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Twisted Mirror Path Count
 difficulty: Medium
+id: 3665
+url: https://leetcode.com/problems/twisted-mirror-path-count/
+tags: []
+languages: [java]

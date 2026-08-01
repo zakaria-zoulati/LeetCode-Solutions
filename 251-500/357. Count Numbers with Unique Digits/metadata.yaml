@@ -1,2 +1,6 @@
 name: Count Numbers with Unique Digits
 difficulty: Medium
+id: 357
+url: https://leetcode.com/problems/count-numbers-with-unique-digits/
+tags: []
+languages: [java]

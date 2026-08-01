@@ -1,2 +1,6 @@
 name: Minimum Absolute Difference in Sliding Submatrix
 difficulty: Medium
+id: 3567
+url: https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/
+tags: []
+languages: [java]

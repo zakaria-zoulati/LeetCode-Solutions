@@ -1,2 +1,6 @@
 name: Calculate Digit Sum of a String
 difficulty: Easy
+id: 2243
+url: https://leetcode.com/problems/calculate-digit-sum-of-a-string/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Invert Binary Tree
 difficulty: Easy
+id: 226
+url: https://leetcode.com/problems/invert-binary-tree/
+tags: []
+languages: [java]

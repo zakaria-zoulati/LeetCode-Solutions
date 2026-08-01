@@ -1,2 +1,6 @@
 name: K Closest Points to Origin
 difficulty: Medium
+id: 973
+url: https://leetcode.com/problems/k-closest-points-to-origin/
+tags: []
+languages: [java]

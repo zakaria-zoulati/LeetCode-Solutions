@@ -1,2 +1,6 @@
 name: Insert into a Binary Search Tree
 difficulty: Medium
+id: 701
+url: https://leetcode.com/problems/insert-into-a-binary-search-tree/
+tags: []
+languages: [java]

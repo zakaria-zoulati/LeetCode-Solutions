@@ -1,2 +1,6 @@
 name: Decode Ways
 difficulty: Medium
+id: 91
+url: https://leetcode.com/problems/decode-ways/
+tags: []
+languages: [java, python]

@@ -1,2 +1,6 @@
 name: Remove Letter To Equalize Frequency
 difficulty: Easy
+id: 2423
+url: https://leetcode.com/problems/remove-letter-to-equalize-frequency/
+tags: []
+languages: [java]

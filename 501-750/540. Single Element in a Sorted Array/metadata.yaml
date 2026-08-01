@@ -1,2 +1,6 @@
 name: Single Element in a Sorted Array
 difficulty: Medium
+id: 540
+url: https://leetcode.com/problems/single-element-in-a-sorted-array/
+tags: []
+languages: [java]

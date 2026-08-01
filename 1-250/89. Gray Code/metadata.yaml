@@ -1,2 +1,6 @@
 name: Gray Code
 difficulty: Medium
+id: 89
+url: https://leetcode.com/problems/gray-code/
+tags: []
+languages: [java]

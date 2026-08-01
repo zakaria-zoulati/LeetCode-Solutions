@@ -1,2 +1,6 @@
 name: Number of Senior Citizens
 difficulty: Easy
+id: 2678
+url: https://leetcode.com/problems/number-of-senior-citizens/
+tags: []
+languages: [java]

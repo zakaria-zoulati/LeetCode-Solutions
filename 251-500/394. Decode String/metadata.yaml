@@ -1,2 +1,6 @@
 name: Decode String
 difficulty: Medium
+id: 394
+url: https://leetcode.com/problems/decode-string/
+tags: []
+languages: [java]

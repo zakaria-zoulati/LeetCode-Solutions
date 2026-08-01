@@ -1,2 +1,6 @@
 name: Decode the Message
 difficulty: Easy
+id: 2325
+url: https://leetcode.com/problems/decode-the-message/
+tags: []
+languages: [java]

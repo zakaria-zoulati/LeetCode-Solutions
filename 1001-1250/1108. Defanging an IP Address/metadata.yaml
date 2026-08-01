@@ -1,2 +1,6 @@
 name: Defanging an IP Address
 difficulty: Easy
+id: 1108
+url: https://leetcode.com/problems/defanging-an-ip-address/
+tags: []
+languages: [java]

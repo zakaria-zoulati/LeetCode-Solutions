@@ -1,2 +1,6 @@
 name: Minimum Initial Strength to Defeat All Monsters
 difficulty: Medium
+id: 4008
+url: https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/
+tags: []
+languages: [cpp]

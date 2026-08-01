@@ -1,2 +1,6 @@
 name: Maximum Candies You Can Get from Boxes
 difficulty: Hard
+id: 1298
+url: https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
+tags: []
+languages: [java]

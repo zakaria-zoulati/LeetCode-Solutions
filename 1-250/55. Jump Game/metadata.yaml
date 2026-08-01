@@ -1,2 +1,6 @@
 name: Jump Game
 difficulty: Medium
+id: 55
+url: https://leetcode.com/problems/jump-game/
+tags: []
+languages: [cpp, java]

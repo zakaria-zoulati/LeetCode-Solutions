@@ -1,2 +1,6 @@
 name: Longest Happy String
 difficulty: Medium
+id: 1405
+url: https://leetcode.com/problems/longest-happy-string/
+tags: []
+languages: [java]

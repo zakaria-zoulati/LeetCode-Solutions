@@ -1,2 +1,6 @@
 name: Prime Pairs With Target Sum
 difficulty: Medium
+id: 2761
+url: https://leetcode.com/problems/prime-pairs-with-target-sum/
+tags: []
+languages: [java]

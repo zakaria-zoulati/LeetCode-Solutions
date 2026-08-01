@@ -1,2 +1,6 @@
 name: Maximum Possible Number by Binary Concatenation
 difficulty: Medium
+id: 3309
+url: https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/
+tags: []
+languages: [java]

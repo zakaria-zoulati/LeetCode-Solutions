@@ -1,2 +1,6 @@
 name: Fill a Special Grid
 difficulty: Medium
+id: 3537
+url: https://leetcode.com/problems/fill-a-special-grid/
+tags: []
+languages: [java]

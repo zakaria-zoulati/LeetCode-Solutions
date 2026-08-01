@@ -1,2 +1,6 @@
 name: Remove All Occurrences of a Substring
 difficulty: Medium
+id: 1910
+url: https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
+tags: []
+languages: [java]

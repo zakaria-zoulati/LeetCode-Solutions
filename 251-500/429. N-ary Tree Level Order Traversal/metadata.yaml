@@ -1,2 +1,6 @@
 name: N-ary Tree Level Order Traversal
 difficulty: Medium
+id: 429
+url: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+tags: []
+languages: [java]

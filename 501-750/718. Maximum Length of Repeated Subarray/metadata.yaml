@@ -1,2 +1,6 @@
 name: Maximum Length of Repeated Subarray
 difficulty: Medium
+id: 718
+url: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+tags: []
+languages: [java]

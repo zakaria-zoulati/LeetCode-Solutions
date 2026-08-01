@@ -1,2 +1,6 @@
 name: Partitioning Into Minimum Number Of Deci-Binary Numbers
 difficulty: Medium
+id: 1689
+url: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+tags: []
+languages: [java]

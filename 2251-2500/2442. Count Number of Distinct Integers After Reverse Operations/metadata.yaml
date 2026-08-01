@@ -1,2 +1,6 @@
 name: Count Number of Distinct Integers After Reverse Operations
 difficulty: Medium
+id: 2442
+url: https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
+tags: []
+languages: [java]

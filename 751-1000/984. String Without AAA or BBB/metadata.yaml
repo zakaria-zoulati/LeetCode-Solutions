@@ -1,2 +1,6 @@
 name: String Without AAA or BBB
 difficulty: Medium
+id: 984
+url: https://leetcode.com/problems/string-without-aaa-or-bbb/
+tags: []
+languages: [java]

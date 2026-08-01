@@ -1,2 +1,6 @@
 name: Binary Subarrays With Sum
 difficulty: Medium
+id: 930
+url: https://leetcode.com/problems/binary-subarrays-with-sum/
+tags: []
+languages: [java]

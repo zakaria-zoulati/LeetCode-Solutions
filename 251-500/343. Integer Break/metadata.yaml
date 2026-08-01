@@ -1,2 +1,6 @@
 name: Integer Break
 difficulty: Medium
+id: 343
+url: https://leetcode.com/problems/integer-break/
+tags: []
+languages: [java]

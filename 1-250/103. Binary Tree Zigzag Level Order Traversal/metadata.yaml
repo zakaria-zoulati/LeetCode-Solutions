@@ -1,2 +1,6 @@
 name: Binary Tree Zigzag Level Order Traversal
 difficulty: Medium
+id: 103
+url: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+tags: []
+languages: [java]

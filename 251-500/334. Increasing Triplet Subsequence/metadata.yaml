@@ -1,2 +1,6 @@
 name: Increasing Triplet Subsequence
 difficulty: Medium
+id: 334
+url: https://leetcode.com/problems/increasing-triplet-subsequence/
+tags: []
+languages: [java]

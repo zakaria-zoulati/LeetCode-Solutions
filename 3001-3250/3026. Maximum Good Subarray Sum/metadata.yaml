@@ -1,2 +1,6 @@
 name: Maximum Good Subarray Sum
 difficulty: Medium
+id: 3026
+url: https://leetcode.com/problems/maximum-good-subarray-sum/
+tags: []
+languages: [java]

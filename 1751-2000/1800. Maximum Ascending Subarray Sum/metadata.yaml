@@ -1,2 +1,6 @@
 name: Maximum Ascending Subarray Sum
 difficulty: Easy
+id: 1800
+url: https://leetcode.com/problems/maximum-ascending-subarray-sum/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Asteroid Collision
 difficulty: Medium
+id: 735
+url: https://leetcode.com/problems/asteroid-collision/
+tags: []
+languages: [java]

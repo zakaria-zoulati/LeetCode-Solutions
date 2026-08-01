@@ -1,2 +1,6 @@
 name: Prime Subtraction Operation
 difficulty: Medium
+id: 2601
+url: https://leetcode.com/problems/prime-subtraction-operation/
+tags: []
+languages: [java]

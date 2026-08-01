@@ -1,2 +1,6 @@
 name: Search Insert Position
 difficulty: Easy
+id: 35
+url: https://leetcode.com/problems/search-insert-position/
+tags: []
+languages: [php]

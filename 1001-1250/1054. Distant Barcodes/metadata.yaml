@@ -1,2 +1,6 @@
 name: Distant Barcodes
 difficulty: Medium
+id: 1054
+url: https://leetcode.com/problems/distant-barcodes/
+tags: []
+languages: [java]

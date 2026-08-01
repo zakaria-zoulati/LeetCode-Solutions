@@ -1,2 +1,6 @@
 name: The kth Factor of n
 difficulty: Medium
+id: 1492
+url: https://leetcode.com/problems/the-kth-factor-of-n/
+tags: []
+languages: [java]

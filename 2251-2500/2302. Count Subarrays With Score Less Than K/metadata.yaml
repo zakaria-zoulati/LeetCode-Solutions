@@ -1,2 +1,6 @@
 name: Count Subarrays With Score Less Than K
 difficulty: Hard
+id: 2302
+url: https://leetcode.com/problems/count-subarrays-with-score-less-than-k/
+tags: []
+languages: [java]

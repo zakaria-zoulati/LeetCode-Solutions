@@ -1,2 +1,6 @@
 name: Binary Tree Level Order Traversal
 difficulty: Medium
+id: 102
+url: https://leetcode.com/problems/binary-tree-level-order-traversal/
+tags: []
+languages: [java]

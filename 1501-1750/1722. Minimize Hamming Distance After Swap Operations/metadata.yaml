@@ -1,2 +1,6 @@
 name: Minimize Hamming Distance After Swap Operations
 difficulty: Medium
+id: 1722
+url: https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
+tags: []
+languages: [cpp]

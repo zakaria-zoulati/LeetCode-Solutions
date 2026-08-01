@@ -1,2 +1,6 @@
 name: Fraction to Recurring Decimal
 difficulty: Medium
+id: 166
+url: https://leetcode.com/problems/fraction-to-recurring-decimal/
+tags: []
+languages: [java]

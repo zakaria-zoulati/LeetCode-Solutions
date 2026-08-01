@@ -1,2 +1,6 @@
 name: Kth Missing Positive Number
 difficulty: Easy
+id: 1539
+url: https://leetcode.com/problems/kth-missing-positive-number/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Non-overlapping Intervals
 difficulty: Medium
+id: 435
+url: https://leetcode.com/problems/non-overlapping-intervals/
+tags: []
+languages: [java]

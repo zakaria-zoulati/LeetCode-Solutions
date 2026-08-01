@@ -1,2 +1,6 @@
 name: Count Sub Islands
 difficulty: Medium
+id: 1905
+url: https://leetcode.com/problems/count-sub-islands/
+tags: []
+languages: [java]

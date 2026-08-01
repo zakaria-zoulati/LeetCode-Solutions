@@ -1,2 +1,6 @@
 name: Plus One
 difficulty: Easy
+id: 66
+url: https://leetcode.com/problems/plus-one/
+tags: []
+languages: [cpp]

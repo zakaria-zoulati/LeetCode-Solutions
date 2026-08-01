@@ -1,2 +1,6 @@
 name: Rearrange Array Elements by Sign
 difficulty: Medium
+id: 2149
+url: https://leetcode.com/problems/rearrange-array-elements-by-sign/
+tags: []
+languages: [java, python]

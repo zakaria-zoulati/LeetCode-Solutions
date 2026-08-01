@@ -1,2 +1,6 @@
 name: Set Matrix Zeroes
 difficulty: Medium
+id: 73
+url: https://leetcode.com/problems/set-matrix-zeroes/
+tags: []
+languages: [java, python]

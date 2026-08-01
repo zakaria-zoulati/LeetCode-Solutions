@@ -1,2 +1,6 @@
 name: Number of Ways to Split Array
 difficulty: Medium
+id: 2270
+url: https://leetcode.com/problems/number-of-ways-to-split-array/
+tags: []
+languages: [java]

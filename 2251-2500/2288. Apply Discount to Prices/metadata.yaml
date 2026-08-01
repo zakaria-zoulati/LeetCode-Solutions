@@ -1,2 +1,6 @@
 name: Apply Discount to Prices
 difficulty: Medium
+id: 2288
+url: https://leetcode.com/problems/apply-discount-to-prices/
+tags: []
+languages: [java]

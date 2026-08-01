@@ -1,2 +1,6 @@
 name: Minimum Operations to Make Median of Array Equal to K
 difficulty: Medium
+id: 3107
+url: https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/
+tags: []
+languages: [java]

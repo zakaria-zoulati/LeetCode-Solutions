@@ -1,2 +1,6 @@
 name: Find the Child Who Has the Ball After K Seconds
 difficulty: Easy
+id: 3178
+url: https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/
+tags: []
+languages: [java]

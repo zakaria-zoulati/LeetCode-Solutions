@@ -1,2 +1,6 @@
 name: Max Consecutive Ones III
 difficulty: Medium
+id: 1004
+url: https://leetcode.com/problems/max-consecutive-ones-iii/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Make Sum Divisible by P
 difficulty: Medium
+id: 1590
+url: https://leetcode.com/problems/make-sum-divisible-by-p/
+tags: []
+languages: [java]

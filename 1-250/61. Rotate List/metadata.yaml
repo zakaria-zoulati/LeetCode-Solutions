@@ -1,2 +1,6 @@
 name: Rotate List
 difficulty: Medium
+id: 61
+url: https://leetcode.com/problems/rotate-list/
+tags: []
+languages: [java]

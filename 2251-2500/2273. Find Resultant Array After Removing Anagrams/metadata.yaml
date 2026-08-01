@@ -1,2 +1,6 @@
 name: Find Resultant Array After Removing Anagrams
 difficulty: Easy
+id: 2273
+url: https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
+tags: []
+languages: [cpp]

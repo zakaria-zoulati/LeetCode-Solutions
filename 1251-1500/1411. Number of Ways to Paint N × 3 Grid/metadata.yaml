@@ -1,2 +1,6 @@
 name: Number of Ways to Paint N × 3 Grid
 difficulty: Hard
+id: 1411
+url: https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
+tags: []
+languages: [java]

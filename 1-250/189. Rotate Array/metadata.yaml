@@ -1,2 +1,6 @@
 name: Rotate Array
 difficulty: Medium
+id: 189
+url: https://leetcode.com/problems/rotate-array/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Count Triplets That Can Form Two Arrays of Equal XOR
 difficulty: Medium
+id: 1442
+url: https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
+tags: []
+languages: [java]

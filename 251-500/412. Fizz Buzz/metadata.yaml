@@ -1,2 +1,6 @@
 name: Fizz Buzz
 difficulty: Easy
+id: 412
+url: https://leetcode.com/problems/fizz-buzz/
+tags: []
+languages: [rust]

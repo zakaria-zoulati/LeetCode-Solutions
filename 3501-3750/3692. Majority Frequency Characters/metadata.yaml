@@ -1,2 +1,6 @@
 name: Majority Frequency Characters
 difficulty: Easy
+id: 3692
+url: https://leetcode.com/problems/majority-frequency-characters/
+tags: []
+languages: [java]

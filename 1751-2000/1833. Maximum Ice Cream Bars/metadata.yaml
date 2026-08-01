@@ -1,2 +1,6 @@
 name: Maximum Ice Cream Bars
 difficulty: Medium
+id: 1833
+url: https://leetcode.com/problems/maximum-ice-cream-bars/
+tags: []
+languages: [cpp, java]

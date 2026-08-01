@@ -1,2 +1,6 @@
 name: Strange Printer
 difficulty: Hard
+id: 664
+url: https://leetcode.com/problems/strange-printer/
+tags: []
+languages: [cpp]

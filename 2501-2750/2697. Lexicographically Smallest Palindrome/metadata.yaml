@@ -1,2 +1,6 @@
 name: Lexicographically Smallest Palindrome
 difficulty: Easy
+id: 2697
+url: https://leetcode.com/problems/lexicographically-smallest-palindrome/
+tags: []
+languages: [java]

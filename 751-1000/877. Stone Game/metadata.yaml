@@ -1,2 +1,6 @@
 name: Stone Game
 difficulty: Medium
+id: 877
+url: https://leetcode.com/problems/stone-game/
+tags: []
+languages: [java]

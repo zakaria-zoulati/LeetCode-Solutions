@@ -1,2 +1,6 @@
 name: Minimum Increment to Make Array Unique
 difficulty: Medium
+id: 945
+url: https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+tags: []
+languages: [java]

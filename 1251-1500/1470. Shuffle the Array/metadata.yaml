@@ -1,2 +1,6 @@
 name: Shuffle the Array
 difficulty: Easy
+id: 1470
+url: https://leetcode.com/problems/shuffle-the-array/
+tags: []
+languages: [go]

@@ -1,2 +1,6 @@
 name: N-th Tribonacci Number
 difficulty: Easy
+id: 1137
+url: https://leetcode.com/problems/n-th-tribonacci-number/
+tags: []
+languages: [java]

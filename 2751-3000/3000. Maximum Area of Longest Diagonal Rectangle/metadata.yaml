@@ -1,2 +1,6 @@
 name: Maximum Area of Longest Diagonal Rectangle
 difficulty: Easy
+id: 3000
+url: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
+tags: []
+languages: [java]

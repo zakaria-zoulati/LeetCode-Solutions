@@ -1,2 +1,6 @@
 name: Minimum Number of Increments on Subarrays to Form a Target Array
 difficulty: Hard
+id: 1526
+url: https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
+tags: []
+languages: [java]

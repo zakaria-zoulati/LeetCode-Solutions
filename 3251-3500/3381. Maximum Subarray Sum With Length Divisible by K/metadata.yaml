@@ -1,2 +1,6 @@
 name: Maximum Subarray Sum With Length Divisible by K
 difficulty: Medium
+id: 3381
+url: https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/
+tags: []
+languages: [java]

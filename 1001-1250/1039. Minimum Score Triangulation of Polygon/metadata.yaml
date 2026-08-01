@@ -1,2 +1,6 @@
 name: Minimum Score Triangulation of Polygon
 difficulty: Medium
+id: 1039
+url: https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+tags: []
+languages: [java]

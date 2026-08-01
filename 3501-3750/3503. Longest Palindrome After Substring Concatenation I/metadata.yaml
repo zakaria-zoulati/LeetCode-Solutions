@@ -1,2 +1,6 @@
 name: Longest Palindrome After Substring Concatenation I
 difficulty: Medium
+id: 3503
+url: https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i/
+tags: []
+languages: [java]

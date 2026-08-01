@@ -1,2 +1,6 @@
 name: Peaks in Array
 difficulty: Hard
+id: 3187
+url: https://leetcode.com/problems/peaks-in-array/
+tags: []
+languages: [cpp]

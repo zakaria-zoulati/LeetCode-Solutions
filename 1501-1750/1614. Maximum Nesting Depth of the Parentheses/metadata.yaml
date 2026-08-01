@@ -1,2 +1,6 @@
 name: Maximum Nesting Depth of the Parentheses
 difficulty: Easy
+id: 1614
+url: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+tags: []
+languages: [java]

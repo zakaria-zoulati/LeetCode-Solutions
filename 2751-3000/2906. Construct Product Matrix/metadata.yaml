@@ -1,2 +1,6 @@
 name: Construct Product Matrix
 difficulty: Medium
+id: 2906
+url: https://leetcode.com/problems/construct-product-matrix/
+tags: []
+languages: [java]

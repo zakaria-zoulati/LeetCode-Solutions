@@ -1,2 +1,6 @@
 name: Number of Sub-arrays With Odd Sum
 difficulty: Medium
+id: 1524
+url: https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
+tags: []
+languages: [java]

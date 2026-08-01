@@ -1,2 +1,6 @@
 name: Replace Non-Coprime Numbers in Array
 difficulty: Hard
+id: 2197
+url: https://leetcode.com/problems/replace-non-coprime-numbers-in-array/
+tags: []
+languages: [java]

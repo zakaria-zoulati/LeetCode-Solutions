@@ -1,2 +1,6 @@
 name: Number of Good Pairs
 difficulty: Easy
+id: 1512
+url: https://leetcode.com/problems/number-of-good-pairs/
+tags: []
+languages: [cpp, go, java, javascript, python, rust]

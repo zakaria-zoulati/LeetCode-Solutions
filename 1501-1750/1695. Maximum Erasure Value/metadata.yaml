@@ -1,2 +1,6 @@
 name: Maximum Erasure Value
 difficulty: Medium
+id: 1695
+url: https://leetcode.com/problems/maximum-erasure-value/
+tags: []
+languages: [java]

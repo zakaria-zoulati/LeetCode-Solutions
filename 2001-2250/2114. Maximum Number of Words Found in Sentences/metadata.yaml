@@ -1,2 +1,6 @@
 name: Maximum Number of Words Found in Sentences
 difficulty: Easy
+id: 2114
+url: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+tags: []
+languages: [java, javascript, python, rust]

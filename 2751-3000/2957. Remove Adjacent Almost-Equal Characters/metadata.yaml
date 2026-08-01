@@ -1,2 +1,6 @@
 name: Remove Adjacent Almost-Equal Characters
 difficulty: Medium
+id: 2957
+url: https://leetcode.com/problems/remove-adjacent-almost-equal-characters/
+tags: []
+languages: [java]

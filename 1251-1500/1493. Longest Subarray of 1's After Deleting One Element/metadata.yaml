@@ -1,2 +1,6 @@
 name: Longest Subarray of 1's After Deleting One Element
 difficulty: Medium
+id: 1493
+url: https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+tags: []
+languages: [java]

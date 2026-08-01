@@ -1,2 +1,6 @@
 name: Taking Maximum Energy From the Mystic Dungeon
 difficulty: Medium
+id: 3147
+url: https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/
+tags: []
+languages: [cpp]

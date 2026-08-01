@@ -1,2 +1,6 @@
 name: Number of Visible People in a Queue
 difficulty: Hard
+id: 1944
+url: https://leetcode.com/problems/number-of-visible-people-in-a-queue/
+tags: []
+languages: [java]

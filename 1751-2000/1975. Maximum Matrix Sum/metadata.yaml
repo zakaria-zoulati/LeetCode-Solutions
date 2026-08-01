@@ -1,2 +1,6 @@
 name: Maximum Matrix Sum
 difficulty: Medium
+id: 1975
+url: https://leetcode.com/problems/maximum-matrix-sum/
+tags: []
+languages: [java]

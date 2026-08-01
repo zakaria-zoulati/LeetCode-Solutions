@@ -1,2 +1,6 @@
 name: Total Hamming Distance
 difficulty: Medium
+id: 477
+url: https://leetcode.com/problems/total-hamming-distance/
+tags: []
+languages: [java]

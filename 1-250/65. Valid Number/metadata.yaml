@@ -1,2 +1,6 @@
 name: Valid Number
 difficulty: Hard
+id: 65
+url: https://leetcode.com/problems/valid-number/
+tags: []
+languages: [java]

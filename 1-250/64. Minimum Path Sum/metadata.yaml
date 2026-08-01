@@ -1,2 +1,6 @@
 name: Minimum Path Sum
 difficulty: Medium
+id: 64
+url: https://leetcode.com/problems/minimum-path-sum/
+tags: []
+languages: [python]

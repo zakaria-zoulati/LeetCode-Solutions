@@ -1,2 +1,6 @@
 name: Number of Ways to Form a Target String Given a Dictionary
 difficulty: Hard
+id: 1639
+url: https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
+tags: []
+languages: [java]

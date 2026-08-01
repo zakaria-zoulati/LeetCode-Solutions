@@ -1,2 +1,6 @@
 name: Maximum Score After Splitting a String
 difficulty: Easy
+id: 1422
+url: https://leetcode.com/problems/maximum-score-after-splitting-a-string/
+tags: []
+languages: [java]

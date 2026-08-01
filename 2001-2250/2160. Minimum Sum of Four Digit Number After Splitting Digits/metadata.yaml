@@ -1,2 +1,6 @@
 name: Minimum Sum of Four Digit Number After Splitting Digits
 difficulty: Easy
+id: 2160
+url: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+tags: []
+languages: [java]

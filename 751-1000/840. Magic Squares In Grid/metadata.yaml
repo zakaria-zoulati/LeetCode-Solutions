@@ -1,2 +1,6 @@
 name: Magic Squares In Grid
 difficulty: Medium
+id: 840
+url: https://leetcode.com/problems/magic-squares-in-grid/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
-name:   Count Symmetric Integers
+name: Count Symmetric Integers
 difficulty: Easy
+id: 2843
+url: https://leetcode.com/problems/count-symmetric-integers/
+tags: []
+languages: [java]

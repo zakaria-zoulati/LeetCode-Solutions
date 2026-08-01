@@ -1,2 +1,6 @@
 name: Matrix Cells in Distance Order
 difficulty: Easy
+id: 1030
+url: https://leetcode.com/problems/matrix-cells-in-distance-order/
+tags: []
+languages: [java]

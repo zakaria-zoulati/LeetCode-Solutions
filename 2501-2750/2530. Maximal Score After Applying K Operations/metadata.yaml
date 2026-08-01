@@ -1,2 +1,6 @@
 name: Maximal Score After Applying K Operations
 difficulty: Medium
+id: 2530
+url: https://leetcode.com/problems/maximal-score-after-applying-k-operations/
+tags: []
+languages: [java]

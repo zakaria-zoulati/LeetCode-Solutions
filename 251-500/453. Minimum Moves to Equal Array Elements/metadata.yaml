@@ -1,2 +1,6 @@
 name: Minimum Moves to Equal Array Elements
 difficulty: Medium
+id: 453
+url: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Maximize Active Section with Trade I
 difficulty: Medium
+id: 3499
+url: https://leetcode.com/problems/maximize-active-section-with-trade-i/
+tags: []
+languages: [cpp]

@@ -1,2 +1,6 @@
 name: Recover a Tree From Preorder Traversal
 difficulty: Hard
+id: 1028
+url: https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
+tags: []
+languages: [java]

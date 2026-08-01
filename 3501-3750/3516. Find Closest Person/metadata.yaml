@@ -1,2 +1,6 @@
 name: Find Closest Person
 difficulty: Easy
+id: 3516
+url: https://leetcode.com/problems/find-closest-person/
+tags: []
+languages: [python]

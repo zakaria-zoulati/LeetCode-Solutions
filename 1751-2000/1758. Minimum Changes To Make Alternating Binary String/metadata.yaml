@@ -1,2 +1,6 @@
 name: Minimum Changes To Make Alternating Binary String
 difficulty: Easy
+id: 1758
+url: https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
+tags: []
+languages: [java]

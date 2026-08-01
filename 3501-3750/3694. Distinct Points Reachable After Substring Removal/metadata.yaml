@@ -1,2 +1,6 @@
 name: Distinct Points Reachable After Substring Removal
 difficulty: Medium
+id: 3694
+url: https://leetcode.com/problems/distinct-points-reachable-after-substring-removal/
+tags: []
+languages: [cpp]

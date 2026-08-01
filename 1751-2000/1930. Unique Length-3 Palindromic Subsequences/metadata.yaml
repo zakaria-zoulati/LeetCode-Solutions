@@ -1,2 +1,6 @@
 name: Unique Length-3 Palindromic Subsequences
 difficulty: Medium
+id: 1930
+url: https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
+tags: []
+languages: [java]

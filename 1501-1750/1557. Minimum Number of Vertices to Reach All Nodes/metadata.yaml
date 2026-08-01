@@ -1,2 +1,6 @@
 name: Minimum Number of Vertices to Reach All Nodes
 difficulty: Medium
+id: 1557
+url: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+tags: []
+languages: [java]

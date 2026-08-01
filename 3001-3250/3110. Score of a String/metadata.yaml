@@ -1,2 +1,6 @@
 name: Score of a String
 difficulty: Easy
+id: 3110
+url: https://leetcode.com/problems/score-of-a-string/
+tags: []
+languages: [go]

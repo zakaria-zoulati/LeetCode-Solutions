@@ -1,2 +1,6 @@
 name: Balanced Binary Tree
 difficulty: Easy
+id: 110
+url: https://leetcode.com/problems/balanced-binary-tree/
+tags: []
+languages: [java]

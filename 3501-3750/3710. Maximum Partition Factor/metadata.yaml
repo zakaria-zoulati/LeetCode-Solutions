@@ -1,2 +1,6 @@
 name: Maximum Partition Factor
 difficulty: Hard
+id: 3710
+url: https://leetcode.com/problems/maximum-partition-factor/
+tags: []
+languages: [cpp]

@@ -1,2 +1,6 @@
 name: Subsets
 difficulty: Medium
+id: 78
+url: https://leetcode.com/problems/subsets/
+tags: []
+languages: [java]

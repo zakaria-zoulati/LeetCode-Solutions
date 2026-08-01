@@ -1,2 +1,6 @@
 name: Longest Happy Prefix
 difficulty: Hard
+id: 1392
+url: https://leetcode.com/problems/longest-happy-prefix/
+tags: []
+languages: [java]

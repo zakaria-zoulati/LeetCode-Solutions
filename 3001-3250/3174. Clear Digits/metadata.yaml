@@ -1,2 +1,6 @@
 name: Clear Digits
 difficulty: Easy
+id: 3174
+url: https://leetcode.com/problems/clear-digits/
+tags: []
+languages: [java]

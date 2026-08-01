@@ -1,2 +1,6 @@
 name: Distinct Prime Factors of Product of Array
 difficulty: Medium
+id: 2521
+url: https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/
+tags: []
+languages: [java]

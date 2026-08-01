@@ -1,2 +1,6 @@
 name: Same Tree
 difficulty: Easy
+id: 100
+url: https://leetcode.com/problems/same-tree/
+tags: []
+languages: [cpp, php]

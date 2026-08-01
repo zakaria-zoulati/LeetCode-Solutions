@@ -1,2 +1,6 @@
 name: Bitwise XOR of All Pairings
 difficulty: Medium
+id: 2425
+url: https://leetcode.com/problems/bitwise-xor-of-all-pairings/
+tags: []
+languages: [java]

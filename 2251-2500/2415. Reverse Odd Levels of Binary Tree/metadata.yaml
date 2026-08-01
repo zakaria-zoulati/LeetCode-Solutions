@@ -1,2 +1,6 @@
 name: Reverse Odd Levels of Binary Tree
 difficulty: Medium
+id: 2415
+url: https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/
+tags: []
+languages: [java]

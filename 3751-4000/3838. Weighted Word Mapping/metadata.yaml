@@ -1,2 +1,6 @@
 name: Weighted Word Mapping
 difficulty: Easy
+id: 3838
+url: https://leetcode.com/problems/weighted-word-mapping/
+tags: []
+languages: [cpp, java]

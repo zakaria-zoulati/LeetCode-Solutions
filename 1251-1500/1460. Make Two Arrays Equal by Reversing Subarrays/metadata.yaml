@@ -1,2 +1,6 @@
 name: Make Two Arrays Equal by Reversing Subarrays
 difficulty: Easy
+id: 1460
+url: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/
+tags: []
+languages: [java]

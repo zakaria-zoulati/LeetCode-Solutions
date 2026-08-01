@@ -1,2 +1,6 @@
 name: Count Sorted Vowel Strings
 difficulty: Medium
+id: 1641
+url: https://leetcode.com/problems/count-sorted-vowel-strings/
+tags: []
+languages: [java]

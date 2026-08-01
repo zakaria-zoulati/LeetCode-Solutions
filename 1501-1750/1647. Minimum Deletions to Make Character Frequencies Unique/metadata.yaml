@@ -1,2 +1,6 @@
 name: Minimum Deletions to Make Character Frequencies Unique
 difficulty: Medium
+id: 1647
+url: https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+tags: []
+languages: [java]

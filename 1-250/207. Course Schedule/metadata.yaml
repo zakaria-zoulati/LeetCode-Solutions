@@ -1,2 +1,6 @@
 name: Course Schedule
 difficulty: Medium
+id: 207
+url: https://leetcode.com/problems/course-schedule/
+tags: []
+languages: [java]

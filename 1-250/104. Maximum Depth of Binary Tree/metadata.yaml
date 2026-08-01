@@ -1,2 +1,6 @@
 name: Maximum Depth of Binary Tree
 difficulty: Easy
+id: 104
+url: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+tags: []
+languages: [java]

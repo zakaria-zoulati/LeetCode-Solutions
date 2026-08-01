@@ -1,2 +1,6 @@
 name: Min Cost Climbing Stairs
 difficulty: Easy
+id: 746
+url: https://leetcode.com/problems/min-cost-climbing-stairs/
+tags: []
+languages: [java]

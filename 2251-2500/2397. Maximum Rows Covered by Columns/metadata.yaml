@@ -1,2 +1,6 @@
 name: Maximum Rows Covered by Columns
 difficulty: Medium
+id: 2397
+url: https://leetcode.com/problems/maximum-rows-covered-by-columns/
+tags: []
+languages: [java]

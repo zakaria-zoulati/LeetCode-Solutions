@@ -1,2 +1,6 @@
 name: Remove Duplicates from Sorted Array II
 difficulty: Medium
+id: 80
+url: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+tags: []
+languages: [java]

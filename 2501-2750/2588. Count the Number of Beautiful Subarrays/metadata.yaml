@@ -1,2 +1,6 @@
 name: Count the Number of Beautiful Subarrays
 difficulty: Medium
+id: 2588
+url: https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Check Distances Between Same Letters
 difficulty: Easy
+id: 2399
+url: https://leetcode.com/problems/check-distances-between-same-letters/
+tags: []
+languages: [java]

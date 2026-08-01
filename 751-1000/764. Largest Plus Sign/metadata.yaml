@@ -1,2 +1,6 @@
 name: Largest Plus Sign
 difficulty: Medium
+id: 764
+url: https://leetcode.com/problems/largest-plus-sign/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Make String a Subsequence Using Cyclic Increments
 difficulty: Medium
+id: 2825
+url: https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/
+tags: []
+languages: [java]

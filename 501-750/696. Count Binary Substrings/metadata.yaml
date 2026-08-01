@@ -1,2 +1,6 @@
 name: Count Binary Substrings
 difficulty: Easy
+id: 696
+url: https://leetcode.com/problems/count-binary-substrings/
+tags: []
+languages: [java]

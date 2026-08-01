@@ -1,2 +1,6 @@
 name: Maximum Product Difference Between Two Pairs
 difficulty: Easy
+id: 1913
+url: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+tags: []
+languages: [java]

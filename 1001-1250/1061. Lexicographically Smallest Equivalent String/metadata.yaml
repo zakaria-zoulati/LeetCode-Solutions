@@ -1,2 +1,6 @@
 name: Lexicographically Smallest Equivalent String
 difficulty: Medium
+id: 1061
+url: https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
+tags: []
+languages: [java]

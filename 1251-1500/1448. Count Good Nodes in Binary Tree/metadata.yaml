@@ -1,2 +1,6 @@
 name: Count Good Nodes in Binary Tree
 difficulty: Medium
+id: 1448
+url: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+tags: []
+languages: [java]

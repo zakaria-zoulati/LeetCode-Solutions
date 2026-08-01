@@ -1,2 +1,6 @@
 name: Check if Matrix Is X-Matrix
 difficulty: Easy
+id: 2319
+url: https://leetcode.com/problems/check-if-matrix-is-x-matrix/
+tags: []
+languages: [cpp, java]

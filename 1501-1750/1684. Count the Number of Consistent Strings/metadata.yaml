@@ -1,2 +1,6 @@
 name: Count the Number of Consistent Strings
 difficulty: Easy
+id: 1684
+url: https://leetcode.com/problems/count-the-number-of-consistent-strings/
+tags: []
+languages: [java]

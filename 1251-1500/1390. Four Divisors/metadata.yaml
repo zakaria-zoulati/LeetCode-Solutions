@@ -1,2 +1,6 @@
 name: Four Divisors
 difficulty: Medium
+id: 1390
+url: https://leetcode.com/problems/four-divisors/
+tags: []
+languages: [java]

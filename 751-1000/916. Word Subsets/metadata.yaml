@@ -1,2 +1,6 @@
 name: Word Subsets
 difficulty: Medium
+id: 916
+url: https://leetcode.com/problems/word-subsets/
+tags: []
+languages: [java]

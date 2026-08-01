@@ -1,2 +1,6 @@
 name: Sum of Unique Elements
 difficulty: Easy
+id: 1748
+url: https://leetcode.com/problems/sum-of-unique-elements/
+tags: []
+languages: [java]

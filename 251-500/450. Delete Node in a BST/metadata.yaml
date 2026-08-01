@@ -1,2 +1,6 @@
 name: Delete Node in a BST
 difficulty: Medium
+id: 450
+url: https://leetcode.com/problems/delete-node-in-a-bst/
+tags: []
+languages: [java]

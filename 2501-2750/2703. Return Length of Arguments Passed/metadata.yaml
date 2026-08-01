@@ -1,2 +1,6 @@
 name: Return Length of Arguments Passed
 difficulty: Easy
+id: 2703
+url: https://leetcode.com/problems/return-length-of-arguments-passed/
+tags: []
+languages: [javascript]

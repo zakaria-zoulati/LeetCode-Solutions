@@ -1,2 +1,6 @@
 name: Find in Mountain Array
 difficulty: Hard
+id: 1095
+url: https://leetcode.com/problems/find-in-mountain-array/
+tags: []
+languages: [java]

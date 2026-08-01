@@ -1,2 +1,6 @@
 name: Multiply Strings
 difficulty: Medium
+id: 43
+url: https://leetcode.com/problems/multiply-strings/
+tags: []
+languages: [java]

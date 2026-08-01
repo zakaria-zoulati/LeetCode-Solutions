@@ -1,2 +1,6 @@
 name: Kth Smallest Element in a Sorted Matrix
 difficulty: Medium
+id: 378
+url: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+tags: []
+languages: [java]

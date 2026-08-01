@@ -1,2 +1,6 @@
 name: Make Number of Distinct Characters Equal
 difficulty: Medium
+id: 2531
+url: https://leetcode.com/problems/make-number-of-distinct-characters-equal/
+tags: []
+languages: [java]

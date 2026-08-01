@@ -1,2 +1,6 @@
 name: Minimum Consecutive Cards to Pick Up
 difficulty: Medium
+id: 2260
+url: https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/
+tags: []
+languages: [java]

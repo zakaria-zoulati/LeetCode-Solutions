@@ -1,2 +1,6 @@
 name: Count Alternating Subarrays
 difficulty: Medium
+id: 3101
+url: https://leetcode.com/problems/count-alternating-subarrays/
+tags: []
+languages: [java]

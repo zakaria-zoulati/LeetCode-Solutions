@@ -1,2 +1,6 @@
 name: Keyboard Row
 difficulty: Easy
+id: 500
+url: https://leetcode.com/problems/keyboard-row/
+tags: []
+languages: [java]

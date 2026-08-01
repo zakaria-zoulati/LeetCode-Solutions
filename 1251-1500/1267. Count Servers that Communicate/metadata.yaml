@@ -1,2 +1,6 @@
 name: Count Servers that Communicate
 difficulty: Medium
+id: 1267
+url: https://leetcode.com/problems/count-servers-that-communicate/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Minimum Difference Between Highest and Lowest of K Scores
 difficulty: Easy
+id: 1984
+url: https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+tags: []
+languages: [java]

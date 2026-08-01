@@ -1,2 +1,6 @@
 name: Power Grid Maintenance
 difficulty: Medium
+id: 3607
+url: https://leetcode.com/problems/power-grid-maintenance/
+tags: []
+languages: [python]

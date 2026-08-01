@@ -1,2 +1,6 @@
 name: Count Partitions with Even Sum Difference
 difficulty: Easy
+id: 3432
+url: https://leetcode.com/problems/count-partitions-with-even-sum-difference/
+tags: []
+languages: [java]

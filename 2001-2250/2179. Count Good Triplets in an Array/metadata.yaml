@@ -1,2 +1,6 @@
 name: Count Good Triplets in an Array
 difficulty: Hard
+id: 2179
+url: https://leetcode.com/problems/count-good-triplets-in-an-array/
+tags: []
+languages: [cpp]

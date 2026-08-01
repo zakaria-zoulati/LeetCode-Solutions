@@ -1,2 +1,6 @@
 name: Minimum Number of Arrows to Burst Balloons
 difficulty: Medium
+id: 452
+url: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+tags: []
+languages: [java]

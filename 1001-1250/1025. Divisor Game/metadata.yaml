@@ -1,2 +1,6 @@
 name: Divisor Game
 difficulty: Easy
+id: 1025
+url: https://leetcode.com/problems/divisor-game/
+tags: []
+languages: [java]

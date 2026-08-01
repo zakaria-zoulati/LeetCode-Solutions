@@ -1,2 +1,6 @@
 name: Min Cost to Connect All Points
 difficulty: Medium
+id: 1584
+url: https://leetcode.com/problems/min-cost-to-connect-all-points/
+tags: []
+languages: [java]

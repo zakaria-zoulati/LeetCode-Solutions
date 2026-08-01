@@ -1,2 +1,6 @@
 name: Palindrome Number
 difficulty: Easy
+id: 9
+url: https://leetcode.com/problems/palindrome-number/
+tags: []
+languages: [cpp, php]

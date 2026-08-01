@@ -1,2 +1,6 @@
 name: Smallest Missing Non-negative Integer After Operations
 difficulty: Medium
+id: 2598
+url: https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
+tags: []
+languages: [java]

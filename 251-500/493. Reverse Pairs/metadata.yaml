@@ -1,2 +1,6 @@
 name: Reverse Pairs
 difficulty: Hard
+id: 493
+url: https://leetcode.com/problems/reverse-pairs/
+tags: []
+languages: [cpp]

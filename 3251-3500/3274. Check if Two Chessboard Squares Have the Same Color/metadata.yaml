@@ -1,2 +1,6 @@
 name: Check if Two Chessboard Squares Have the Same Color
 difficulty: Easy
+id: 3274
+url: https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/
+tags: []
+languages: [java]

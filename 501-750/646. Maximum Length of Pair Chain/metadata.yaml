@@ -1,2 +1,6 @@
 name: Maximum Length of Pair Chain
 difficulty: Medium
+id: 646
+url: https://leetcode.com/problems/maximum-length-of-pair-chain/
+tags: []
+languages: [java]

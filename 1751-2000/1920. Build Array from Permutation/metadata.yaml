@@ -1,2 +1,6 @@
 name: Build Array from Permutation
 difficulty: Easy
+id: 1920
+url: https://leetcode.com/problems/build-array-from-permutation/
+tags: []
+languages: [java]

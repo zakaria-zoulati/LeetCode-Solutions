@@ -1,2 +1,6 @@
 name: Check if a Parentheses String Can Be Valid
 difficulty: Medium
+id: 2116
+url: https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
+tags: []
+languages: [java]

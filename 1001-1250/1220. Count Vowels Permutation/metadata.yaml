@@ -1,2 +1,6 @@
 name: Count Vowels Permutation
 difficulty: Hard
+id: 1220
+url: https://leetcode.com/problems/count-vowels-permutation/
+tags: []
+languages: [cpp]

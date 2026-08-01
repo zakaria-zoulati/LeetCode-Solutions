@@ -1,2 +1,6 @@
 name: Complex Number Multiplication
 difficulty: Medium
+id: 537
+url: https://leetcode.com/problems/complex-number-multiplication/
+tags: []
+languages: [java]

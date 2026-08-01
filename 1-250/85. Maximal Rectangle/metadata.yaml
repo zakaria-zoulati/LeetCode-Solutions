@@ -1,2 +1,6 @@
 name: Maximal Rectangle
 difficulty: Hard
+id: 85
+url: https://leetcode.com/problems/maximal-rectangle/
+tags: []
+languages: [java]

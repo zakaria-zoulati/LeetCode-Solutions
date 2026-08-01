@@ -1,2 +1,6 @@
 name: Diameter of Binary Tree
 difficulty: Easy
+id: 543
+url: https://leetcode.com/problems/diameter-of-binary-tree/
+tags: []
+languages: [java]

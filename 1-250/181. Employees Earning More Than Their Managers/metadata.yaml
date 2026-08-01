@@ -1,2 +1,6 @@
 name: Employees Earning More Than Their Managers
 difficulty: Easy
+id: 181
+url: https://leetcode.com/problems/employees-earning-more-than-their-managers/
+tags: []
+languages: [sql]

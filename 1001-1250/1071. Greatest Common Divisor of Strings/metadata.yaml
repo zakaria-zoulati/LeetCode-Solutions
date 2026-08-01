@@ -1,2 +1,6 @@
 name: Greatest Common Divisor of Strings
 difficulty: Easy
+id: 1071
+url: https://leetcode.com/problems/greatest-common-divisor-of-strings/
+tags: []
+languages: [java]

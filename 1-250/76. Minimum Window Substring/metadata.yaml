@@ -1,2 +1,6 @@
 name: Minimum Window Substring
 difficulty: Hard
+id: 76
+url: https://leetcode.com/problems/minimum-window-substring/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Hamming Distance
 difficulty: Easy
+id: 461
+url: https://leetcode.com/problems/hamming-distance/
+tags: []
+languages: [cpp]

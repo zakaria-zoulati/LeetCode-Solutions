@@ -1,2 +1,6 @@
 name: Maximum Average Pass Ratio
 difficulty: Medium
+id: 1792
+url: https://leetcode.com/problems/maximum-average-pass-ratio/
+tags: []
+languages: [java]

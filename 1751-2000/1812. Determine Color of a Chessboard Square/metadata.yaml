@@ -1,2 +1,6 @@
 name: Determine Color of a Chessboard Square
 difficulty: Easy
+id: 1812
+url: https://leetcode.com/problems/determine-color-of-a-chessboard-square/
+tags: []
+languages: [java]

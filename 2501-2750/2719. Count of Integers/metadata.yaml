@@ -1,2 +1,6 @@
 name: Count of Integers
 difficulty: Hard
+id: 2719
+url: https://leetcode.com/problems/count-of-integers/
+tags: []
+languages: [cpp]

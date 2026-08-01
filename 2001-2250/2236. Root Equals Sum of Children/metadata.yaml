@@ -1,2 +1,6 @@
 name: Root Equals Sum of Children
 difficulty: Easy
+id: 2236
+url: https://leetcode.com/problems/root-equals-sum-of-children/
+tags: []
+languages: [java]

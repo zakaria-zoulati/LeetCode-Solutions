@@ -1,2 +1,6 @@
 name: Maximum Product of Two Digits
 difficulty: Easy
+id: 3536
+url: https://leetcode.com/problems/maximum-product-of-two-digits/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Find the XOR of Numbers Which Appear Twice
 difficulty: Easy
+id: 3158
+url: https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/
+tags: []
+languages: [java]

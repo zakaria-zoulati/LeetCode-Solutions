@@ -1,2 +1,6 @@
 name: Unique Paths
 difficulty: Medium
+id: 62
+url: https://leetcode.com/problems/unique-paths/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Lexicographically Smallest String After a Swap
 difficulty: Easy
+id: 3216
+url: https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/
+tags: []
+languages: [cpp, java]

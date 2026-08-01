@@ -1,2 +1,6 @@
 name: Largest 3-Same-Digit Number in String
 difficulty: Easy
+id: 2264
+url: https://leetcode.com/problems/largest-3-same-digit-number-in-string/
+tags: []
+languages: [java]

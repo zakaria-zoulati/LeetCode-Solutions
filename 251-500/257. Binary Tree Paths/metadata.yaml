@@ -1,2 +1,6 @@
 name: Binary Tree Paths
 difficulty: Easy
+id: 257
+url: https://leetcode.com/problems/binary-tree-paths/
+tags: []
+languages: [java]

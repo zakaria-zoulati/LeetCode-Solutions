@@ -1,2 +1,6 @@
 name: Equal Row and Column Pairs
 difficulty: Medium
+id: 2352
+url: https://leetcode.com/problems/equal-row-and-column-pairs/
+tags: []
+languages: [java]

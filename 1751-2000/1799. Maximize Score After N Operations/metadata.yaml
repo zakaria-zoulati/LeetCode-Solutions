@@ -1,2 +1,6 @@
 name: Maximize Score After N Operations
 difficulty: Hard
+id: 1799
+url: https://leetcode.com/problems/maximize-score-after-n-operations/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Nth Highest Salary
 difficulty: Medium
+id: 177
+url: https://leetcode.com/problems/nth-highest-salary/
+tags: []
+languages: [sql]

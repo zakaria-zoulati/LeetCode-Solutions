@@ -1,2 +1,6 @@
 name: Number of Submatrices That Sum to Target
 difficulty: Hard
+id: 1074
+url: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+tags: []
+languages: [java]

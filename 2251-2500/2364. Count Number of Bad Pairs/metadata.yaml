@@ -1,2 +1,6 @@
 name: Count Number of Bad Pairs
 difficulty: Medium
+id: 2364
+url: https://leetcode.com/problems/count-number-of-bad-pairs/
+tags: []
+languages: [java]

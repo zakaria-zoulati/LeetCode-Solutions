@@ -1,2 +1,6 @@
 name: Move Pieces to Obtain a String
 difficulty: Medium
+id: 2337
+url: https://leetcode.com/problems/move-pieces-to-obtain-a-string/
+tags: []
+languages: [java]

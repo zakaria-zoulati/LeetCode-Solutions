@@ -1,2 +1,6 @@
 name: Longest Non-decreasing Subarray From Two Arrays
 difficulty: Medium
+id: 2771
+url: https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/
+tags: []
+languages: [java]

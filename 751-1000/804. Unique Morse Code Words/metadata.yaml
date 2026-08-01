@@ -1,2 +1,6 @@
 name: Unique Morse Code Words
 difficulty: Easy
+id: 804
+url: https://leetcode.com/problems/unique-morse-code-words/
+tags: []
+languages: [java]

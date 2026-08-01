@@ -1,2 +1,6 @@
 name: Fruit Into Baskets
 difficulty: Medium
+id: 904
+url: https://leetcode.com/problems/fruit-into-baskets/
+tags: []
+languages: [java]

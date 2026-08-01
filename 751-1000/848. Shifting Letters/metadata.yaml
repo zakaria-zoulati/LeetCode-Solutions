@@ -1,2 +1,6 @@
 name: Shifting Letters
 difficulty: Medium
+id: 848
+url: https://leetcode.com/problems/shifting-letters/
+tags: []
+languages: [java]

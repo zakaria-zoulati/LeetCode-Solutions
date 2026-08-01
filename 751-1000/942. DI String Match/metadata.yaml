@@ -1,2 +1,6 @@
 name: DI String Match
 difficulty: Easy
+id: 942
+url: https://leetcode.com/problems/di-string-match/
+tags: []
+languages: [java]

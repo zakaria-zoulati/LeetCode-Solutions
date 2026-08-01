@@ -1,2 +1,6 @@
 name: Count Submatrices With All Ones
 difficulty: Medium
+id: 1504
+url: https://leetcode.com/problems/count-submatrices-with-all-ones/
+tags: []
+languages: [cpp]

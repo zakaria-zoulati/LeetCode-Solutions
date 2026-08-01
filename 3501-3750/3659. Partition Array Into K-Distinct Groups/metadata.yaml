@@ -1,2 +1,6 @@
 name: Partition Array Into K-Distinct Groups
 difficulty: Medium
+id: 3659
+url: https://leetcode.com/problems/partition-array-into-k-distinct-groups/
+tags: []
+languages: [java]

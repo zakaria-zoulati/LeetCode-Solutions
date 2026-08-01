@@ -1,2 +1,6 @@
 name: Minimum Number of Steps to Make Two Strings Anagram
 difficulty: Medium
+id: 1347
+url: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+tags: []
+languages: [java]

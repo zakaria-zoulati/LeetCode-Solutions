@@ -1,2 +1,6 @@
 name: Kth Distinct String in an Array
 difficulty: Easy
+id: 2053
+url: https://leetcode.com/problems/kth-distinct-string-in-an-array/
+tags: []
+languages: [java]

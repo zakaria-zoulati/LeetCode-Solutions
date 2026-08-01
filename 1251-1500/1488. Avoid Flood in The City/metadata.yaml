@@ -1,2 +1,6 @@
 name: Avoid Flood in The City
 difficulty: Medium
+id: 1488
+url: https://leetcode.com/problems/avoid-flood-in-the-city/
+tags: []
+languages: [python]

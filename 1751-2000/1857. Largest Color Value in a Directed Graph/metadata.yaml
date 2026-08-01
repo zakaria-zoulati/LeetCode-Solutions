@@ -1,2 +1,6 @@
 name: Largest Color Value in a Directed Graph
 difficulty: Hard
+id: 1857
+url: https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Count Pairs Whose Sum is Less than Target
 difficulty: Easy
+id: 2824
+url: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+tags: []
+languages: [java]

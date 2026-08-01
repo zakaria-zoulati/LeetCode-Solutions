@@ -1,2 +1,6 @@
 name: Number of Segments in a String
 difficulty: Easy
+id: 434
+url: https://leetcode.com/problems/number-of-segments-in-a-string/
+tags: []
+languages: [java]

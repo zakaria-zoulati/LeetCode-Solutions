@@ -1,2 +1,6 @@
 name: Count Square Submatrices with All Ones
 difficulty: Medium
+id: 1277
+url: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+tags: []
+languages: [java]

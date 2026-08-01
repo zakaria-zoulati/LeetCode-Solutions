@@ -1,2 +1,6 @@
 name: Transform Array by Parity
 difficulty: Easy
+id: 3467
+url: https://leetcode.com/problems/transform-array-by-parity/
+tags: []
+languages: [java]

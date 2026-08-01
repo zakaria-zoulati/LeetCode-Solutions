@@ -1,2 +1,6 @@
 name: Find Closest Node to Given Two Nodes
 difficulty: Medium
+id: 2359
+url: https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
+tags: []
+languages: [java]

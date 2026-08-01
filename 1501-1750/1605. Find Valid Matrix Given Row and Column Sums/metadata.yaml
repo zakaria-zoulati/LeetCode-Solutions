@@ -1,2 +1,6 @@
 name: Find Valid Matrix Given Row and Column Sums
 difficulty: Medium
+id: 1605
+url: https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+tags: []
+languages: [java]

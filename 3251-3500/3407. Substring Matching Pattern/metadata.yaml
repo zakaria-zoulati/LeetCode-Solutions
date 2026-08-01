@@ -1,2 +1,6 @@
 name: Substring Matching Pattern
 difficulty: Easy
+id: 3407
+url: https://leetcode.com/problems/substring-matching-pattern/
+tags: []
+languages: [java]

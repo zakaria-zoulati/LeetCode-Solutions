@@ -1,2 +1,6 @@
 name: Largest Rectangle in Histogram
 difficulty: Hard
+id: 84
+url: https://leetcode.com/problems/largest-rectangle-in-histogram/
+tags: []
+languages: [java]

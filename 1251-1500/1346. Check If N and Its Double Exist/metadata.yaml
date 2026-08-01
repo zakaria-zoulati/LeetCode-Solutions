@@ -1,2 +1,6 @@
 name: Check If N and Its Double Exist
 difficulty: Easy
+id: 1346
+url: https://leetcode.com/problems/check-if-n-and-its-double-exist/
+tags: []
+languages: [cpp, java]

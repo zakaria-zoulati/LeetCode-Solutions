@@ -1,2 +1,6 @@
 name: Split Array Largest Sum
 difficulty: Hard
+id: 410
+url: https://leetcode.com/problems/split-array-largest-sum/
+tags: []
+languages: [java]

@@ -1,2 +1,6 @@
 name: Maximum Balanced Shipments
 difficulty: Medium
+id: 3638
+url: https://leetcode.com/problems/maximum-balanced-shipments/
+tags: []
+languages: [java]

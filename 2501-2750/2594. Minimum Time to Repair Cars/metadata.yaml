@@ -1,2 +1,6 @@
 name: Minimum Time to Repair Cars
 difficulty: Medium
+id: 2594
+url: https://leetcode.com/problems/minimum-time-to-repair-cars/
+tags: []
+languages: [java]

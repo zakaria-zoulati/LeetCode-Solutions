@@ -1,2 +1,6 @@
 name: Unique 3-Digit Even Numbers
 difficulty: Easy
+id: 3483
+url: https://leetcode.com/problems/unique-3-digit-even-numbers/
+tags: []
+languages: [java]

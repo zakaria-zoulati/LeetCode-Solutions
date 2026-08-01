@@ -1,2 +1,6 @@
 name: Three Consecutive Odds
 difficulty: Easy
+id: 1550
+url: https://leetcode.com/problems/three-consecutive-odds/
+tags: []
+languages: [java]

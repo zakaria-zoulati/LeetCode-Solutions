@@ -1,2 +1,6 @@
 name: Permutation in String
 difficulty: Medium
+id: 567
+url: https://leetcode.com/problems/permutation-in-string/
+tags: []
+languages: [java]

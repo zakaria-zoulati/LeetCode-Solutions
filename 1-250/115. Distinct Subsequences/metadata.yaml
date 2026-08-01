@@ -1,2 +1,6 @@
 name: Distinct Subsequences
 difficulty: Hard
+id: 115
+url: https://leetcode.com/problems/distinct-subsequences/
+tags: []
+languages: [cpp]

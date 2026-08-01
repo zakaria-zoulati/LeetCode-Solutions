@@ -1,2 +1,6 @@
 name: Smallest Even Multiple
 difficulty: Easy
+id: 2413
+url: https://leetcode.com/problems/smallest-even-multiple/
+tags: []
+languages: [java]

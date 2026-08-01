@@ -1,2 +1,6 @@
 name: Partition Labels
 difficulty: Medium
+id: 763
+url: https://leetcode.com/problems/partition-labels/
+tags: []
+languages: [java]

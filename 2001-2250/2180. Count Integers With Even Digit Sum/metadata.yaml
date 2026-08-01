@@ -1,2 +1,6 @@
 name: Count Integers With Even Digit Sum
 difficulty: Easy
+id: 2180
+url: https://leetcode.com/problems/count-integers-with-even-digit-sum/
+tags: []
+languages: [java]

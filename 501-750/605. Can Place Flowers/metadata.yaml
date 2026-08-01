@@ -1,2 +1,6 @@
 name: Can Place Flowers
 difficulty: Easy
+id: 605
+url: https://leetcode.com/problems/can-place-flowers/
+tags: []
+languages: [java]
