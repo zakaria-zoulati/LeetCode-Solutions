@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1048** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1052** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -1028,6 +1028,7 @@ All **1048** solved problems, ordered by number. The solution column links to th
 | 3708 | [Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3708.%20Longest%20Fibonacci%20Subarray) |
 | 3709 | [Design Exam Scores Tracker](https://leetcode.com/problems/design-exam-scores-tracker/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3709.%20Design%20Exam%20Scores%20Tracker) |
 | 3710 | [Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | Hard | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3710.%20Maximum%20Partition%20Factor) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3731.%20Find%20Missing%20Elements) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I) |
 | 3741 | [Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II) |
 | 3742 | [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3742.%20Maximum%20Path%20Score%20in%20a%20Grid) |
