@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1052** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1053** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -924,6 +924,7 @@ All **1052** solved problems, ordered by number. The solution column links to th
 | 3332 | [Maximum Points Tourist Can Earn](https://leetcode.com/problems/maximum-points-tourist-can-earn/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3332.%20Maximum%20Points%20Tourist%20Can%20Earn) |
 | 3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3335.%20Total%20Characters%20in%20String%20After%20Transformations%20I) |
 | 3337 | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3337.%20Total%20Characters%20in%20String%20After%20Transformations%20II) |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3251-3500/3345.%20Smallest%20Divisible%20Digit%20Product%20I) |
 | 3346 | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3346.%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I) |
 | 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3251-3500/3349.%20Adjacent%20Increasing%20Subarrays%20Detection%20I) |
 | 3350 | [Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++"> <img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3350.%20Adjacent%20Increasing%20Subarrays%20Detection%20II) |
