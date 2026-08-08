@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1054** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1055** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -912,6 +912,7 @@ All **1054** solved problems, ordered by number. The solution column links to th
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville) |
 | 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++"> <img src="../icons/rust.png" width="16" height="16" alt="Rust" title="Rust">](../3251-3500/3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3251-3500/3302.%20Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence) |
 | 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3304.%20Find%20the%20K-th%20Character%20in%20String%20Game%20I) |
 | 3305 | [Count of Substrings Containing Every Vowel and K Consonants I](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3305.%20Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20I) |
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3306.%20Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II) |
