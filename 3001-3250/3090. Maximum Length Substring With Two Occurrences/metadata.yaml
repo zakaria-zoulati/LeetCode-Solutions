@@ -1,0 +1,6 @@
+name: Maximum Length Substring With Two Occurrences
+difficulty: Easy
+id: 3090
+url: https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/
+tags: ["String","Greedy"]
+languages: [cpp]

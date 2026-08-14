@@ -1,6 +1,6 @@
 # Keywords
 
-Search terms describing this repository: a collection of 1052 LeetCode problem
+Search terms describing this repository: a collection of 1056 LeetCode problem
 solutions across multiple programming languages.
 
 ## Repository
@@ -20,7 +20,7 @@ multi language solutions, polyglot solutions
 ## Difficulty
 
 easy, medium, hard, leetcode easy problems, leetcode medium problems,
-leetcode hard problems, 360 easy, 591 medium, 101 hard
+leetcode hard problems, 362 easy, 593 medium, 101 hard
 
 ## Topics
 
@@ -54,3 +54,22 @@ learn algorithms, study algorithms, algorithm practice, coding practice,
 programming practice, computer science, cs fundamentals, time complexity,
 space complexity, big o, big o notation, optimization, efficient solutions,
 clean code, well documented solutions, explained solutions
+
+## Algorithms and Patterns
+
+knapsack, 0/1 knapsack, unbounded knapsack, coin change, longest increasing
+subsequence, lis, longest common subsequence, lcs, edit distance, digit dp,
+tree dp, bitmask dp, interval dp, state machine dp, kadane, kadane's algorithm,
+matrix exponentiation, floyd warshall, bellman ford, kruskal, prim,
+minimum spanning tree, mst, kahn's algorithm, tarjan, bridges and articulation
+points, strongly connected components, scc, lowest common ancestor, lca,
+binary lifting, euler tour, heavy light decomposition, kmp, z algorithm,
+manacher, aho corasick, rabin karp, sieve of eratosthenes, modular arithmetic,
+modular exponentiation, fast power, gcd, lcm, extended euclid, fermat little
+theorem, inclusion exclusion, meet in the middle, binary search on answer,
+ternary search, quickselect, merge sort, quick sort, cycle detection,
+floyd cycle detection, fast and slow pointers, difference array,
+sparse table, sqrt decomposition, coordinate compression, lazy propagation,
+line sweep, sweep line, dutch national flag, reservoir sampling,
+two heaps, top k elements, monotonic deque, backtracking with pruning,
+greedy exchange argument, dp optimization

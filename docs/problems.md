@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1055** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1056** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -853,6 +853,7 @@ All **1055** solved problems, ordered by number. The solution column links to th
 | 3075 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3075.%20Maximize%20Happiness%20of%20Selected%20Children) |
 | 3084 | [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3084.%20Count%20Substrings%20Starting%20and%20Ending%20with%20Given%20Character) |
 | 3085 | [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3085.%20Minimum%20Deletions%20to%20Make%20String%20K-Special) |
+| 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3001-3250/3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences) |
 | 3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | Hard | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3001-3250/3093.%20Longest%20Common%20Suffix%20Queries) |
 | 3095 | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3095.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20I) |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java"> <img src="../icons/rust.png" width="16" height="16" alt="Rust" title="Rust">](../3001-3250/3099.%20Harshad%20Number) |
