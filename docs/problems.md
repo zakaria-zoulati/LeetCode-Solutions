@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1056** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1057** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -1027,6 +1027,7 @@ All **1056** solved problems, ordered by number. The solution column links to th
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3693.%20Climbing%20Stairs%20II) |
 | 3694 | [Distinct Points Reachable After Substring Removal](https://leetcode.com/problems/distinct-points-reachable-after-substring-removal/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3694.%20Distinct%20Points%20Reachable%20After%20Substring%20Removal) |
 | 3695 | [Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | Hard | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3695.%20Maximize%20Alternating%20Sum%20Using%20Swaps) |
+| 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) |
 | 3707 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3707.%20Equal%20Score%20Substrings) |
 | 3708 | [Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3708.%20Longest%20Fibonacci%20Subarray) |
 | 3709 | [Design Exam Scores Tracker](https://leetcode.com/problems/design-exam-scores-tracker/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3709.%20Design%20Exam%20Scores%20Tracker) |

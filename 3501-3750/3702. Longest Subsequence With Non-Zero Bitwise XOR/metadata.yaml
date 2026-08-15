@@ -1,0 +1,6 @@
+name: Longest Subsequence With Non-Zero Bitwise XOR
+difficulty: Medium
+id: 3702
+url: https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/
+tags: ["Array","Bit Manipulation","Greedy"]
+languages: [cpp]
