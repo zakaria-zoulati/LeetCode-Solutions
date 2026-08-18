@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1057** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1058** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -960,6 +960,7 @@ All **1057** solved problems, ordered by number. The solution column links to th
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3467.%20Transform%20Array%20by%20Parity) |
 | 3468 | [Find the Number of Copy Arrays](https://leetcode.com/problems/find-the-number-of-copy-arrays/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3468.%20Find%20the%20Number%20of%20Copy%20Arrays) |
 | 3469 | [Find Minimum Cost to Remove Array Elements](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/) | Medium | [<img src="../icons/python.png" width="16" height="16" alt="Python" title="Python">](../3251-3500/3469.%20Find%20Minimum%20Cost%20to%20Remove%20Array%20Elements) |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3251-3500/3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer) |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3477.%20Fruits%20Into%20Baskets%20II) |
 | 3478 | [Choose K Elements With Maximum Sum](https://leetcode.com/problems/choose-k-elements-with-maximum-sum/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3478.%20Choose%20K%20Elements%20With%20Maximum%20Sum) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3483.%20Unique%203-Digit%20Even%20Numbers) |

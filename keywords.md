@@ -1,6 +1,6 @@
 # Keywords
 
-Search terms describing this repository: a collection of 1057 LeetCode problem
+Search terms describing this repository: a collection of 1058 LeetCode problem
 solutions across multiple programming languages.
 
 ## Repository
@@ -20,7 +20,7 @@ multi language solutions, polyglot solutions
 ## Difficulty
 
 easy, medium, hard, leetcode easy problems, leetcode medium problems,
-leetcode hard problems, 362 easy, 594 medium, 101 hard
+leetcode hard problems, 362 easy, 595 medium, 101 hard
 
 ## Topics
 
