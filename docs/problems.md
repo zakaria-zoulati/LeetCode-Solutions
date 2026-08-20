@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1058** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1059** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -849,6 +849,7 @@ All **1058** solved problems, ordered by number. The solution column links to th
 | 3026 | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3026.%20Maximum%20Good%20Subarray%20Sum) |
 | 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I) |
 | 3066 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II) |
+| 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3001-3250/3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I) |
 | 3074 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3074.%20Apple%20Redistribution%20into%20Boxes) |
 | 3075 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3075.%20Maximize%20Happiness%20of%20Selected%20Children) |
 | 3084 | [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3001-3250/3084.%20Count%20Substrings%20Starting%20and%20Ending%20with%20Given%20Character) |

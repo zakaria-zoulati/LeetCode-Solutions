@@ -1,6 +1,6 @@
 # Keywords
 
-Search terms describing this repository: a collection of 1058 LeetCode problem
+Search terms describing this repository: a collection of 1059 LeetCode problem
 solutions across multiple programming languages.
 
 ## Repository
@@ -21,6 +21,13 @@ multi language solutions, polyglot solutions
 
 easy, medium, hard, leetcode easy problems, leetcode medium problems,
 leetcode hard problems, 362 easy, 595 medium, 101 hard
+
+## Companies
+
+Google, Amazon, Meta, Microsoft, Apple, Facebook, Netflix, Tesla, Uber, LinkedIn,
+IBM, Oracle, Adobe, Nvidia, Intel, Qualcomm, AMD, Cisco, Salesforce, Airbnb,
+Stripe, Dropbox, Spotify, Slack, ByteDance, TikTok, Alibaba, Tencent, Baidu,
+JPMorgan Chase, Goldman Sachs, Morgan Stanley, Citadel, Two Sigma
 
 ## Topics
 

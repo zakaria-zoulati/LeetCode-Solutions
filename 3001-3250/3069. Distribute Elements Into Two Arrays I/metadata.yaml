@@ -1,0 +1,6 @@
+name: Distribute Elements Into Two Arrays I
+difficulty: Easy
+id: 3069
+url: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
+tags: [array, simulation]
+languages: [cpp]
