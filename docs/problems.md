@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1059** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1060** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -987,6 +987,7 @@ All **1059** solved problems, ordered by number. The solution column links to th
 | 3567 | [Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix) |
 | 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3606.%20Coupon%20Code%20Validator) |
 | 3607 | [Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | Medium | [<img src="../icons/python.png" width="16" height="16" alt="Python" title="Python">](../3501-3750/3607.%20Power%20Grid%20Maintenance) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3622.%20Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) |
 | 3623 | [Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3623.%20Count%20Number%20of%20Trapezoids%20I) |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation) |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I) |
