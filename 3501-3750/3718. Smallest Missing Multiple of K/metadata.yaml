@@ -1,0 +1,6 @@
+name: Smallest Missing Multiple of K
+difficulty: Easy
+id: 3718
+url: https://leetcode.com/problems/smallest-missing-multiple-of-k/
+tags: [array, hash-table, math]
+languages: [cpp]
