@@ -1,0 +1,7 @@
+id: 2948
+title: Make Lexicographically Smallest Array by Swapping Elements
+difficulty: Medium
+category: Union-Find
+languages:
+  - cpp
+link: https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/

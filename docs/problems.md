@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1060** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1061** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -828,6 +828,7 @@ All **1060** solved problems, ordered by number. The solution column links to th
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2751-3000/2938.%20Separate%20Black%20and%20White%20Balls) |
 | 2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2751-3000/2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts) |
 | 2947 | [Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/) | Medium | [<img src="../icons/python.png" width="16" height="16" alt="Python" title="Python">](../2751-3000/2947.%20Count%20Beautiful%20Substrings%20I) |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../2751-3000/2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements) |
 | 2957 | [Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2751-3000/2957.%20Remove%20Adjacent%20Almost-Equal%20Characters) |
 | 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2751-3000/2962.%20Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2751-3000/2965.%20Find%20Missing%20and%20Repeated%20Values) |
