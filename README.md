@@ -2,7 +2,7 @@
 
 # LeetCode Solutions
 
-**1,062 problems. 9 languages. Two years, every month.**
+**1,063 problems. 9 languages. Two years, every month.**
 
 <img src="icons/java.png" width="28" height="28" alt="Java" title="Java">&nbsp;&nbsp;
 <img src="icons/cpp.png" width="28" height="28" alt="C++" title="C++">&nbsp;&nbsp;
@@ -14,5 +14,5 @@
 <img src="icons/sql.png" width="28" height="28" alt="SQL" title="SQL">&nbsp;&nbsp;
 <img src="icons/dart.png" width="28" height="28" alt="Dart" title="Dart">
 
-### [**Browse all 1,062 problems →**](docs/problems.md)
+### [**Browse all 1,063 problems →**](docs/problems.md)
 
