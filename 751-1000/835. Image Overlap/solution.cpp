@@ -11,8 +11,8 @@ public:
         int start_y = max( 0 , -y ) , end_y = min( n-1 , n-1 - y )  ; 
         for( int i=start_x ; i<=end_x ; ++i ){
             for( int j=start_y ; j<=end_y ; ++j ){
-                if( img2[i+x][j+y] == 0 ) continue ;  
-                ans += img1[i][j];
+                if( img2[i][j] == 0 ) continue ;  
+                ans += img1[i+x][j+y];
             }
         }
         return ans ; 
