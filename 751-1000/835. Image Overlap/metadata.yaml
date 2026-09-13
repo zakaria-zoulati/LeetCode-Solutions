@@ -1,0 +1,6 @@
+name: Image Overlap
+difficulty: Medium
+id: 835
+url: https://leetcode.com/problems/image-overlap/
+tags: [array, matrix]
+languages: [cpp]

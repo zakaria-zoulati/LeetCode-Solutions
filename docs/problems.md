@@ -265,6 +265,7 @@ All **1061** solved problems, ordered by number. The solution column links to th
 | 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/827.%20Making%20A%20Large%20Island) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/832.%20Flipping%20an%20Image) |
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/834.%20Sum%20of%20Distances%20in%20Tree) |
+| 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../751-1000/835.%20Image%20Overlap) |
 | 837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/837.%20New%2021%20Game) |
 | 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/840.%20Magic%20Squares%20In%20Grid) |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/841.%20Keys%20and%20Rooms) |
