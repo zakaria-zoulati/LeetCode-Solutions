@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1061** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1062** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -415,6 +415,7 @@ All **1061** solved problems, ordered by number. The solution column links to th
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1395.%20Count%20Number%20of%20Teams) |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1399.%20Count%20Largest%20Group) |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1400.%20Construct%20K%20Palindrome%20Strings) |
+| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../1251-1500/1401.%20Circle%20and%20Rectangle%20Overlapping) |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1402.%20Reducing%20Dishes) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1405.%20Longest%20Happy%20String) |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1408.%20String%20Matching%20in%20an%20Array) |
