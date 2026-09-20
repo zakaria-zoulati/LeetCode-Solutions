@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1063** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1064** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -974,6 +974,7 @@ All **1063** solved problems, ordered by number. The solution column links to th
 | 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3487.%20Maximum%20Unique%20Subarray%20Sum%20After%20Deletion) |
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3494.%20Find%20the%20Minimum%20Amount%20of%20Time%20to%20Brew%20Potions) |
 | 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3495.%20Minimum%20Operations%20to%20Make%20Array%20Elements%20Zero) |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3251-3500/3498.%20Reverse%20Degree%20of%20a%20String) |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3251-3500/3499.%20Maximize%20Active%20Section%20with%20Trade%20I) |
 | 3502 | [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3502.%20Minimum%20Cost%20to%20Reach%20Every%20Position) |
 | 3503 | [Longest Palindrome After Substring Concatenation I](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3503.%20Longest%20Palindrome%20After%20Substring%20Concatenation%20I) |
