@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1062** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1063** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -272,6 +272,7 @@ All **1062** solved problems, ordered by number. The solution column links to th
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/844.%20Backspace%20String%20Compare) |
 | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/845.%20Longest%20Mountain%20in%20Array) |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/848.%20Shifting%20Letters) |
+| 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | Hard | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../751-1000/850.%20Rectangle%20Area%20II) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/852.%20Peak%20Index%20in%20a%20Mountain%20Array) |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/859.%20Buddy%20Strings) |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../751-1000/860.%20Lemonade%20Change) |
