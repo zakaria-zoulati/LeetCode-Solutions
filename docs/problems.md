@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1064** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1069** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -524,6 +524,7 @@ All **1064** solved problems, ordered by number. The solution column links to th
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1792.%20Maximum%20Average%20Pass%20Ratio) |
 | 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1799.%20Maximize%20Score%20After%20N%20Operations) |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1800.%20Maximum%20Ascending%20Subarray%20Sum) |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../1751-2000/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square) |
 | 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1814.%20Count%20Nice%20Pairs%20in%20an%20Array) |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1822.%20Sign%20of%20the%20Product%20of%20an%20Array) |
