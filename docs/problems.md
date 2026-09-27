@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1069** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1070** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -348,6 +348,7 @@ All **1069** solved problems, ordered by number. The solution column links to th
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1001-1250/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree) |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1001-1250/1175.%20Prime%20Arrangements) |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1001-1250/1185.%20Day%20of%20the%20Week) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../1001-1250/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java"> <img src="../icons/python.png" width="16" height="16" alt="Python" title="Python">](../1001-1250/1200.%20Minimum%20Absolute%20Difference) |
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1001-1250/1201.%20Ugly%20Number%20III) |
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | Medium | [<img src="../icons/python.png" width="16" height="16" alt="Python" title="Python">](../1001-1250/1202.%20Smallest%20String%20With%20Swaps) |

@@ -1,0 +1,6 @@
+name: Reverse Substrings Between Each Pair of Parentheses
+difficulty: Medium
+id: 1190
+url: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
+tags: [stack, string]
+languages: [cpp]
