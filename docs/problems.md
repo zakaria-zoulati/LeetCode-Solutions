@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1070** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1071** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -652,6 +652,7 @@ All **1070** solved problems, ordered by number. The solution column links to th
 | 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2260.%20Minimum%20Consecutive%20Cards%20to%20Pick%20Up) |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2264.%20Largest%203-Same-Digit%20Number%20in%20String) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) |
+| 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | Hard | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../2251-2500/2267.%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path) |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2270.%20Number%20of%20Ways%20to%20Split%20Array) |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../2251-2500/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams) |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2275.%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero) |
