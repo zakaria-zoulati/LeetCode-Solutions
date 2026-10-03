@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1071** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1072** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -698,6 +698,7 @@ All **1071** solved problems, ordered by number. The solution column links to th
 | 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2399.%20Check%20Distances%20Between%20Same%20Letters) |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2401.%20Longest%20Nice%20Subarray) |
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2405.%20Optimal%20Partition%20of%20String) |
+| 2407 | [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/) | Hard | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../2251-2500/2407.%20Longest%20Increasing%20Subsequence%20II) |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers) |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../2251-2500/2411.%20Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2413.%20Smallest%20Even%20Multiple) |

@@ -1,0 +1,6 @@
+name: Longest Increasing Subsequence II
+difficulty: Hard
+id: 2407
+url: https://leetcode.com/problems/longest-increasing-subsequence-ii/
+tags: [array, divide-and-conquer, dynamic-programming, binary-indexed-tree, segment-tree, queue, monotonic-queue]
+languages: [cpp]
