@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1072** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1073** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -465,6 +465,7 @@ All **1072** solved problems, ordered by number. The solution column links to th
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1501-1750/1528.%20Shuffle%20String) |
 | 1529 | [Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1501-1750/1529.%20Minimum%20Suffix%20Flips) |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1501-1750/1539.%20Kth%20Missing%20Positive%20Number) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../1501-1750/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) |
 | 1542 | [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1501-1750/1542.%20Find%20Longest%20Awesome%20Substring) |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1501-1750/1550.%20Three%20Consecutive%20Odds) |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++"> <img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1501-1750/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal) |

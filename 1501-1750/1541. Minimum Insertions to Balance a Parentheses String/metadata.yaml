@@ -1,0 +1,6 @@
+name: Minimum Insertions to Balance a Parentheses String
+difficulty: Medium
+id: 1541
+url: https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+tags: [string, stack, greedy]
+languages: [cpp]
