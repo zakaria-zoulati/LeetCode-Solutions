@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1073** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1074** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -674,6 +674,7 @@ All **1073** solved problems, ordered by number. The solution column links to th
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2326.%20Spiral%20Matrix%20IV) |
 | 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2327.%20Number%20of%20People%20Aware%20of%20a%20Secret) |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2331.%20Evaluate%20Boolean%20Binary%20Tree) |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../2251-2500/2333.%20Minimum%20Sum%20of%20Squared%20Difference) |
 | 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2335.%20Minimum%20Amount%20of%20Time%20to%20Fill%20Cups) |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2336.%20Smallest%20Number%20in%20Infinite%20Set) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2251-2500/2337.%20Move%20Pieces%20to%20Obtain%20a%20String) |

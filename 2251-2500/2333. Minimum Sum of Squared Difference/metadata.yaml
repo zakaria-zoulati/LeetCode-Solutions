@@ -1,0 +1,6 @@
+name: Minimum Sum of Squared Difference
+difficulty: Medium
+id: 2333
+url: https://leetcode.com/problems/minimum-sum-of-squared-difference/
+tags: [array, binary-search, greedy, sorting, heap-priority-queue]
+languages: [cpp]
