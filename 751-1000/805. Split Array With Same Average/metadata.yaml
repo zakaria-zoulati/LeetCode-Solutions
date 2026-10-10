@@ -1,0 +1,6 @@
+name: Split Array With Same Average
+difficulty: Hard
+id: 805
+url: https://leetcode.com/problems/split-array-with-same-average/
+tags: [array, math, dynamic-programming, bit-manipulation, bitmask]
+languages: [cpp]

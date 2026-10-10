@@ -3,4 +3,4 @@ difficulty: Easy
 id: 762
 url: https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 tags: []
-languages: [java]
+languages: [cpp, python]
