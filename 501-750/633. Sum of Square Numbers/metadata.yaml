@@ -1,0 +1,6 @@
+name: Sum of Square Numbers
+difficulty: Medium
+id: 633
+url: https://leetcode.com/problems/sum-of-square-numbers/
+tags: [math, two-pointers, binary-search]
+languages: [cpp]

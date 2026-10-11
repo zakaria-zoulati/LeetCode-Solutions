@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1072** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1073** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -204,6 +204,7 @@ All **1072** solved problems, ordered by number. The solution column links to th
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [<img src="../icons/sql.png" width="16" height="16" alt="SQL" title="SQL">](../501-750/620.%20Not%20Boring%20Movies) |
 | 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../501-750/624.%20Maximum%20Distance%20in%20Arrays) |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../501-750/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists) |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../501-750/633.%20Sum%20of%20Square%20Numbers) |
 | 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../501-750/639.%20Decode%20Ways%20II) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../501-750/643.%20Maximum%20Average%20Subarray%20I) |
 | 646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../501-750/646.%20Maximum%20Length%20of%20Pair%20Chain) |
