@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1073** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1074** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |

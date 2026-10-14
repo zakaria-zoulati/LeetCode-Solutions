@@ -1,0 +1,6 @@
+name: Maximize Sum of Squares of Digits
+difficulty: Medium
+id: 3723
+url: https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
+tags: [array, string]
+languages: [cpp]
