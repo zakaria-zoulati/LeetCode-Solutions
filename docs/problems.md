@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1074** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1075** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -995,6 +995,7 @@ All **1074** solved problems, ordered by number. The solution column links to th
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3541.%20Find%20Most%20Frequent%20Vowel%20and%20Consonant) |
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3546.%20Equal%20Sum%20Grid%20Partition%20I) |
 | 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3548.%20Equal%20Sum%20Grid%20Partition%20II) |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) |
 | 3566 | [Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3566.%20Partition%20Array%20into%20Two%20Equal%20Product%20Subsets) |
 | 3567 | [Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix) |
 | 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3606.%20Coupon%20Code%20Validator) |
@@ -1047,6 +1048,7 @@ All **1074** solved problems, ordered by number. The solution column links to th
 | 3709 | [Design Exam Scores Tracker](https://leetcode.com/problems/design-exam-scores-tracker/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3709.%20Design%20Exam%20Scores%20Tracker) |
 | 3710 | [Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | Hard | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3710.%20Maximum%20Partition%20Factor) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3718.%20Smallest%20Missing%20Multiple%20of%20K) |
+| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3731.%20Find%20Missing%20Elements) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I) |
 | 3741 | [Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II) |

@@ -1,0 +1,6 @@
+name: Minimum Swaps to Sort by Digit Sum
+difficulty: Medium
+id: 3551
+url: https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/
+tags: [array, hash-table, sorting]
+languages: [cpp]
