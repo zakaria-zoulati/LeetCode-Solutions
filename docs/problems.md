@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1075** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1076** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -365,6 +365,7 @@ All **1075** solved problems, ordered by number. The solution column links to th
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1001-1250/1248.%20Count%20Number%20of%20Nice%20Subarrays) |
 | 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1001-1250/1250.%20Check%20If%20It%20Is%20a%20Good%20Array) |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../1251-1500/1254.%20Number%20of%20Closed%20Islands) |
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1255.%20Maximum%20Score%20Words%20Formed%20by%20Letters) |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree) |
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1251-1500/1262.%20Greatest%20Sum%20Divisible%20by%20Three) |

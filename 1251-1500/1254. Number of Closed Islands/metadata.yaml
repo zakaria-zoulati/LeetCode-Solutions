@@ -1,0 +1,6 @@
+name: Number of Closed Islands
+difficulty: Medium
+id: 1254
+url: https://leetcode.com/problems/number-of-closed-islands/
+tags: [array, depth-first-search, breadth-first-search, union-find, matrix]
+languages: [cpp]
