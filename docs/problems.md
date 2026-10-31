@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1076** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1077** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -1039,6 +1039,7 @@ All **1076** solved problems, ordered by number. The solution column links to th
 | 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3684.%20Maximize%20Sum%20of%20At%20Most%20K%20Distinct%20Elements) |
 | 3685 | [Subsequence Sum After Capping Elements](https://leetcode.com/problems/subsequence-sum-after-capping-elements/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3685.%20Subsequence%20Sum%20After%20Capping%20Elements) |
 | 3686 | [Number of Stable Subsequences](https://leetcode.com/problems/number-of-stable-subsequences/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3686.%20Number%20of%20Stable%20Subsequences) |
+| 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3689.%20Maximum%20Total%20Subarray%20Value%20I) |
 | 3692 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3692.%20Majority%20Frequency%20Characters) |
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3501-3750/3693.%20Climbing%20Stairs%20II) |
 | 3694 | [Distinct Points Reachable After Substring Removal](https://leetcode.com/problems/distinct-points-reachable-after-substring-removal/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3501-3750/3694.%20Distinct%20Points%20Reachable%20After%20Substring%20Removal) |

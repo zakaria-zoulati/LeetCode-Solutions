@@ -1,0 +1,6 @@
+name: Maximum Total Subarray Value I
+difficulty: Medium
+id: 3689
+url: https://leetcode.com/problems/maximum-total-subarray-value-i/
+tags: [array, greedy]
+languages: [cpp]

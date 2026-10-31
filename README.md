@@ -2,10 +2,10 @@
 
 # LeetCode Solutions
 
-**1,076 problems. 9 languages. Two years, every month.**
+**1,077 problems. 9 languages. Two years, every month.**
 
 <img src="https://img.shields.io/badge/Easy-364-00b8a3?style=for-the-badge" alt="Easy: 364">&nbsp;
-<img src="https://img.shields.io/badge/Medium-606-ffc01e?style=for-the-badge" alt="Medium: 606">&nbsp;
+<img src="https://img.shields.io/badge/Medium-607-ffc01e?style=for-the-badge" alt="Medium: 607">&nbsp;
 <img src="https://img.shields.io/badge/Hard-106-ef4743?style=for-the-badge" alt="Hard: 106">
 
 <img src="icons/java.png" width="28" height="28" alt="Java" title="Java">&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 <img src="icons/sql.png" width="28" height="28" alt="SQL" title="SQL">&nbsp;&nbsp;
 <img src="icons/dart.png" width="28" height="28" alt="Dart" title="Dart">
 
-### [**Browse all 1,076 problems**](docs/problems.md)
+### [**Browse all 1,077 problems**](docs/problems.md)
 
 </div>
 
