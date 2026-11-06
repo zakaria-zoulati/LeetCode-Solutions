@@ -1,0 +1,6 @@
+name: Count Zero Request Servers
+difficulty: Medium
+id: 2747
+url: https://leetcode.com/problems/count-zero-request-servers/
+tags: [array, hash-table, sliding-window, sorting]
+languages: [cpp]

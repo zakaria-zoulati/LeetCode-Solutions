@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1077** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1078** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -800,6 +800,7 @@ All **1077** solved problems, ordered by number. The solution column links to th
 | 2719 | [Count of Integers](https://leetcode.com/problems/count-of-integers/) | Hard | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../2501-2750/2719.%20Count%20of%20Integers) |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2501-2750/2744.%20Find%20Maximum%20Number%20of%20String%20Pairs) |
 | 2745 | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2501-2750/2745.%20Construct%20the%20Longest%20New%20String) |
+| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../2501-2750/2747.%20Count%20Zero%20Request%20Servers) |
 | 2748 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2501-2750/2748.%20Number%20of%20Beautiful%20Pairs) |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2501-2750/2749.%20Minimum%20Operations%20to%20Make%20the%20Integer%20Zero) |
 | 2761 | [Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../2751-3000/2761.%20Prime%20Pairs%20With%20Target%20Sum) |
