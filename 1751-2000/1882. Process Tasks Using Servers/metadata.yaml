@@ -1,0 +1,6 @@
+name: Process Tasks Using Servers
+difficulty: Medium
+id: 1882
+url: https://leetcode.com/problems/process-tasks-using-servers/
+tags: [array, heap-priority-queue]
+languages: [cpp]

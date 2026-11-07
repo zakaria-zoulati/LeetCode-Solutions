@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1078** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1079** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -550,6 +550,7 @@ All **1078** solved problems, ordered by number. The solution column links to th
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../1751-2000/1871.%20Jump%20Game%20VII) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words) |
+| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../1751-2000/1882.%20Process%20Tasks%20Using%20Servers) |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) |
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../1751-2000/1903.%20Largest%20Odd%20Number%20in%20String) |
