@@ -1,6 +1,6 @@
 # Problem Index
 
-All **1079** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
+All **1080** solved problems, ordered by number. The solution column links to the folder; the title links to LeetCode.
 
 | # | Problem | Difficulty | Solutions |
 | ---: | :--- | :--- | :--- |
@@ -949,6 +949,7 @@ All **1079** solved problems, ordered by number. The solution column links to th
 | 3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3355.%20Zero%20Array%20Transformation%20I) |
 | 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | Medium | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3356.%20Zero%20Array%20Transformation%20II) |
 | 3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | Hard | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3363.%20Find%20the%20Maximum%20Number%20of%20Fruits%20Collected) |
+| 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | [<img src="../icons/cpp.png" width="16" height="16" alt="C++" title="C++">](../3251-3500/3364.%20Minimum%20Positive%20Sum%20Subarray) |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3370.%20Smallest%20Number%20With%20All%20Set%20Bits) |
 | 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3375.%20Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K) |
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | [<img src="../icons/java.png" width="16" height="16" alt="Java" title="Java">](../3251-3500/3379.%20Transformed%20Array) |

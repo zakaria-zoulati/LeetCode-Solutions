@@ -1,0 +1,6 @@
+name: Minimum Positive Sum Subarray
+difficulty: Easy
+id: 3364
+url: https://leetcode.com/problems/minimum-positive-sum-subarray/
+tags: [array, sliding-window, prefix-sum]
+languages: [cpp]
